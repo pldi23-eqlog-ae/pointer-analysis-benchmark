@@ -1,0 +1,6 @@
+*null*	*global_alloc@empty_filler
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@outlist_head	*global_alloc@outlist_end
+*global_alloc@slotvec0	*global_alloc@slotvec

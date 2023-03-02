@@ -1,0 +1,17 @@
+*null*	*global_alloc@progname
+*null*	*global_alloc@pgdata_native
+*null*	*global_alloc@share_path
+*null*	*global_alloc@bki_file
+*null*	*global_alloc@desc_file
+*null*	*global_alloc@shdesc_file
+*null*	*global_alloc@hba_file
+*null*	*global_alloc@ident_file
+*null*	*global_alloc@conf_file
+*null*	*global_alloc@conversion_file
+*null*	*global_alloc@dictionary_file
+*null*	*global_alloc@info_schema_file
+*null*	*global_alloc@features_file
+*null*	*global_alloc@system_views_file
+*null*	*global_alloc@pwfilename
+*null*	*global_alloc@authwarning
+*null*	*global_alloc@dynamic_shared_memory_type

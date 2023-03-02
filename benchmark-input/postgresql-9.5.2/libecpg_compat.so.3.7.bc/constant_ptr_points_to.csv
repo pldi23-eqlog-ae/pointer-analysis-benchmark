@@ -1,0 +1,6 @@
+*null*	*global_alloc@all_connections
+*null*	*global_alloc@actual_connection
+*null*	*global_alloc@debugstream
+*null*	*global_alloc@ivlist
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock
+*global_alloc@default_threadlock.533	*global_alloc@pg_g_threadlock.532

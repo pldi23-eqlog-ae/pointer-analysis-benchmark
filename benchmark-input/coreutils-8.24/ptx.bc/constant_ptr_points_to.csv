@@ -1,0 +1,11 @@
+*null*	*global_alloc@break_file
+*null*	*global_alloc@ignore_file
+*null*	*global_alloc@only_file
+*null*	*global_alloc@input_file_name
+*null*	*global_alloc@file_line_count
+*null*	*global_alloc@text_buffers
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@__argmatch_die	*global_alloc@argmatch_die
+*global_alloc@slotvec0	*global_alloc@slotvec

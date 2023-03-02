@@ -1,0 +1,10 @@
+*null*	*global_alloc@specified_user
+*null*	*global_alloc@specified_role
+*null*	*global_alloc@specified_type
+*null*	*global_alloc@specified_range
+*null*	*global_alloc@specified_context
+*null*	*global_alloc@root_dev_ino
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

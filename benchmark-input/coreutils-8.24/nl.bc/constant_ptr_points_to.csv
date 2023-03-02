@@ -1,0 +1,10 @@
+*null*	*global_alloc@header_del
+*null*	*global_alloc@body_del
+*null*	*global_alloc@footer_del
+*null*	*global_alloc@print_no_line_fmt
+*null*	*global_alloc@current_type
+*null*	*global_alloc@current_regex
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

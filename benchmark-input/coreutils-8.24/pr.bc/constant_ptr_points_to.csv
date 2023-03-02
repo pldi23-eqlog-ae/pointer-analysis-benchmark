@@ -1,0 +1,14 @@
+*null*	*global_alloc@date_format
+*null*	*global_alloc@custom_header
+*null*	*global_alloc@number_buff
+*null*	*global_alloc@clump_buff
+*null*	*global_alloc@column_vector
+*null*	*global_alloc@date_text
+*null*	*global_alloc@file_text
+*null*	*global_alloc@line_vector
+*null*	*global_alloc@end_vector
+*null*	*global_alloc@buff
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

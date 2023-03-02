@@ -1,0 +1,9 @@
+*null*	*global_alloc@output_delimiter_string
+*null*	*global_alloc@set_fields.num_start
+*null*	*global_alloc@rp
+*null*	*global_alloc@current_rp
+*null*	*global_alloc@field_1_buffer
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

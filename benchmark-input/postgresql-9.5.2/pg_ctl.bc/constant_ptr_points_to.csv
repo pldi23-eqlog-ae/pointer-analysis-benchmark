@@ -1,0 +1,12 @@
+*null*	*global_alloc@progname
+*null*	*global_alloc@argv0
+*null*	*global_alloc@pgdata_opt
+*null*	*global_alloc@event_source
+*null*	*global_alloc@log_file
+*null*	*global_alloc@post_opts
+*null*	*global_alloc@exec_path
+*null*	*global_alloc@register_password
+*null*	*global_alloc@register_username
+*null*	*global_alloc@pg_config
+*null*	*global_alloc@pg_data
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock

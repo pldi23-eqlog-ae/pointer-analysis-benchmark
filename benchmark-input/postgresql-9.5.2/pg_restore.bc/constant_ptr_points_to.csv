@@ -1,0 +1,5 @@
+*null*	*global_alloc@progname
+*null*	*global_alloc@getThreadLocalPQExpBuffer.s_id_return
+*null*	*global_alloc@defaultGetLocalPQExpBuffer.id_return
+*global_alloc@defaultGetLocalPQExpBuffer	*global_alloc@getLocalPQExpBuffer
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock

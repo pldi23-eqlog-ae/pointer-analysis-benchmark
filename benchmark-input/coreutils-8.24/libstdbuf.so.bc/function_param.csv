@@ -1,0 +1,3 @@
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/libstdbuf.so.bc>:apply_mode	0	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/libstdbuf.so.bc>:apply_mode:%stream
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/libstdbuf.so.bc>:apply_mode	1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/libstdbuf.so.bc>:apply_mode:%mode
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/libstdbuf.so.bc>:fileno_to_name	0	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/libstdbuf.so.bc>:fileno_to_name:%fd

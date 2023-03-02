@@ -1,0 +1,3 @@
+*null*	*global_alloc@streamConn
+*null*	*global_alloc@recvBuf
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock

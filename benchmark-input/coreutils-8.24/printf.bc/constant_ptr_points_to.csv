@@ -1,0 +1,6 @@
+*null*	*global_alloc@c_locale_cache
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@unicode_to_mb.utf8_to_local
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

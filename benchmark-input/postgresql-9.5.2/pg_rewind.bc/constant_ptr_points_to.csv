@@ -1,0 +1,7 @@
+*null*	*global_alloc@datadir_target
+*null*	*global_alloc@datadir_source
+*null*	*global_alloc@connstr_source
+*null*	*global_alloc@progname
+*null*	*global_alloc@conn
+*null*	*global_alloc@filemap
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock

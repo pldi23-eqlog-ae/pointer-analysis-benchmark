@@ -1,0 +1,3 @@
+*null*	*global_alloc@connectDatabase.password
+*null*	*global_alloc@cancelConn
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock

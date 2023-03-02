@@ -1,0 +1,11 @@
+*null*	*global_alloc@exclude
+*null*	*global_alloc@time_style
+*null*	*global_alloc@time_format
+*null*	*global_alloc@di_mnt
+*null*	*global_alloc@di_files
+*null*	*global_alloc@process_file.dulvl
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@__argmatch_die	*global_alloc@argmatch_die
+*global_alloc@slotvec0	*global_alloc@slotvec

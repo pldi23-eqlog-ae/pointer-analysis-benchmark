@@ -1,0 +1,12 @@
+*null*	*global_alloc@outfile
+*null*	*global_alloc@options
+*null*	*global_alloc@connection_string
+*null*	*global_alloc@dbhost
+*null*	*global_alloc@dbuser
+*null*	*global_alloc@dbport
+*null*	*global_alloc@replication_slot
+*null*	*global_alloc@dbname
+*null*	*global_alloc@conn
+*null*	*global_alloc@progname
+*null*	*global_alloc@dbpassword
+*global_alloc@default_threadlock	*global_alloc@pg_g_threadlock

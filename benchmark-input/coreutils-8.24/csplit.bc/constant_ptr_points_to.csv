@@ -1,0 +1,14 @@
+*null*	*global_alloc@global_argv
+*null*	*global_alloc@controls
+*null*	*global_alloc@prefix
+*null*	*global_alloc@suffix
+*null*	*global_alloc@filename_space
+*null*	*global_alloc@output_stream
+*null*	*global_alloc@output_filename
+*null*	*global_alloc@remove_line.prev_buf
+*null*	*global_alloc@head
+*null*	*global_alloc@hold_area
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

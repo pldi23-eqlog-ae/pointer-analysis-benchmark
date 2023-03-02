@@ -1,0 +1,9 @@
+*null*	*global_alloc@time_format
+*null*	*global_alloc@print_user.hoststr
+*null*	*global_alloc@print_runlevel.runlevline
+*null*	*global_alloc@print_runlevel.comment
+*null*	*global_alloc@print_deadprocs.exitstr
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

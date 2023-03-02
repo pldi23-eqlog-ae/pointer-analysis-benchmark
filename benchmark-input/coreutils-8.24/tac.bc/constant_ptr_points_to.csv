@@ -1,0 +1,8 @@
+*null*	*global_alloc@separator
+*null*	*global_alloc@G_buffer
+*null*	*global_alloc@temp_stream.tempfile
+*null*	*global_alloc@temp_stream.tmp_fp
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@slotvec0	*global_alloc@slotvec

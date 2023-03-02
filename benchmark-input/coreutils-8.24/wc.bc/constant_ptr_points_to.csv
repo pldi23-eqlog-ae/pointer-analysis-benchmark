@@ -1,0 +1,6 @@
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@print_and_abort	*global_alloc@obstack_alloc_failed_handler
+*global_alloc@print_and_abort	*global_alloc@obstack_alloc_failed_handler[0]
+*global_alloc@slotvec0	*global_alloc@slotvec

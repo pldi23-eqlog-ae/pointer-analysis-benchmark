@@ -1,0 +1,12 @@
+*null*	*global_alloc@decimal_point
+*null*	*global_alloc@field_list
+*null*	*global_alloc@suffix
+*null*	*global_alloc@format_str
+*null*	*global_alloc@format_str_prefix
+*null*	*global_alloc@format_str_suffix
+*null*	*global_alloc@padding_buffer
+*null*	*global_alloc@file_name
+*null*	*global_alloc@program_name
+*null*	*global_alloc@charset_aliases
+*global_alloc@__argmatch_die	*global_alloc@argmatch_die
+*global_alloc@slotvec0	*global_alloc@slotvec
