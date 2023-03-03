@@ -201,7 +201,7 @@ if args.run_benchmark is not None:
 data = []
 
 if args.read_data_from_cached:
-    with open(args.csvfile, 'w', newline='') as csvfile:
+    with open(args.csvfile, 'r', newline='') as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
             data.append((row[0], float(row[1]), float(row[2]), float(row[3]), float(row[4]), float(row[5])))
@@ -216,7 +216,7 @@ else:
 hm1 = statistics.harmonic_mean([_patched / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
 hm2 = statistics.harmonic_mean([_cclyzerpp / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
 hm3 = statistics.harmonic_mean([_egglognaive / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
-total = sum([e for (_, _naive, _buggy, _, _, e) in data]) / sum([s for (_, _naive, _buggy, s, _, _) in data])
+total = sum([e for (_, _naive, _buggy, _, _, e) in data]) / sum([s for (_, _naive, _buggy, s, _, _) in data]) if sum([s for (_, _naive, _buggy, s, _, _) in data]) != 0 else float('nan')
 print(f"Harmonic egglog/patched:     {hm1}")
 print(f"Harmonic egglog/cclyzerpp:   {hm2}")
 print(f"Harmonic egglog/egglognaive: {hm3}")

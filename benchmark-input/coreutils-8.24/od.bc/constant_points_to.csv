@@ -1188,111 +1188,229 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:c_toupper:2:0:@llvm.dbg.declare	*global_alloc@llvm.dbg.declare
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:22:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:23:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:30:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.64, i32 0, i32 0)	*global_alloc@.str.64[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:30:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.64, i32 0, i32 0)	*global_alloc@.str.64[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:31:@.str.64	*global_alloc@.str.64
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:35:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:38:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.65, i32 0, i32 0)	*global_alloc@.str.65[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:38:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.65, i32 0, i32 0)	*global_alloc@.str.65[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:39:@.str.65	*global_alloc@.str.65
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:43:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:46:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.66, i32 0, i32 0)	*global_alloc@.str.66[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:46:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.66, i32 0, i32 0)	*global_alloc@.str.66[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:47:@.str.66	*global_alloc@.str.66
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:51:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:54:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.67, i32 0, i32 0)	*global_alloc@.str.67[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:54:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.67, i32 0, i32 0)	*global_alloc@.str.67[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:55:@.str.67	*global_alloc@.str.67
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:59:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:62:getelementptr inbounds ([18 x i8], [18 x i8]* @.str.68, i32 0, i32 0)	*global_alloc@.str.68[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:62:getelementptr inbounds ([18 x i8], [18 x i8]* @.str.68, i32 0, i32 0)	*global_alloc@.str.68[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:63:@.str.68	*global_alloc@.str.68
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:67:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:70:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.69, i32 0, i32 0)	*global_alloc@.str.69[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:70:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.69, i32 0, i32 0)	*global_alloc@.str.69[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:71:@.str.69	*global_alloc@.str.69
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:75:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:78:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.70, i32 0, i32 0)	*global_alloc@.str.70[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:78:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.70, i32 0, i32 0)	*global_alloc@.str.70[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:79:@.str.70	*global_alloc@.str.70
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:83:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:86:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.71, i32 0, i32 0)	*global_alloc@.str.71[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:86:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.71, i32 0, i32 0)	*global_alloc@.str.71[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:87:@.str.71	*global_alloc@.str.71
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:91:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:94:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.72, i32 0, i32 0)	*global_alloc@.str.72[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:94:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.72, i32 0, i32 0)	*global_alloc@.str.72[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:95:@.str.72	*global_alloc@.str.72
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:99:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:102:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.73, i32 0, i32 0)	*global_alloc@.str.73[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:102:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.73, i32 0, i32 0)	*global_alloc@.str.73[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:103:@.str.73	*global_alloc@.str.73
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:107:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:110:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.74, i32 0, i32 0)	*global_alloc@.str.74[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:110:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.74, i32 0, i32 0)	*global_alloc@.str.74[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:111:@.str.74	*global_alloc@.str.74
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:115:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:129:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.106, i32 0, i32 0)	*global_alloc@.str.106[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:129:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.106, i32 0, i32 0)	*global_alloc@.str.106[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:130:@.str.106	*global_alloc@.str.106
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:133:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.107, i32 0, i32 0)	*global_alloc@.str.107[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:133:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.107, i32 0, i32 0)	*global_alloc@.str.107[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:134:@.str.107	*global_alloc@.str.107
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:137:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:164:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:166:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:166:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:167:@.str.109	*global_alloc@.str.109
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:170:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:171:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:180:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.48, i32 0, i32 0)	*global_alloc@.str.48[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:180:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.48, i32 0, i32 0)	*global_alloc@.str.48[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:181:@.str.48	*global_alloc@.str.48
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:184:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.49, i32 0, i32 0)	*global_alloc@.str.49[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:184:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.49, i32 0, i32 0)	*global_alloc@.str.49[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:185:@.str.49	*global_alloc@.str.49
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:189:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:189:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:190:@.str.16	*global_alloc@.str.16
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:193:getelementptr inbounds ([22 x i8], [22 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:193:getelementptr inbounds ([22 x i8], [22 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:194:@.str.50	*global_alloc@.str.50
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:198:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:198:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:199:@.str.51	*global_alloc@.str.51
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:202:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:202:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:203:@.str.52	*global_alloc@.str.52
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:207:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:207:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:208:@.str.53	*global_alloc@.str.53
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:211:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:211:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:212:@.str.52	*global_alloc@.str.52
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:216:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:216:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:217:@.str.54	*global_alloc@.str.54
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:220:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:220:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:221:@.str.52	*global_alloc@.str.52
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:225:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.55, i32 0, i32 0)	*global_alloc@.str.55[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:225:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.55, i32 0, i32 0)	*global_alloc@.str.55[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:226:@.str.55	*global_alloc@.str.55
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:229:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:229:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:230:@.str.52	*global_alloc@.str.52
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:272:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:352:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.118, i32 0, i32 0)	*global_alloc@.str.118[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:352:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.118, i32 0, i32 0)	*global_alloc@.str.118[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:353:@.str.118	*global_alloc@.str.118
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:357:@__argmatch_die	*global_alloc@__argmatch_die
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:363:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:369:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:374:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.156, i32 0, i32 0)	*global_alloc@.str.156[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:374:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.156, i32 0, i32 0)	*global_alloc@.str.156[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:375:@.str.156	*global_alloc@.str.156
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:378:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.1.157, i32 0, i32 0)	*global_alloc@.str.1.157[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:378:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.1.157, i32 0, i32 0)	*global_alloc@.str.1.157[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:379:@.str.1.157	*global_alloc@.str.1.157
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:382:getelementptr inbounds ([13 x i8], [13 x i8]* @.str.2.158, i32 0, i32 0)	*global_alloc@.str.2.158[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:382:getelementptr inbounds ([13 x i8], [13 x i8]* @.str.2.158, i32 0, i32 0)	*global_alloc@.str.2.158[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:383:@.str.2.158	*global_alloc@.str.2.158
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:386:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.3.159, i32 0, i32 0)	*global_alloc@.str.3.159[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:386:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.3.159, i32 0, i32 0)	*global_alloc@.str.3.159[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:387:@.str.3.159	*global_alloc@.str.3.159
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:390:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.4.160, i32 0, i32 0)	*global_alloc@.str.4.160[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:390:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.4.160, i32 0, i32 0)	*global_alloc@.str.4.160[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:391:@.str.4.160	*global_alloc@.str.4.160
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:394:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.5.161, i32 0, i32 0)	*global_alloc@.str.5.161[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:394:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.5.161, i32 0, i32 0)	*global_alloc@.str.5.161[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:395:@.str.5.161	*global_alloc@.str.5.161
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:398:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.6.162, i32 0, i32 0)	*global_alloc@.str.6.162[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:398:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.6.162, i32 0, i32 0)	*global_alloc@.str.6.162[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:399:@.str.6.162	*global_alloc@.str.6.162
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:402:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.7.163, i32 0, i32 0)	*global_alloc@.str.7.163[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:402:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.7.163, i32 0, i32 0)	*global_alloc@.str.7.163[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:403:@.str.7.163	*global_alloc@.str.7.163
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:406:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:412:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:413:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:415:@slotvec0	*global_alloc@slotvec0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:420:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:420:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:421:@slot0	*global_alloc@slot0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:475:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:8:1:getelementptr inbounds ([163 x i8], [163 x i8]* @.str, i32 0, i32 0)	*global_alloc@.str[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:8:1:getelementptr inbounds ([163 x i8], [163 x i8]* @.str, i32 0, i32 0)	*global_alloc@.str[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:8:2:@.str	*global_alloc@.str
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:9:0:@program_name	*global_alloc@program_name
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:10:0:@program_name	*global_alloc@program_name
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:11:0:@program_name	*global_alloc@program_name
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:13:1:getelementptr inbounds ([182 x i8], [182 x i8]* @.str.1, i32 0, i32 0)	*global_alloc@.str.1[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:13:1:getelementptr inbounds ([182 x i8], [182 x i8]* @.str.1, i32 0, i32 0)	*global_alloc@.str.1[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:13:2:@.str.1	*global_alloc@.str.1
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:14:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:17:1:getelementptr inbounds ([391 x i8], [391 x i8]* @.str.2, i32 0, i32 0)	*global_alloc@.str.2[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:17:1:getelementptr inbounds ([391 x i8], [391 x i8]* @.str.2, i32 0, i32 0)	*global_alloc@.str.2[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:17:2:@.str.2	*global_alloc@.str.2
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:18:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:21:1:getelementptr inbounds ([287 x i8], [287 x i8]* @.str.3, i32 0, i32 0)	*global_alloc@.str.3[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:21:1:getelementptr inbounds ([287 x i8], [287 x i8]* @.str.3, i32 0, i32 0)	*global_alloc@.str.3[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:21:2:@.str.3	*global_alloc@.str.3
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:22:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:24:1:getelementptr inbounds ([552 x i8], [552 x i8]* @.str.4, i32 0, i32 0)	*global_alloc@.str.4[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:24:1:getelementptr inbounds ([552 x i8], [552 x i8]* @.str.4, i32 0, i32 0)	*global_alloc@.str.4[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:24:2:@.str.4	*global_alloc@.str.4
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:25:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:27:1:getelementptr inbounds ([45 x i8], [45 x i8]* @.str.5, i32 0, i32 0)	*global_alloc@.str.5[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:27:1:getelementptr inbounds ([45 x i8], [45 x i8]* @.str.5, i32 0, i32 0)	*global_alloc@.str.5[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:27:2:@.str.5	*global_alloc@.str.5
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:28:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:30:1:getelementptr inbounds ([54 x i8], [54 x i8]* @.str.6, i32 0, i32 0)	*global_alloc@.str.6[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:30:1:getelementptr inbounds ([54 x i8], [54 x i8]* @.str.6, i32 0, i32 0)	*global_alloc@.str.6[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:30:2:@.str.6	*global_alloc@.str.6
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:31:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:33:1:getelementptr inbounds ([315 x i8], [315 x i8]* @.str.7, i32 0, i32 0)	*global_alloc@.str.7[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:33:1:getelementptr inbounds ([315 x i8], [315 x i8]* @.str.7, i32 0, i32 0)	*global_alloc@.str.7[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:33:2:@.str.7	*global_alloc@.str.7
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:34:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:36:1:getelementptr inbounds ([274 x i8], [274 x i8]* @.str.8, i32 0, i32 0)	*global_alloc@.str.8[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:36:1:getelementptr inbounds ([274 x i8], [274 x i8]* @.str.8, i32 0, i32 0)	*global_alloc@.str.8[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:36:2:@.str.8	*global_alloc@.str.8
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:37:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:39:1:getelementptr inbounds ([166 x i8], [166 x i8]* @.str.9, i32 0, i32 0)	*global_alloc@.str.9[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:39:1:getelementptr inbounds ([166 x i8], [166 x i8]* @.str.9, i32 0, i32 0)	*global_alloc@.str.9[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:39:2:@.str.9	*global_alloc@.str.9
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:40:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:42:1:getelementptr inbounds ([251 x i8], [251 x i8]* @.str.10, i32 0, i32 0)	*global_alloc@.str.10[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:42:1:getelementptr inbounds ([251 x i8], [251 x i8]* @.str.10, i32 0, i32 0)	*global_alloc@.str.10[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:42:2:@.str.10	*global_alloc@.str.10
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:43:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:45:1:getelementptr inbounds ([244 x i8], [244 x i8]* @.str.11, i32 0, i32 0)	*global_alloc@.str.11[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:45:1:getelementptr inbounds ([244 x i8], [244 x i8]* @.str.11, i32 0, i32 0)	*global_alloc@.str.11[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:45:2:@.str.11	*global_alloc@.str.11
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:46:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:48:1:getelementptr inbounds ([94 x i8], [94 x i8]* @.str.12, i32 0, i32 0)	*global_alloc@.str.12[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:48:1:getelementptr inbounds ([94 x i8], [94 x i8]* @.str.12, i32 0, i32 0)	*global_alloc@.str.12[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:48:2:@.str.12	*global_alloc@.str.12
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:49:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:51:1:getelementptr inbounds ([173 x i8], [173 x i8]* @.str.13, i32 0, i32 0)	*global_alloc@.str.13[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:51:1:getelementptr inbounds ([173 x i8], [173 x i8]* @.str.13, i32 0, i32 0)	*global_alloc@.str.13[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:51:2:@.str.13	*global_alloc@.str.13
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:52:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:54:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.14, i32 0, i32 0)	*global_alloc@.str.14[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:54:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.14, i32 0, i32 0)	*global_alloc@.str.14[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:usage:54:2:@.str.14	*global_alloc@.str.14
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:45:2:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:45:2:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:45:3:@.str.15	*global_alloc@.str.15
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:46:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:46:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:46:2:@.str.16	*global_alloc@.str.16
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:46:5:getelementptr inbounds ([24 x i8], [24 x i8]* @.str.17, i32 0, i32 0)	*global_alloc@.str.17[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:46:5:getelementptr inbounds ([24 x i8], [24 x i8]* @.str.17, i32 0, i32 0)	*global_alloc@.str.17[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:46:6:@.str.17	*global_alloc@.str.17
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:47:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:47:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:47:2:@.str.16	*global_alloc@.str.16
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:48:1:@close_stdout	*global_alloc@close_stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:55:0:@integral_type_size	*global_alloc@integral_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:62:1:getelementptr inbounds ([9 x i32], [9 x i32]* @integral_type_size, i32 0, i64 1)	*global_alloc@integral_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:62:2:@integral_type_size	*global_alloc@integral_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:63:1:getelementptr inbounds ([9 x i32], [9 x i32]* @integral_type_size, i32 0, i64 2)	*global_alloc@integral_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:63:2:@integral_type_size	*global_alloc@integral_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:64:1:getelementptr inbounds ([9 x i32], [9 x i32]* @integral_type_size, i32 0, i64 4)	*global_alloc@integral_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:64:2:@integral_type_size	*global_alloc@integral_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:65:1:getelementptr inbounds ([9 x i32], [9 x i32]* @integral_type_size, i32 0, i64 8)	*global_alloc@integral_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:65:2:@integral_type_size	*global_alloc@integral_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:66:1:getelementptr inbounds ([9 x i32], [9 x i32]* @integral_type_size, i32 0, i64 8)	*global_alloc@integral_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:66:2:@integral_type_size	*global_alloc@integral_type_size
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:73:0:@fp_type_size	*global_alloc@fp_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:80:1:getelementptr inbounds ([17 x i32], [17 x i32]* @fp_type_size, i32 0, i64 4)	*global_alloc@fp_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:80:2:@fp_type_size	*global_alloc@fp_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:81:1:getelementptr inbounds ([17 x i32], [17 x i32]* @fp_type_size, i32 0, i64 16)	*global_alloc@fp_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:81:2:@fp_type_size	*global_alloc@fp_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:82:1:getelementptr inbounds ([17 x i32], [17 x i32]* @fp_type_size, i32 0, i64 8)	*global_alloc@fp_type_size[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:82:2:@fp_type_size	*global_alloc@fp_type_size
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:83:1:@n_specs	*global_alloc@n_specs
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:84:1:@n_specs_allocated	*global_alloc@n_specs_allocated
@@ -1303,7 +1421,11 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:87:1:@address_base	*global_alloc@address_base
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:88:1:@address_pad_len	*global_alloc@address_pad_len
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:89:1:@flag_dump_strings	*global_alloc@flag_dump_strings
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:98:1:getelementptr inbounds ([35 x i8], [35 x i8]* @short_options, i32 0, i32 0)	*global_alloc@short_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:98:1:getelementptr inbounds ([35 x i8], [35 x i8]* @short_options, i32 0, i32 0)	*global_alloc@short_options[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:98:2:@short_options	*global_alloc@short_options
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:98:5:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:98:5:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:98:6:@long_options	*global_alloc@long_options
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:107:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:112:0:@format_address_std	*global_alloc@format_address_std
@@ -1321,29 +1443,45 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:124:0:@format_address_none	*global_alloc@format_address_none
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:124:1:@format_address	*global_alloc@format_address
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:125:1:@address_pad_len	*global_alloc@address_pad_len
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:127:1:getelementptr inbounds ([72 x i8], [72 x i8]* @.str.18, i32 0, i32 0)	*global_alloc@.str.18[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:127:1:getelementptr inbounds ([72 x i8], [72 x i8]* @.str.18, i32 0, i32 0)	*global_alloc@.str.18[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:127:2:@.str.18	*global_alloc@.str.18
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:128:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:136:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:137:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:137:3:@n_bytes_to_skip	*global_alloc@n_bytes_to_skip
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:137:4:getelementptr inbounds ([13 x i8], [13 x i8]* @main.multipliers, i32 0, i32 0)	*global_alloc@main.multipliers[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:137:4:getelementptr inbounds ([13 x i8], [13 x i8]* @main.multipliers, i32 0, i32 0)	*global_alloc@main.multipliers[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:137:5:@main.multipliers	*global_alloc@main.multipliers
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:146:0:@optarg	*global_alloc@optarg
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:147:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:147:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:147:2:@long_options	*global_alloc@long_options
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:151:1:@limit_bytes_to_format	*global_alloc@limit_bytes_to_format
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:152:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:153:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:153:3:@max_bytes_to_format	*global_alloc@max_bytes_to_format
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:153:4:getelementptr inbounds ([13 x i8], [13 x i8]* @main.multipliers, i32 0, i32 0)	*global_alloc@main.multipliers[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:153:4:getelementptr inbounds ([13 x i8], [13 x i8]* @main.multipliers, i32 0, i32 0)	*global_alloc@main.multipliers[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:153:5:@main.multipliers	*global_alloc@main.multipliers
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:162:0:@optarg	*global_alloc@optarg
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:163:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:163:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:163:2:@long_options	*global_alloc@long_options
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:167:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:168:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:170:1:@string_min	*global_alloc@string_min
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:172:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:173:1:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:173:3:getelementptr inbounds ([13 x i8], [13 x i8]* @main.multipliers, i32 0, i32 0)	*global_alloc@main.multipliers[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:173:3:getelementptr inbounds ([13 x i8], [13 x i8]* @main.multipliers, i32 0, i32 0)	*global_alloc@main.multipliers[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:173:4:@main.multipliers	*global_alloc@main.multipliers
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:182:0:@optarg	*global_alloc@optarg
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:183:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:183:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:183:2:@long_options	*global_alloc@long_options
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:188:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.19, i32 0, i32 0)	*global_alloc@.str.19[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:188:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.19, i32 0, i32 0)	*global_alloc@.str.19[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:188:2:@.str.19	*global_alloc@.str.19
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:189:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:193:0:@string_min	*global_alloc@string_min
@@ -1353,44 +1491,90 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:212:1:@traditional	*global_alloc@traditional
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:214:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:215:0:@argmatch_die	*global_alloc@argmatch_die
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.20, i32 0, i32 0)	*global_alloc@.str.20[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.20, i32 0, i32 0)	*global_alloc@.str.20[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:2:@.str.20	*global_alloc@.str.20
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:5:getelementptr inbounds ([3 x i8*], [3 x i8*]* @endian_args, i32 0, i32 0)	*global_alloc@endian_args[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:5:getelementptr inbounds ([3 x i8*], [3 x i8*]* @endian_args, i32 0, i32 0)	*global_alloc@endian_args[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:6:@endian_args	*global_alloc@endian_args
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:9:bitcast ([2 x i32]* @endian_types to i8*)	*global_alloc@endian_types
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:216:10:@endian_types	*global_alloc@endian_types
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:217:0:@endian_types	*global_alloc@endian_types
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:220:1:@input_swap	*global_alloc@input_swap
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:222:1:@input_swap	*global_alloc@input_swap
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:225:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.21, i32 0, i32 0)	*global_alloc@.str.21[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:225:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.21, i32 0, i32 0)	*global_alloc@.str.21[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:225:2:@.str.21	*global_alloc@.str.21
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:235:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.22, i32 0, i32 0)	*global_alloc@.str.22[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:235:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.22, i32 0, i32 0)	*global_alloc@.str.22[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:235:2:@.str.22	*global_alloc@.str.22
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:245:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.23, i32 0, i32 0)	*global_alloc@.str.23[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:245:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.23, i32 0, i32 0)	*global_alloc@.str.23[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:245:2:@.str.23	*global_alloc@.str.23
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:255:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.24, i32 0, i32 0)	*global_alloc@.str.24[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:255:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.24, i32 0, i32 0)	*global_alloc@.str.24[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:255:2:@.str.24	*global_alloc@.str.24
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:265:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.25, i32 0, i32 0)	*global_alloc@.str.25[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:265:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.25, i32 0, i32 0)	*global_alloc@.str.25[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:265:2:@.str.25	*global_alloc@.str.25
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:275:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.26, i32 0, i32 0)	*global_alloc@.str.26[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:275:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.26, i32 0, i32 0)	*global_alloc@.str.26[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:275:2:@.str.26	*global_alloc@.str.26
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:285:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.27, i32 0, i32 0)	*global_alloc@.str.27[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:285:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.27, i32 0, i32 0)	*global_alloc@.str.27[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:285:2:@.str.27	*global_alloc@.str.27
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:295:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.28, i32 0, i32 0)	*global_alloc@.str.28[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:295:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.28, i32 0, i32 0)	*global_alloc@.str.28[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:295:2:@.str.28	*global_alloc@.str.28
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:305:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.29, i32 0, i32 0)	*global_alloc@.str.29[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:305:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.29, i32 0, i32 0)	*global_alloc@.str.29[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:305:2:@.str.29	*global_alloc@.str.29
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:315:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.30, i32 0, i32 0)	*global_alloc@.str.30[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:315:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.30, i32 0, i32 0)	*global_alloc@.str.30[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:315:2:@.str.30	*global_alloc@.str.30
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:325:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.31, i32 0, i32 0)	*global_alloc@.str.31[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:325:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.31, i32 0, i32 0)	*global_alloc@.str.31[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:325:2:@.str.31	*global_alloc@.str.31
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:335:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.32, i32 0, i32 0)	*global_alloc@.str.32[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:335:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.32, i32 0, i32 0)	*global_alloc@.str.32[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:335:2:@.str.32	*global_alloc@.str.32
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:345:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.33, i32 0, i32 0)	*global_alloc@.str.33[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:345:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.33, i32 0, i32 0)	*global_alloc@.str.33[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:345:2:@.str.33	*global_alloc@.str.33
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:355:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.34, i32 0, i32 0)	*global_alloc@.str.34[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:355:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.34, i32 0, i32 0)	*global_alloc@.str.34[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:355:2:@.str.34	*global_alloc@.str.34
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:367:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:368:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:373:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:374:1:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:374:3:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:374:3:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:374:4:@.str.15	*global_alloc@.str.15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:383:0:@optarg	*global_alloc@optarg
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:384:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:384:1:getelementptr inbounds ([12 x %struct.option], [12 x %struct.option]* @long_options, i32 0, i32 0)	*global_alloc@long_options[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:384:2:@long_options	*global_alloc@long_options
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:389:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.19, i32 0, i32 0)	*global_alloc@.str.19[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:389:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.19, i32 0, i32 0)	*global_alloc@.str.19[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:389:2:@.str.19	*global_alloc@.str.19
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:390:0:@optarg	*global_alloc@optarg
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:399:0:@stdout	*global_alloc@stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:400:0:@Version	*global_alloc@Version
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.14, i32 0, i32 0)	*global_alloc@.str.14[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.14, i32 0, i32 0)	*global_alloc@.str.14[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:2:@.str.14	*global_alloc@.str.14
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:5:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.35, i32 0, i32 0)	*global_alloc@.str.35[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:5:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.35, i32 0, i32 0)	*global_alloc@.str.35[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:6:@.str.35	*global_alloc@.str.35
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:9:getelementptr inbounds ([13 x i8], [13 x i8]* @.str.36, i32 0, i32 0)	*global_alloc@.str.36[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:9:getelementptr inbounds ([13 x i8], [13 x i8]* @.str.36, i32 0, i32 0)	*global_alloc@.str.36[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:10:@.str.36	*global_alloc@.str.36
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:401:13:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:412:0:@flag_dump_strings	*global_alloc@flag_dump_strings
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:415:0:@n_specs	*global_alloc@n_specs
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:418:1:getelementptr inbounds ([46 x i8], [46 x i8]* @.str.37, i32 0, i32 0)	*global_alloc@.str.37[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:418:1:getelementptr inbounds ([46 x i8], [46 x i8]* @.str.37, i32 0, i32 0)	*global_alloc@.str.37[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:418:2:@.str.37	*global_alloc@.str.37
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:422:0:@optind	*global_alloc@optind
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:428:0:@traditional	*global_alloc@traditional
@@ -1417,9 +1601,15 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:567:0:@optind	*global_alloc@optind
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:572:0:@optind	*global_alloc@optind
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:586:0:@traditional	*global_alloc@traditional
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:592:1:getelementptr inbounds ([17 x i8], [17 x i8]* @.str.38, i32 0, i32 0)	*global_alloc@.str.38[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:592:1:getelementptr inbounds ([17 x i8], [17 x i8]* @.str.38, i32 0, i32 0)	*global_alloc@.str.38[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:592:2:@.str.38	*global_alloc@.str.38
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:593:0:@optind	*global_alloc@optind
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:601:1:getelementptr inbounds ([45 x i8], [45 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:601:1:getelementptr inbounds ([45 x i8], [45 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:601:2:@.str.40	*global_alloc@.str.40
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:602:3:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:602:3:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:602:4:@.str.39	*global_alloc@.str.39
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:606:0:@flag_pseudo_start	*global_alloc@flag_pseudo_start
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:609:0:@format_address	*global_alloc@format_address
@@ -1436,11 +1626,17 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:625:0:@end_offset	*global_alloc@end_offset
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:626:0:@end_offset	*global_alloc@end_offset
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:627:0:@n_bytes_to_skip	*global_alloc@n_bytes_to_skip
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:630:1:getelementptr inbounds ([37 x i8], [37 x i8]* @.str.41, i32 0, i32 0)	*global_alloc@.str.41[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:630:1:getelementptr inbounds ([37 x i8], [37 x i8]* @.str.41, i32 0, i32 0)	*global_alloc@.str.41[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:630:2:@.str.41	*global_alloc@.str.41
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:634:0:@n_specs	*global_alloc@n_specs
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:637:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.42, i32 0, i32 0)	*global_alloc@.str.42[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:637:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.42, i32 0, i32 0)	*global_alloc@.str.42[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:637:2:@.str.42	*global_alloc@.str.42
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:642:0:@optind	*global_alloc@optind
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:646:0:@file_list	*global_alloc@file_list
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:648:0:getelementptr inbounds ([2 x i8*], [2 x i8*]* @default_file_list, i32 0, i32 0)	*global_alloc@default_file_list[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:648:0:getelementptr inbounds ([2 x i8*], [2 x i8*]* @default_file_list, i32 0, i32 0)	*global_alloc@default_file_list[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:648:1:@default_file_list	*global_alloc@default_file_list
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:648:4:@file_list	*global_alloc@file_list
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:653:0:@in_stream	*global_alloc@in_stream
@@ -1452,6 +1648,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:675:0:@n_bytes_to_skip	*global_alloc@n_bytes_to_skip
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:680:0:@pseudo_offset	*global_alloc@pseudo_offset
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:696:0:@bytes_per_block	*global_alloc@bytes_per_block
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:698:1:getelementptr inbounds ([45 x i8], [45 x i8]* @.str.43, i32 0, i32 0)	*global_alloc@.str.43[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:698:1:getelementptr inbounds ([45 x i8], [45 x i8]* @.str.43, i32 0, i32 0)	*global_alloc@.str.43[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:698:2:@.str.43	*global_alloc@.str.43
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:704:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:715:0:@bytes_per_block	*global_alloc@bytes_per_block
@@ -1470,36 +1668,72 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:810:0:@flag_dump_strings	*global_alloc@flag_dump_strings
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:828:0:@have_read_stdin	*global_alloc@have_read_stdin
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:831:0:@stdin	*global_alloc@stdin
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:837:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.44, i32 0, i32 0)	*global_alloc@.str.44[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:837:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.44, i32 0, i32 0)	*global_alloc@.str.44[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:main:837:2:@.str.44	*global_alloc@.str.44
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_try_help:0:0:@stderr	*global_alloc@stderr
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_try_help:1:1:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.45, i32 0, i32 0)	*global_alloc@.str.45[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_try_help:1:1:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.45, i32 0, i32 0)	*global_alloc@.str.45[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_try_help:1:2:@.str.45	*global_alloc@.str.45
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_try_help:2:0:@program_name	*global_alloc@program_name
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_stdin_note:0:1:getelementptr inbounds ([56 x i8], [56 x i8]* @.str.46, i32 0, i32 0)	*global_alloc@.str.46[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_stdin_note:0:1:getelementptr inbounds ([56 x i8], [56 x i8]* @.str.46, i32 0, i32 0)	*global_alloc@.str.46[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_stdin_note:0:2:@.str.46	*global_alloc@.str.46
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_stdin_note:1:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_mandatory_arg_note:0:1:getelementptr inbounds ([75 x i8], [75 x i8]* @.str.47, i32 0, i32 0)	*global_alloc@.str.47[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_mandatory_arg_note:0:1:getelementptr inbounds ([75 x i8], [75 x i8]* @.str.47, i32 0, i32 0)	*global_alloc@.str.47[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_mandatory_arg_note:0:2:@.str.47	*global_alloc@.str.47
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_mandatory_arg_note:1:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:10:0:getelementptr inbounds ([7 x %struct.infomap], [7 x %struct.infomap]* @emit_ancillary_info.infomap, i32 0, i32 0)	*global_alloc@emit_ancillary_info.infomap[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:10:0:getelementptr inbounds ([7 x %struct.infomap], [7 x %struct.infomap]* @emit_ancillary_info.infomap, i32 0, i32 0)	*global_alloc@emit_ancillary_info.infomap[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:10:1:@emit_ancillary_info.infomap	*global_alloc@emit_ancillary_info.infomap
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:15:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:34:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:41:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:41:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:41:2:@.str.56	*global_alloc@.str.56
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:42:1:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.35, i32 0, i32 0)	*global_alloc@.str.35[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:42:1:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.35, i32 0, i32 0)	*global_alloc@.str.35[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:42:2:@.str.35	*global_alloc@.str.35
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:42:5:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.57, i32 0, i32 0)	*global_alloc@.str.57[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:42:5:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.57, i32 0, i32 0)	*global_alloc@.str.57[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:42:6:@.str.57	*global_alloc@.str.57
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:44:2:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:47:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:50:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.58, i32 0, i32 0)	*global_alloc@.str.58[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:50:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.58, i32 0, i32 0)	*global_alloc@.str.58[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:50:2:@.str.58	*global_alloc@.str.58
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:53:1:getelementptr inbounds ([69 x i8], [69 x i8]* @.str.59, i32 0, i32 0)	*global_alloc@.str.59[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:53:1:getelementptr inbounds ([69 x i8], [69 x i8]* @.str.59, i32 0, i32 0)	*global_alloc@.str.59[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:53:2:@.str.59	*global_alloc@.str.59
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:57:1:getelementptr inbounds ([31 x i8], [31 x i8]* @.str.60, i32 0, i32 0)	*global_alloc@.str.60[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:57:1:getelementptr inbounds ([31 x i8], [31 x i8]* @.str.60, i32 0, i32 0)	*global_alloc@.str.60[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:57:2:@.str.60	*global_alloc@.str.60
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:59:1:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.57, i32 0, i32 0)	*global_alloc@.str.57[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:59:1:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.57, i32 0, i32 0)	*global_alloc@.str.57[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:59:2:@.str.57	*global_alloc@.str.57
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:60:1:getelementptr inbounds ([51 x i8], [51 x i8]* @.str.61, i32 0, i32 0)	*global_alloc@.str.61[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:60:1:getelementptr inbounds ([51 x i8], [51 x i8]* @.str.61, i32 0, i32 0)	*global_alloc@.str.61[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:60:2:@.str.61	*global_alloc@.str.61
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:65:0:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.62, i32 0, i32 0)	*global_alloc@.str.62[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:65:0:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.62, i32 0, i32 0)	*global_alloc@.str.62[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:65:1:@.str.62	*global_alloc@.str.62
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:65:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:65:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_ancillary_info:65:5:@.str.15	*global_alloc@.str.15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:format_address_std:25:0:@address_pad_len	*global_alloc@address_pad_len
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:format_address_std:30:0:@address_base	*global_alloc@address_base
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:format_address_std:67:0:@.str.63	*global_alloc@.str.63
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:format_address_std:91:0:@stdout	*global_alloc@stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:10:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.75, i32 0, i32 0)	*global_alloc@.str.75[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.75, i32 0, i32 0)	*global_alloc@.str.75[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:2:@.str.75	*global_alloc@.str.75
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:10:getelementptr inbounds ([41 x i8], [41 x i8]* @__PRETTY_FUNCTION__.decode_format_string, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_format_string[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:10:getelementptr inbounds ([41 x i8], [41 x i8]* @__PRETTY_FUNCTION__.decode_format_string, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_format_string[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:13:11:@__PRETTY_FUNCTION__.decode_format_string	*global_alloc@__PRETTY_FUNCTION__.decode_format_string
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:23:0:@n_specs_allocated	*global_alloc@n_specs_allocated
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:24:0:@n_specs	*global_alloc@n_specs
@@ -1508,13 +1742,21 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:31:0:@spec	*global_alloc@spec
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:35:0:@n_specs	*global_alloc@n_specs
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:36:0:@spec	*global_alloc@spec
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.77, i32 0, i32 0)	*global_alloc@.str.77[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.77, i32 0, i32 0)	*global_alloc@.str.77[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:2:@.str.77	*global_alloc@.str.77
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:10:getelementptr inbounds ([41 x i8], [41 x i8]* @__PRETTY_FUNCTION__.decode_format_string, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_format_string[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:10:getelementptr inbounds ([41 x i8], [41 x i8]* @__PRETTY_FUNCTION__.decode_format_string, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_format_string[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:47:11:@__PRETTY_FUNCTION__.decode_format_string	*global_alloc@__PRETTY_FUNCTION__.decode_format_string
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:52:0:@n_specs	*global_alloc@n_specs
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_format_string:54:0:@n_specs	*global_alloc@n_specs
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:parse_old_offset:28:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:parse_old_offset:58:1:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:parse_old_offset:58:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.108, i32 0, i32 0)	*global_alloc@.str.108[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:parse_old_offset:58:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.108, i32 0, i32 0)	*global_alloc@.str.108[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:parse_old_offset:58:3:@.str.108	*global_alloc@.str.108
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:format_address_label:9:0:@pseudo_offset	*global_alloc@pseudo_offset
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:5:0:@file_list	*global_alloc@file_list
@@ -1524,18 +1766,26 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:15:0:@file_list	*global_alloc@file_list
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:17:0:@file_list	*global_alloc@file_list
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:18:0:@input_filename	*global_alloc@input_filename
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:19:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:19:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:19:2:@.str.109	*global_alloc@.str.109
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:22:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.44, i32 0, i32 0)	*global_alloc@.str.44[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:22:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.44, i32 0, i32 0)	*global_alloc@.str.44[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:22:2:@.str.44	*global_alloc@.str.44
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:23:0:@input_filename	*global_alloc@input_filename
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:24:0:@stdin	*global_alloc@stdin
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:25:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:26:1:@have_read_stdin	*global_alloc@have_read_stdin
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:28:0:@input_filename	*global_alloc@input_filename
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:29:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.110, i32 0, i32 0)	*global_alloc@.str.110[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:29:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.110, i32 0, i32 0)	*global_alloc@.str.110[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:29:2:@.str.110	*global_alloc@.str.110
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:30:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:31:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:32:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:36:0:@input_filename	*global_alloc@input_filename
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:37:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:37:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:37:3:@.str.39	*global_alloc@.str.39
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:42:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:open_next_file:43:0:null	*null*
@@ -1551,7 +1801,11 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:100:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:110:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:125:0:@input_filename	*global_alloc@input_filename
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:126:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:126:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:126:3:@.str.39	*global_alloc@.str.39
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:152:1:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.111, i32 0, i32 0)	*global_alloc@.str.111[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:152:1:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.111, i32 0, i32 0)	*global_alloc@.str.111[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:skip:152:2:@.str.111	*global_alloc@.str.111
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_lcm:8:0:@n_specs	*global_alloc@n_specs
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_lcm:14:0:@spec	*global_alloc@spec
@@ -1569,18 +1823,32 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:97:0:@end_offset	*global_alloc@end_offset
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:159:0:@format_address	*global_alloc@format_address
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:177:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:178:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.97, i32 0, i32 0)	*global_alloc@.str.97[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:178:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.97, i32 0, i32 0)	*global_alloc@.str.97[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:178:2:@.str.97	*global_alloc@.str.97
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:180:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:181:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.98, i32 0, i32 0)	*global_alloc@.str.98[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:181:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.98, i32 0, i32 0)	*global_alloc@.str.98[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:181:2:@.str.98	*global_alloc@.str.98
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:183:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:184:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.99, i32 0, i32 0)	*global_alloc@.str.99[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:184:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.99, i32 0, i32 0)	*global_alloc@.str.99[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:184:2:@.str.99	*global_alloc@.str.99
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:186:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:187:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.100, i32 0, i32 0)	*global_alloc@.str.100[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:187:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.100, i32 0, i32 0)	*global_alloc@.str.100[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:187:2:@.str.100	*global_alloc@.str.100
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:189:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:190:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.101, i32 0, i32 0)	*global_alloc@.str.101[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:190:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.101, i32 0, i32 0)	*global_alloc@.str.101[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:190:2:@.str.101	*global_alloc@.str.101
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:192:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:193:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.102, i32 0, i32 0)	*global_alloc@.str.102[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:193:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.102, i32 0, i32 0)	*global_alloc@.str.102[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:193:2:@.str.102	*global_alloc@.str.102
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:195:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:196:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.103, i32 0, i32 0)	*global_alloc@.str.103[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:196:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.103, i32 0, i32 0)	*global_alloc@.str.103[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:196:2:@.str.103	*global_alloc@.str.103
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_strings:199:0:@stdout	*global_alloc@stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:15:0:@bytes_per_block	*global_alloc@bytes_per_block
@@ -1594,48 +1862,108 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:48:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:68:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:73:0:@bytes_per_block	*global_alloc@bytes_per_block
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.114, i32 0, i32 0)	*global_alloc@.str.114[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.114, i32 0, i32 0)	*global_alloc@.str.114[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:2:@.str.114	*global_alloc@.str.114
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:10:getelementptr inbounds ([13 x i8], [13 x i8]* @__PRETTY_FUNCTION__.dump, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.dump[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:10:getelementptr inbounds ([13 x i8], [13 x i8]* @__PRETTY_FUNCTION__.dump, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.dump[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:77:11:@__PRETTY_FUNCTION__.dump	*global_alloc@__PRETTY_FUNCTION__.dump
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:107:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:123:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:128:0:@bytes_per_block	*global_alloc@bytes_per_block
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.114, i32 0, i32 0)	*global_alloc@.str.114[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.114, i32 0, i32 0)	*global_alloc@.str.114[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:2:@.str.114	*global_alloc@.str.114
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:10:getelementptr inbounds ([13 x i8], [13 x i8]* @__PRETTY_FUNCTION__.dump, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.dump[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:10:getelementptr inbounds ([13 x i8], [13 x i8]* @__PRETTY_FUNCTION__.dump, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.dump[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:132:11:@__PRETTY_FUNCTION__.dump	*global_alloc@__PRETTY_FUNCTION__.dump
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:211:0:@format_address	*global_alloc@format_address
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:214:0:@limit_bytes_to_format	*global_alloc@limit_bytes_to_format
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump:218:0:@end_offset	*global_alloc@end_offset
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:30:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:1:getelementptr inbounds ([20 x i8], [20 x i8]* @.str.78, i32 0, i32 0)	*global_alloc@.str.78[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:1:getelementptr inbounds ([20 x i8], [20 x i8]* @.str.78, i32 0, i32 0)	*global_alloc@.str.78[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:2:@.str.78	*global_alloc@.str.78
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:10:getelementptr inbounds ([83 x i8], [83 x i8]* @__PRETTY_FUNCTION__.decode_one_format, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_one_format[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:10:getelementptr inbounds ([83 x i8], [83 x i8]* @__PRETTY_FUNCTION__.decode_one_format, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_one_format[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:33:11:@__PRETTY_FUNCTION__.decode_one_format	*global_alloc@__PRETTY_FUNCTION__.decode_one_format
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:73:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.79, i32 0, i32 0)	*global_alloc@.str.79[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:73:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.79, i32 0, i32 0)	*global_alloc@.str.79[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:73:2:@.str.79	*global_alloc@.str.79
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:89:0:@integral_type_size	*global_alloc@integral_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:93:1:getelementptr inbounds ([77 x i8], [77 x i8]* @.str.80, i32 0, i32 0)	*global_alloc@.str.80[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:93:1:getelementptr inbounds ([77 x i8], [77 x i8]* @.str.80, i32 0, i32 0)	*global_alloc@.str.80[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:93:2:@.str.80	*global_alloc@.str.80
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:105:0:@integral_type_size	*global_alloc@integral_type_size
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:113:0:@bytes_to_signed_dec_digits	*global_alloc@bytes_to_signed_dec_digits
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:125:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.82, i32 0, i32 0)	*global_alloc@.str.82[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:125:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.82, i32 0, i32 0)	*global_alloc@.str.82[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:125:1:@.str.82	*global_alloc@.str.82
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:125:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.83, i32 0, i32 0)	*global_alloc@.str.83[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:125:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.83, i32 0, i32 0)	*global_alloc@.str.83[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:125:5:@.str.83	*global_alloc@.str.83
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:127:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.82, i32 0, i32 0)	*global_alloc@.str.82[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:127:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.82, i32 0, i32 0)	*global_alloc@.str.82[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:127:1:@.str.82	*global_alloc@.str.82
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:128:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.81, i32 0, i32 0)	*global_alloc@.str.81[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:128:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.81, i32 0, i32 0)	*global_alloc@.str.81[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:128:2:@.str.81	*global_alloc@.str.81
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:135:0:@bytes_to_oct_digits	*global_alloc@bytes_to_oct_digits
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:144:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.85, i32 0, i32 0)	*global_alloc@.str.85[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:144:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.85, i32 0, i32 0)	*global_alloc@.str.85[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:144:1:@.str.85	*global_alloc@.str.85
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:144:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.86, i32 0, i32 0)	*global_alloc@.str.86[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:144:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.86, i32 0, i32 0)	*global_alloc@.str.86[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:144:5:@.str.86	*global_alloc@.str.86
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:146:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.85, i32 0, i32 0)	*global_alloc@.str.85[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:146:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.85, i32 0, i32 0)	*global_alloc@.str.85[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:146:1:@.str.85	*global_alloc@.str.85
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:147:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.84, i32 0, i32 0)	*global_alloc@.str.84[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:147:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.84, i32 0, i32 0)	*global_alloc@.str.84[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:147:2:@.str.84	*global_alloc@.str.84
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:151:0:@bytes_to_unsigned_dec_digits	*global_alloc@bytes_to_unsigned_dec_digits
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:163:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.87, i32 0, i32 0)	*global_alloc@.str.87[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:163:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.87, i32 0, i32 0)	*global_alloc@.str.87[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:163:1:@.str.87	*global_alloc@.str.87
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:163:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.88, i32 0, i32 0)	*global_alloc@.str.88[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:163:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.88, i32 0, i32 0)	*global_alloc@.str.88[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:163:5:@.str.88	*global_alloc@.str.88
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:165:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.87, i32 0, i32 0)	*global_alloc@.str.87[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:165:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.87, i32 0, i32 0)	*global_alloc@.str.87[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:165:1:@.str.87	*global_alloc@.str.87
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:166:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.81, i32 0, i32 0)	*global_alloc@.str.81[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:166:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.81, i32 0, i32 0)	*global_alloc@.str.81[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:166:2:@.str.81	*global_alloc@.str.81
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:173:0:@bytes_to_hex_digits	*global_alloc@bytes_to_hex_digits
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:182:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.89, i32 0, i32 0)	*global_alloc@.str.89[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:182:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.89, i32 0, i32 0)	*global_alloc@.str.89[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:182:1:@.str.89	*global_alloc@.str.89
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:182:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.90, i32 0, i32 0)	*global_alloc@.str.90[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:182:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.90, i32 0, i32 0)	*global_alloc@.str.90[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:182:5:@.str.90	*global_alloc@.str.90
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:184:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.89, i32 0, i32 0)	*global_alloc@.str.89[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:184:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.89, i32 0, i32 0)	*global_alloc@.str.89[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:184:1:@.str.89	*global_alloc@.str.89
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:185:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.84, i32 0, i32 0)	*global_alloc@.str.84[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:185:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.84, i32 0, i32 0)	*global_alloc@.str.84[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:185:2:@.str.84	*global_alloc@.str.84
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:1:getelementptr inbounds ([49 x i8], [49 x i8]* @.str.91, i32 0, i32 0)	*global_alloc@.str.91[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:1:getelementptr inbounds ([49 x i8], [49 x i8]* @.str.91, i32 0, i32 0)	*global_alloc@.str.91[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:2:@.str.91	*global_alloc@.str.91
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:10:getelementptr inbounds ([83 x i8], [83 x i8]* @__PRETTY_FUNCTION__.decode_one_format, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_one_format[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:10:getelementptr inbounds ([83 x i8], [83 x i8]* @__PRETTY_FUNCTION__.decode_one_format, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.decode_one_format[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:196:11:@__PRETTY_FUNCTION__.decode_one_format	*global_alloc@__PRETTY_FUNCTION__.decode_one_format
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:203:0:@print_s_char	*global_alloc@print_s_char
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:203:1:@print_char	*global_alloc@print_char
@@ -1644,8 +1972,12 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:211:0:@print_int	*global_alloc@print_int
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:213:0:@print_long	*global_alloc@print_long
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:215:0:@print_long_long	*global_alloc@print_long_long
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:246:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.79, i32 0, i32 0)	*global_alloc@.str.79[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:246:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.79, i32 0, i32 0)	*global_alloc@.str.79[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:246:2:@.str.79	*global_alloc@.str.79
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:262:0:@fp_type_size	*global_alloc@fp_type_size
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:266:1:getelementptr inbounds ([83 x i8], [83 x i8]* @.str.92, i32 0, i32 0)	*global_alloc@.str.92[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:266:1:getelementptr inbounds ([83 x i8], [83 x i8]* @.str.92, i32 0, i32 0)	*global_alloc@.str.92[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:266:2:@.str.92	*global_alloc@.str.92
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:278:0:@fp_type_size	*global_alloc@fp_type_size
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:303:0:@print_float	*global_alloc@print_float
@@ -1653,6 +1985,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:319:0:@print_long_double	*global_alloc@print_long_double
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:335:0:@print_named_ascii	*global_alloc@print_named_ascii
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:343:0:@print_ascii	*global_alloc@print_ascii
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:346:1:getelementptr inbounds ([41 x i8], [41 x i8]* @.str.93, i32 0, i32 0)	*global_alloc@.str.93[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:346:1:getelementptr inbounds ([41 x i8], [41 x i8]* @.str.93, i32 0, i32 0)	*global_alloc@.str.93[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:346:2:@.str.93	*global_alloc@.str.93
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:decode_one_format:389:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_s_char:58:0:@input_swap	*global_alloc@input_swap
@@ -1663,48 +1997,96 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_long:59:0:@input_swap	*global_alloc@input_swap
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_long_long:59:0:@input_swap	*global_alloc@input_swap
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_float:60:0:@input_swap	*global_alloc@input_swap
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_float:102:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_float:102:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_float:102:2:@.str.94	*global_alloc@.str.94
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_double:60:0:@input_swap	*global_alloc@input_swap
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_double:102:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_double:102:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_double:102:2:@.str.94	*global_alloc@.str.94
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_long_double:60:0:@input_swap	*global_alloc@input_swap
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_long_double:102:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_long_double:102:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_long_double:102:2:@.str.94	*global_alloc@.str.94
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:62:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.95, i32 0, i32 0)	*global_alloc@.str.95[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:62:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.95, i32 0, i32 0)	*global_alloc@.str.95[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:62:1:@.str.95	*global_alloc@.str.95
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:69:0:@charname	*global_alloc@charname
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:89:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:89:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_named_ascii:89:2:@.str.94	*global_alloc@.str.94
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:60:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.96, i32 0, i32 0)	*global_alloc@.str.96[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:60:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.96, i32 0, i32 0)	*global_alloc@.str.96[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:60:1:@.str.96	*global_alloc@.str.96
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:62:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.97, i32 0, i32 0)	*global_alloc@.str.97[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:62:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.97, i32 0, i32 0)	*global_alloc@.str.97[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:62:1:@.str.97	*global_alloc@.str.97
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:64:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.98, i32 0, i32 0)	*global_alloc@.str.98[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:64:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.98, i32 0, i32 0)	*global_alloc@.str.98[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:64:1:@.str.98	*global_alloc@.str.98
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:66:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.99, i32 0, i32 0)	*global_alloc@.str.99[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:66:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.99, i32 0, i32 0)	*global_alloc@.str.99[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:66:1:@.str.99	*global_alloc@.str.99
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:68:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.100, i32 0, i32 0)	*global_alloc@.str.100[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:68:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.100, i32 0, i32 0)	*global_alloc@.str.100[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:68:1:@.str.100	*global_alloc@.str.100
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:70:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.101, i32 0, i32 0)	*global_alloc@.str.101[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:70:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.101, i32 0, i32 0)	*global_alloc@.str.101[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:70:1:@.str.101	*global_alloc@.str.101
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:72:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.102, i32 0, i32 0)	*global_alloc@.str.102[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:72:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.102, i32 0, i32 0)	*global_alloc@.str.102[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:72:1:@.str.102	*global_alloc@.str.102
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:74:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.103, i32 0, i32 0)	*global_alloc@.str.103[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:74:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.103, i32 0, i32 0)	*global_alloc@.str.103[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:74:1:@.str.103	*global_alloc@.str.103
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:87:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.104, i32 0, i32 0)	*global_alloc@.str.104[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:87:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.104, i32 0, i32 0)	*global_alloc@.str.104[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:87:1:@.str.104	*global_alloc@.str.104
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:87:4:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.105, i32 0, i32 0)	*global_alloc@.str.105[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:87:4:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.105, i32 0, i32 0)	*global_alloc@.str.105[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:87:5:@.str.105	*global_alloc@.str.105
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:100:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:100:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:print_ascii:100:2:@.str.94	*global_alloc@.str.94
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:6:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:7:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:9:0:@in_stream	*global_alloc@in_stream
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:14:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.112, i32 0, i32 0)	*global_alloc@.str.112[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:14:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.112, i32 0, i32 0)	*global_alloc@.str.112[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:14:2:@.str.112	*global_alloc@.str.112
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:15:0:@input_filename	*global_alloc@input_filename
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:17:0:@file_list	*global_alloc@file_list
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:20:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:20:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:20:2:@.str.109	*global_alloc@.str.109
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:23:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:28:0:@file_list	*global_alloc@file_list
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:31:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:31:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.109, i32 0, i32 0)	*global_alloc@.str.109[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:31:2:@.str.109	*global_alloc@.str.109
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:34:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:40:0:@input_filename	*global_alloc@input_filename
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:41:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:41:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:41:3:@.str.39	*global_alloc@.str.39
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:45:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:45:1:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:47:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:51:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.113, i32 0, i32 0)	*global_alloc@.str.113[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:51:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.113, i32 0, i32 0)	*global_alloc@.str.113[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:check_and_close:51:2:@.str.113	*global_alloc@.str.113
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_char:9:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_char:10:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_char:12:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:18:0:@bytes_per_block	*global_alloc@bytes_per_block
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:1:getelementptr inbounds ([30 x i8], [30 x i8]* @.str.115, i32 0, i32 0)	*global_alloc@.str.115[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:1:getelementptr inbounds ([30 x i8], [30 x i8]* @.str.115, i32 0, i32 0)	*global_alloc@.str.115[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:2:@.str.115	*global_alloc@.str.115
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:5:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:6:@.str.76	*global_alloc@.str.76
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:10:getelementptr inbounds ([43 x i8], [43 x i8]* @__PRETTY_FUNCTION__.read_block, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.read_block[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:10:getelementptr inbounds ([43 x i8], [43 x i8]* @__PRETTY_FUNCTION__.read_block, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.read_block[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:22:11:@__PRETTY_FUNCTION__.read_block	*global_alloc@__PRETTY_FUNCTION__.read_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:28:0:@in_stream	*global_alloc@in_stream
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:read_block:29:0:null	*null*
@@ -1714,6 +2096,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:25:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:30:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:34:0:@write_block.prev_pair_equal	*global_alloc@write_block.prev_pair_equal
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:38:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.116, i32 0, i32 0)	*global_alloc@.str.116[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:38:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.116, i32 0, i32 0)	*global_alloc@.str.116[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:38:2:@.str.116	*global_alloc@.str.116
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:39:1:@write_block.prev_pair_equal	*global_alloc@write_block.prev_pair_equal
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:43:1:@write_block.prev_pair_equal	*global_alloc@write_block.prev_pair_equal
@@ -1724,7 +2108,11 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:68:0:@bytes_per_block	*global_alloc@bytes_per_block
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:79:0:@format_address	*global_alloc@format_address
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:83:0:@address_pad_len	*global_alloc@address_pad_len
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:84:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:84:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:84:2:@.str.94	*global_alloc@.str.94
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:84:5:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:84:5:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:84:6:@.str.15	*global_alloc@.str.15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:87:0:@spec	*global_alloc@spec
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:97:0:@spec	*global_alloc@spec
@@ -1733,22 +2121,38 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:113:0:@spec	*global_alloc@spec
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:121:0:@spec	*global_alloc@spec
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:128:0:@spec	*global_alloc@spec
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:142:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:142:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.94, i32 0, i32 0)	*global_alloc@.str.94[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:142:2:@.str.94	*global_alloc@.str.94
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:142:5:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:142:5:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:142:6:@.str.15	*global_alloc@.str.15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:write_block:154:1:@write_block.first	*global_alloc@write_block.first
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_hexl_mode_trailer:10:0:@stdout	*global_alloc@stdout
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_hexl_mode_trailer:11:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.117, i32 0, i32 0)	*global_alloc@.str.117[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_hexl_mode_trailer:11:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.117, i32 0, i32 0)	*global_alloc@.str.117[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:dump_hexl_mode_trailer:11:2:@.str.117	*global_alloc@.str.117
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch:32:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch:61:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_invalid:14:1:getelementptr inbounds ([27 x i8], [27 x i8]* @.str.123, i32 0, i32 0)	*global_alloc@.str.123[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_invalid:14:1:getelementptr inbounds ([27 x i8], [27 x i8]* @.str.123, i32 0, i32 0)	*global_alloc@.str.123[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_invalid:14:2:@.str.123	*global_alloc@.str.123
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_invalid:16:1:getelementptr inbounds ([29 x i8], [29 x i8]* @.str.1.124, i32 0, i32 0)	*global_alloc@.str.1.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_invalid:16:1:getelementptr inbounds ([29 x i8], [29 x i8]* @.str.1.124, i32 0, i32 0)	*global_alloc@.str.1.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_invalid:16:2:@.str.1.124	*global_alloc@.str.1.124
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:13:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:14:1:getelementptr inbounds ([21 x i8], [21 x i8]* @.str.2.125, i32 0, i32 0)	*global_alloc@.str.2.125[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:14:1:getelementptr inbounds ([21 x i8], [21 x i8]* @.str.2.125, i32 0, i32 0)	*global_alloc@.str.2.125[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:14:2:@.str.2.125	*global_alloc@.str.2.125
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:15:0:@stderr	*global_alloc@stderr
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:23:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:38:0:@stderr	*global_alloc@stderr
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:44:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.3.126, i32 0, i32 0)	*global_alloc@.str.3.126[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:44:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.3.126, i32 0, i32 0)	*global_alloc@.str.3.126[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:44:2:@.str.3.126	*global_alloc@.str.3.126
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:52:0:@stderr	*global_alloc@stderr
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:58:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.4.127, i32 0, i32 0)	*global_alloc@.str.4.127[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:58:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.4.127, i32 0, i32 0)	*global_alloc@.str.4.127[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:58:2:@.str.4.127	*global_alloc@.str.4.127
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_valid:65:0:@stderr	*global_alloc@stderr
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:argmatch_to_argument:21:0:null	*null*
@@ -1757,11 +2161,17 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout_set_ignore_EPIPE:7:0:@ignore_EPIPE	*global_alloc@ignore_EPIPE
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:1:0:@stdout	*global_alloc@stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:5:0:@ignore_EPIPE	*global_alloc@ignore_EPIPE
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:13:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.130, i32 0, i32 0)	*global_alloc@.str.130[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:13:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.130, i32 0, i32 0)	*global_alloc@.str.130[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:13:2:@.str.130	*global_alloc@.str.130
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:15:0:@file_name	*global_alloc@file_name
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:16:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:20:0:@file_name	*global_alloc@file_name
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:23:2:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.1.131, i32 0, i32 0)	*global_alloc@.str.1.131[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:23:2:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.1.131, i32 0, i32 0)	*global_alloc@.str.1.131[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:23:3:@.str.1.131	*global_alloc@.str.1.131
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:28:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.2.132, i32 0, i32 0)	*global_alloc@.str.2.132[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:28:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.2.132, i32 0, i32 0)	*global_alloc@.str.2.132[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:28:3:@.str.2.132	*global_alloc@.str.2.132
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:30:0:@exit_failure	*global_alloc@exit_failure
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:close_stdout:33:0:@stderr	*global_alloc@stderr
@@ -1771,9 +2181,15 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:ldtoastr:134:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:8:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:10:0:@stderr	*global_alloc@stderr
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:11:1:getelementptr inbounds ([56 x i8], [56 x i8]* @.str.145, i32 0, i32 0)	*global_alloc@.str.145[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:11:1:getelementptr inbounds ([56 x i8], [56 x i8]* @.str.145, i32 0, i32 0)	*global_alloc@.str.145[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:11:2:@.str.145	*global_alloc@.str.145
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:18:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:36:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.1.146, i32 0, i32 0)	*global_alloc@.str.1.146[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:36:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.1.146, i32 0, i32 0)	*global_alloc@.str.1.146[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:36:2:@.str.1.146	*global_alloc@.str.1.146
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:42:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.147, i32 0, i32 0)	*global_alloc@.str.2.147[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:42:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.147, i32 0, i32 0)	*global_alloc@.str.2.147[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:42:2:@.str.2.147	*global_alloc@.str.2.147
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:49:0:@program_invocation_short_name	*global_alloc@program_invocation_short_name
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:set_program_name:53:0:@program_name	*global_alloc@program_name
@@ -1802,9 +2218,15 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_alloc_mem:84:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:3:0:@slotvec	*global_alloc@slotvec
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:9:0:@nslots	*global_alloc@nslots
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:28:0:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:28:0:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:28:1:@slot0	*global_alloc@slot0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:35:1:getelementptr inbounds (%struct.slotvec, %struct.slotvec* @slotvec0, i32 0, i32 0)	*global_alloc@slotvec0[0].?/0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:35:2:@slotvec0	*global_alloc@slotvec0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:36:0:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:36:0:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:36:1:@slot0	*global_alloc@slot0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:36:4:getelementptr inbounds (%struct.slotvec, %struct.slotvec* @slotvec0, i32 0, i32 1)	*global_alloc@slotvec0[0].?/1
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:36:5:@slotvec0	*global_alloc@slotvec0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:39:0:@slotvec0	*global_alloc@slotvec0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_free:44:0:@slotvec0	*global_alloc@slotvec0
@@ -1818,9 +2240,17 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_custom_mem:18:2:@default_quoting_options	*global_alloc@default_quoting_options
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quote_n_mem:12:1:@quote_quoting_options	*global_alloc@quote_quoting_options
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:49:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:89:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.8.170, i32 0, i32 0)	*global_alloc@.str.8.170[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:89:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.8.170, i32 0, i32 0)	*global_alloc@.str.8.170[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:89:1:@.str.8.170	*global_alloc@.str.8.170
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:99:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.9.172, i32 0, i32 0)	*global_alloc@.str.9.172[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:99:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.9.172, i32 0, i32 0)	*global_alloc@.str.9.172[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:99:2:@.str.9.172	*global_alloc@.str.9.172
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:102:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.10.171, i32 0, i32 0)	*global_alloc@.str.10.171[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:102:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.10.171, i32 0, i32 0)	*global_alloc@.str.10.171[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:102:2:@.str.10.171	*global_alloc@.str.10.171
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:165:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.10.171, i32 0, i32 0)	*global_alloc@.str.10.171[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:165:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.10.171, i32 0, i32 0)	*global_alloc@.str.10.171[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:165:1:@.str.10.171	*global_alloc@.str.10.171
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:826:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_buffer_restyled:897:0:null	*null*
@@ -1835,38 +2265,98 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_options:77:0:@nslots	*global_alloc@nslots
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_options:82:0:@nslots	*global_alloc@nslots
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_options:89:0:@nslots	*global_alloc@nslots
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_options:147:0:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_options:147:0:getelementptr inbounds ([256 x i8], [256 x i8]* @slot0, i32 0, i32 0)	*global_alloc@slot0[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:quotearg_n_options:147:1:@slot0	*global_alloc@slot0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:24:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.11.164, i32 0, i32 0)	*global_alloc@.str.11.164[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:24:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.11.164, i32 0, i32 0)	*global_alloc@.str.11.164[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:24:2:@.str.11.164	*global_alloc@.str.11.164
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:32:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.12.165, i32 0, i32 0)	*global_alloc@.str.12.165[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:32:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.12.165, i32 0, i32 0)	*global_alloc@.str.12.165[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:32:1:@.str.12.165	*global_alloc@.str.12.165
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:32:4:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.13.166, i32 0, i32 0)	*global_alloc@.str.13.166[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:32:4:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.13.166, i32 0, i32 0)	*global_alloc@.str.13.166[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:32:5:@.str.13.166	*global_alloc@.str.13.166
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:36:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.14.167, i32 0, i32 0)	*global_alloc@.str.14.167[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:36:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.14.167, i32 0, i32 0)	*global_alloc@.str.14.167[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:36:2:@.str.14.167	*global_alloc@.str.14.167
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:44:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.15.168, i32 0, i32 0)	*global_alloc@.str.15.168[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:44:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.15.168, i32 0, i32 0)	*global_alloc@.str.15.168[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:44:1:@.str.15.168	*global_alloc@.str.15.168
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:44:4:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.16.169, i32 0, i32 0)	*global_alloc@.str.16.169[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:44:4:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.16.169, i32 0, i32 0)	*global_alloc@.str.16.169[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:44:5:@.str.16.169	*global_alloc@.str.16.169
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:49:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.8.170, i32 0, i32 0)	*global_alloc@.str.8.170[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:49:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.8.170, i32 0, i32 0)	*global_alloc@.str.8.170[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:49:1:@.str.8.170	*global_alloc@.str.8.170
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:49:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.10.171, i32 0, i32 0)	*global_alloc@.str.10.171[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:49:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.10.171, i32 0, i32 0)	*global_alloc@.str.10.171[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:gettext_quote:49:5:@.str.10.171	*global_alloc@.str.10.171
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:19:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:25:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.175, i32 0, i32 0)	*global_alloc@.str.175[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:25:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.175, i32 0, i32 0)	*global_alloc@.str.175[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:25:2:@.str.175	*global_alloc@.str.175
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:30:1:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.1.176, i32 0, i32 0)	*global_alloc@.str.1.176[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:30:1:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.1.176, i32 0, i32 0)	*global_alloc@.str.1.176[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:30:2:@.str.1.176	*global_alloc@.str.1.176
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:33:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.177, i32 0, i32 0)	*global_alloc@.str.2.177[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:33:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.177, i32 0, i32 0)	*global_alloc@.str.2.177[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:33:2:@.str.2.177	*global_alloc@.str.2.177
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:34:1:getelementptr inbounds ([47 x i8], [47 x i8]* @version_etc_copyright, i32 0, i32 0)	*global_alloc@version_etc_copyright[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:34:1:getelementptr inbounds ([47 x i8], [47 x i8]* @version_etc_copyright, i32 0, i32 0)	*global_alloc@version_etc_copyright[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:34:2:@version_etc_copyright	*global_alloc@version_etc_copyright
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:35:1:getelementptr inbounds ([203 x i8], [203 x i8]* @.str.3.178, i32 0, i32 0)	*global_alloc@.str.3.178[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:35:1:getelementptr inbounds ([203 x i8], [203 x i8]* @.str.3.178, i32 0, i32 0)	*global_alloc@.str.3.178[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:35:2:@.str.3.178	*global_alloc@.str.3.178
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:43:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.4.179, i32 0, i32 0)	*global_alloc@.str.4.179[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:43:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.4.179, i32 0, i32 0)	*global_alloc@.str.4.179[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:43:2:@.str.4.179	*global_alloc@.str.4.179
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:50:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.5.180, i32 0, i32 0)	*global_alloc@.str.5.180[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:50:1:getelementptr inbounds ([23 x i8], [23 x i8]* @.str.5.180, i32 0, i32 0)	*global_alloc@.str.5.180[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:50:2:@.str.5.180	*global_alloc@.str.5.180
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:60:1:getelementptr inbounds ([28 x i8], [28 x i8]* @.str.6.181, i32 0, i32 0)	*global_alloc@.str.6.181[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:60:1:getelementptr inbounds ([28 x i8], [28 x i8]* @.str.6.181, i32 0, i32 0)	*global_alloc@.str.6.181[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:60:2:@.str.6.181	*global_alloc@.str.6.181
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:73:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.7.182, i32 0, i32 0)	*global_alloc@.str.7.182[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:73:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.7.182, i32 0, i32 0)	*global_alloc@.str.7.182[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:73:2:@.str.7.182	*global_alloc@.str.7.182
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:89:1:getelementptr inbounds ([36 x i8], [36 x i8]* @.str.8.183, i32 0, i32 0)	*global_alloc@.str.8.183[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:89:1:getelementptr inbounds ([36 x i8], [36 x i8]* @.str.8.183, i32 0, i32 0)	*global_alloc@.str.8.183[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:89:2:@.str.8.183	*global_alloc@.str.8.183
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:108:1:getelementptr inbounds ([40 x i8], [40 x i8]* @.str.9.184, i32 0, i32 0)	*global_alloc@.str.9.184[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:108:1:getelementptr inbounds ([40 x i8], [40 x i8]* @.str.9.184, i32 0, i32 0)	*global_alloc@.str.9.184[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:108:2:@.str.9.184	*global_alloc@.str.9.184
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:130:1:getelementptr inbounds ([44 x i8], [44 x i8]* @.str.10.185, i32 0, i32 0)	*global_alloc@.str.10.185[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:130:1:getelementptr inbounds ([44 x i8], [44 x i8]* @.str.10.185, i32 0, i32 0)	*global_alloc@.str.10.185[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:130:2:@.str.10.185	*global_alloc@.str.10.185
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:155:1:getelementptr inbounds ([48 x i8], [48 x i8]* @.str.11.186, i32 0, i32 0)	*global_alloc@.str.11.186[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:155:1:getelementptr inbounds ([48 x i8], [48 x i8]* @.str.11.186, i32 0, i32 0)	*global_alloc@.str.11.186[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:155:2:@.str.11.186	*global_alloc@.str.11.186
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:183:1:getelementptr inbounds ([52 x i8], [52 x i8]* @.str.12.187, i32 0, i32 0)	*global_alloc@.str.12.187[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:183:1:getelementptr inbounds ([52 x i8], [52 x i8]* @.str.12.187, i32 0, i32 0)	*global_alloc@.str.12.187[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:183:2:@.str.12.187	*global_alloc@.str.12.187
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:214:1:getelementptr inbounds ([60 x i8], [60 x i8]* @.str.13.188, i32 0, i32 0)	*global_alloc@.str.13.188[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:214:1:getelementptr inbounds ([60 x i8], [60 x i8]* @.str.13.188, i32 0, i32 0)	*global_alloc@.str.13.188[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_arn:214:2:@.str.13.188	*global_alloc@.str.13.188
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_ar:23:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:version_etc_va:47:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:0:1:getelementptr inbounds ([21 x i8], [21 x i8]* @.str.14.189, i32 0, i32 0)	*global_alloc@.str.14.189[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:0:1:getelementptr inbounds ([21 x i8], [21 x i8]* @.str.14.189, i32 0, i32 0)	*global_alloc@.str.14.189[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:0:2:@.str.14.189	*global_alloc@.str.14.189
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:1:1:getelementptr inbounds ([22 x i8], [22 x i8]* @.str.15.190, i32 0, i32 0)	*global_alloc@.str.15.190[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:1:1:getelementptr inbounds ([22 x i8], [22 x i8]* @.str.15.190, i32 0, i32 0)	*global_alloc@.str.15.190[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:1:2:@.str.15.190	*global_alloc@.str.15.190
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:2:1:getelementptr inbounds ([20 x i8], [20 x i8]* @.str.16.191, i32 0, i32 0)	*global_alloc@.str.16.191[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:2:1:getelementptr inbounds ([20 x i8], [20 x i8]* @.str.16.191, i32 0, i32 0)	*global_alloc@.str.16.191[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:2:2:@.str.16.191	*global_alloc@.str.16.191
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:3:1:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.17.192, i32 0, i32 0)	*global_alloc@.str.17.192[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:3:1:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.17.192, i32 0, i32 0)	*global_alloc@.str.17.192[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:3:2:@.str.17.192	*global_alloc@.str.17.192
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:3:5:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.18.193, i32 0, i32 0)	*global_alloc@.str.18.193[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:3:5:getelementptr inbounds ([39 x i8], [39 x i8]* @.str.18.193, i32 0, i32 0)	*global_alloc@.str.18.193[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:3:6:@.str.18.193	*global_alloc@.str.18.193
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:4:1:getelementptr inbounds ([64 x i8], [64 x i8]* @.str.19.194, i32 0, i32 0)	*global_alloc@.str.19.194[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:4:1:getelementptr inbounds ([64 x i8], [64 x i8]* @.str.19.194, i32 0, i32 0)	*global_alloc@.str.19.194[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:4:2:@.str.19.194	*global_alloc@.str.19.194
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:emit_bug_reporting_address:5:0:@stdout	*global_alloc@stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xmalloc:9:0:null	*null*
@@ -1876,20 +2366,42 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:x2nrealloc:15:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xcalloc:12:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:0:0:@exit_failure	*global_alloc@exit_failure
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:1:1:getelementptr inbounds ([17 x i8], [17 x i8]* @.str.1.213, i32 0, i32 0)	*global_alloc@.str.1.213[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:1:1:getelementptr inbounds ([17 x i8], [17 x i8]* @.str.1.213, i32 0, i32 0)	*global_alloc@.str.1.213[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:1:2:@.str.1.213	*global_alloc@.str.1.213
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:2:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.214, i32 0, i32 0)	*global_alloc@.str.214[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:2:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.214, i32 0, i32 0)	*global_alloc@.str.214[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xalloc_die:2:3:@.str.214	*global_alloc@.str.214
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvprintf:15:0:@stdout	*global_alloc@stdout
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvprintf:19:0:@exit_failure	*global_alloc@exit_failure
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvprintf:22:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.217, i32 0, i32 0)	*global_alloc@.str.217[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvprintf:22:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.217, i32 0, i32 0)	*global_alloc@.str.217[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvprintf:22:2:@.str.217	*global_alloc@.str.217
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvfprintf:23:0:@exit_failure	*global_alloc@exit_failure
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvfprintf:26:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.217, i32 0, i32 0)	*global_alloc@.str.217[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvfprintf:26:1:getelementptr inbounds ([32 x i8], [32 x i8]* @.str.217, i32 0, i32 0)	*global_alloc@.str.217[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xvfprintf:26:2:@.str.217	*global_alloc@.str.217
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_fatal:20:0:@exit_failure	*global_alloc@exit_failure
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:23:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.220, i32 0, i32 0)	*global_alloc@.str.220[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:23:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.220, i32 0, i32 0)	*global_alloc@.str.220[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:23:1:@.str.220	*global_alloc@.str.220
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:31:0:getelementptr inbounds ([27 x i8], [27 x i8]* @.str.1.221, i32 0, i32 0)	*global_alloc@.str.1.221[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:31:0:getelementptr inbounds ([27 x i8], [27 x i8]* @.str.1.221, i32 0, i32 0)	*global_alloc@.str.1.221[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:31:1:@.str.1.221	*global_alloc@.str.1.221
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:33:0:getelementptr inbounds ([37 x i8], [37 x i8]* @.str.2.222, i32 0, i32 0)	*global_alloc@.str.2.222[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:33:0:getelementptr inbounds ([37 x i8], [37 x i8]* @.str.2.222, i32 0, i32 0)	*global_alloc@.str.2.222[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:33:1:@.str.2.222	*global_alloc@.str.2.222
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:35:0:getelementptr inbounds ([29 x i8], [29 x i8]* @.str.3.223, i32 0, i32 0)	*global_alloc@.str.3.223[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:35:0:getelementptr inbounds ([29 x i8], [29 x i8]* @.str.3.223, i32 0, i32 0)	*global_alloc@.str.3.223[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtol_error:35:1:@.str.3.223	*global_alloc@.str.3.223
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:1:getelementptr inbounds ([38 x i8], [38 x i8]* @.str.226, i32 0, i32 0)	*global_alloc@.str.226[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:1:getelementptr inbounds ([38 x i8], [38 x i8]* @.str.226, i32 0, i32 0)	*global_alloc@.str.226[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:2:@.str.226	*global_alloc@.str.226
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:5:getelementptr inbounds ([17 x i8], [17 x i8]* @.str.1.227, i32 0, i32 0)	*global_alloc@.str.1.227[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:5:getelementptr inbounds ([17 x i8], [17 x i8]* @.str.1.227, i32 0, i32 0)	*global_alloc@.str.1.227[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:6:@.str.1.227	*global_alloc@.str.1.227
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:10:getelementptr inbounds ([79 x i8], [79 x i8]* @__PRETTY_FUNCTION__.xstrtoumax, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.xstrtoumax[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:10:getelementptr inbounds ([79 x i8], [79 x i8]* @__PRETTY_FUNCTION__.xstrtoumax, i32 0, i32 0)	*global_alloc@__PRETTY_FUNCTION__.xstrtoumax[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:37:11:@__PRETTY_FUNCTION__.xstrtoumax	*global_alloc@__PRETTY_FUNCTION__.xstrtoumax
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:41:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:xstrtoumax:92:0:null	*null*
@@ -1902,25 +2414,49 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:rpl_fseeko:30:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:rpl_mbrtowc:14:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:rpl_mbrtowc:16:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:rpl_mbrtowc:17:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.238, i32 0, i32 0)	*global_alloc@.str.238[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:rpl_mbrtowc:17:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.238, i32 0, i32 0)	*global_alloc@.str.238[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:rpl_mbrtowc:17:1:@.str.238	*global_alloc@.str.238
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:7:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:9:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:9:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:9:1:@.str.245	*global_alloc@.str.245
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:63:0:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.1.246, i32 0, i32 0)	*global_alloc@.str.1.246[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:63:0:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.1.246, i32 0, i32 0)	*global_alloc@.str.1.246[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:locale_charset:63:1:@.str.1.246	*global_alloc@.str.1.246
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:18:0:@charset_aliases	*global_alloc@charset_aliases
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:21:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:25:0:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.2.247, i32 0, i32 0)	*global_alloc@.str.2.247[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:25:0:getelementptr inbounds ([14 x i8], [14 x i8]* @.str.2.247, i32 0, i32 0)	*global_alloc@.str.2.247[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:25:1:@.str.2.247	*global_alloc@.str.2.247
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:27:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.3.248, i32 0, i32 0)	*global_alloc@.str.3.248[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:27:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.3.248, i32 0, i32 0)	*global_alloc@.str.3.248[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:27:2:@.str.3.248	*global_alloc@.str.3.248
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:30:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:38:0:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.4.249, i32 0, i32 0)	*global_alloc@.str.4.249[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:38:0:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.4.249, i32 0, i32 0)	*global_alloc@.str.4.249[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:38:1:@.str.4.249	*global_alloc@.str.4.249
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:74:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:100:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:102:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:102:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:102:1:@.str.245	*global_alloc@.str.245
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:111:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:111:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:111:1:@.str.245	*global_alloc@.str.245
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:115:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.5.250, i32 0, i32 0)	*global_alloc@.str.5.250[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:115:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.5.250, i32 0, i32 0)	*global_alloc@.str.5.250[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:115:2:@.str.5.250	*global_alloc@.str.5.250
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:118:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:122:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:122:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:122:1:@.str.245	*global_alloc@.str.245
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:125:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:180:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.6.251, i32 0, i32 0)	*global_alloc@.str.6.251[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:180:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.6.251, i32 0, i32 0)	*global_alloc@.str.6.251[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:180:2:@.str.6.251	*global_alloc@.str.6.251
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:221:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:255:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:255:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.245, i32 0, i32 0)	*global_alloc@.str.245[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:255:1:@.str.245	*global_alloc@.str.245
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/od.bc>:get_charset_aliases:270:0:@charset_aliases	*global_alloc@charset_aliases

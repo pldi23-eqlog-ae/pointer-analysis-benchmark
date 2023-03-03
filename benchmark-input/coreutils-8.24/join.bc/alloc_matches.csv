@@ -1,0 +1,1431 @@
+*argv-alloc[0]	*argv-alloc[*]
+*argv-alloc[1]	*argv-alloc[*]
+*argv-alloc[2]	*argv-alloc[*]
+*argv-alloc[3]	*argv-alloc[*]
+*argv-alloc[4]	*argv-alloc[*]
+*argv-alloc[5]	*argv-alloc[*]
+*argv-alloc[6]	*argv-alloc[*]
+*argv-alloc[7]	*argv-alloc[*]
+*argv-alloc[8]	*argv-alloc[*]
+*global_alloc@stdout[0]	*global_alloc@stdout[*]
+*global_alloc@stdout[1]	*global_alloc@stdout[*]
+*global_alloc@stdout[2]	*global_alloc@stdout[*]
+*global_alloc@stdout[3]	*global_alloc@stdout[*]
+*global_alloc@stdout[4]	*global_alloc@stdout[*]
+*global_alloc@stdout[5]	*global_alloc@stdout[*]
+*global_alloc@stdout[6]	*global_alloc@stdout[*]
+*global_alloc@stdout[7]	*global_alloc@stdout[*]
+*global_alloc@stdout[8]	*global_alloc@stdout[*]
+*global_alloc@optarg[0]	*global_alloc@optarg[*]
+*global_alloc@optarg[1]	*global_alloc@optarg[*]
+*global_alloc@optarg[2]	*global_alloc@optarg[*]
+*global_alloc@optarg[3]	*global_alloc@optarg[*]
+*global_alloc@optarg[4]	*global_alloc@optarg[*]
+*global_alloc@optarg[5]	*global_alloc@optarg[*]
+*global_alloc@optarg[6]	*global_alloc@optarg[*]
+*global_alloc@optarg[7]	*global_alloc@optarg[*]
+*global_alloc@optarg[8]	*global_alloc@optarg[*]
+*global_alloc@optind[0]	*global_alloc@optind[*]
+*global_alloc@optind[1]	*global_alloc@optind[*]
+*global_alloc@optind[2]	*global_alloc@optind[*]
+*global_alloc@stdin[0]	*global_alloc@stdin[*]
+*global_alloc@stdin[1]	*global_alloc@stdin[*]
+*global_alloc@stdin[2]	*global_alloc@stdin[*]
+*global_alloc@stdin[3]	*global_alloc@stdin[*]
+*global_alloc@stdin[4]	*global_alloc@stdin[*]
+*global_alloc@stdin[5]	*global_alloc@stdin[*]
+*global_alloc@stdin[6]	*global_alloc@stdin[*]
+*global_alloc@stdin[7]	*global_alloc@stdin[*]
+*global_alloc@stdin[8]	*global_alloc@stdin[*]
+*global_alloc@stderr[0]	*global_alloc@stderr[*]
+*global_alloc@stderr[1]	*global_alloc@stderr[*]
+*global_alloc@stderr[2]	*global_alloc@stderr[*]
+*global_alloc@stderr[3]	*global_alloc@stderr[*]
+*global_alloc@stderr[4]	*global_alloc@stderr[*]
+*global_alloc@stderr[5]	*global_alloc@stderr[*]
+*global_alloc@stderr[6]	*global_alloc@stderr[*]
+*global_alloc@stderr[7]	*global_alloc@stderr[*]
+*global_alloc@stderr[8]	*global_alloc@stderr[*]
+*global_alloc@.str[0]	*global_alloc@.str[*]
+*global_alloc@.str.1[0]	*global_alloc@.str.1[*]
+*global_alloc@.str.2[0]	*global_alloc@.str.2[*]
+*global_alloc@.str.3[0]	*global_alloc@.str.3[*]
+*global_alloc@.str.4[0]	*global_alloc@.str.4[*]
+*global_alloc@.str.5[0]	*global_alloc@.str.5[*]
+*global_alloc@.str.6[0]	*global_alloc@.str.6[*]
+*global_alloc@.str.7[0]	*global_alloc@.str.7[*]
+*global_alloc@.str.8[0]	*global_alloc@.str.8[*]
+*global_alloc@.str.9[0]	*global_alloc@.str.9[*]
+*global_alloc@.str.10[0]	*global_alloc@.str.10[*]
+*global_alloc@.str.11[0]	*global_alloc@.str.11[*]
+*global_alloc@.str.12[0]	*global_alloc@.str.12[*]
+*global_alloc@.str.13[0]	*global_alloc@.str.13[*]
+*global_alloc@hard_LC_COLLATE[0]	*global_alloc@hard_LC_COLLATE[*]
+*global_alloc@print_pairables[0]	*global_alloc@print_pairables[*]
+*global_alloc@seen_unpairable[0]	*global_alloc@seen_unpairable[*]
+*global_alloc@issued_disorder_warning[0]	*global_alloc@issued_disorder_warning[*]
+*global_alloc@check_input_order[0]	*global_alloc@check_input_order[*]
+*global_alloc@.str.14[0]	*global_alloc@.str.14[*]
+*global_alloc@longopts[0]	*global_alloc@longopts[*]
+*global_alloc@.str.15[0]	*global_alloc@.str.15[*]
+*global_alloc@print_unpairables_1[0]	*global_alloc@print_unpairables_1[*]
+*global_alloc@print_unpairables_2[0]	*global_alloc@print_unpairables_2[*]
+*global_alloc@empty_filler[0]	*global_alloc@empty_filler[*]
+*global_alloc@.str.16[0]	*global_alloc@.str.16[*]
+*global_alloc@ignore_case[0]	*global_alloc@ignore_case[*]
+*global_alloc@join_field_1[0]	*global_alloc@join_field_1[*]
+*global_alloc@join_field_2[0]	*global_alloc@join_field_2[*]
+*global_alloc@.str.17[0]	*global_alloc@.str.17[*]
+*global_alloc@autoformat[0]	*global_alloc@autoformat[*]
+*global_alloc@.str.18[0]	*global_alloc@.str.18[*]
+*global_alloc@.str.19[0]	*global_alloc@.str.19[*]
+*global_alloc@tab[0]	*global_alloc@tab[*]
+*global_alloc@.str.20[0]	*global_alloc@.str.20[*]
+*global_alloc@eolchar[0]	*global_alloc@eolchar[*]
+*global_alloc@g_names[0]	*global_alloc@g_names[*]
+*global_alloc@join_header_lines[0]	*global_alloc@join_header_lines[*]
+*global_alloc@.str.21[0]	*global_alloc@.str.21[*]
+*global_alloc@.str.22[0]	*global_alloc@.str.22[*]
+*global_alloc@.str.23[0]	*global_alloc@.str.23[*]
+*global_alloc@.str.24[0]	*global_alloc@.str.24[*]
+*global_alloc@.str.25[0]	*global_alloc@.str.25[*]
+*global_alloc@.str.26[0]	*global_alloc@.str.26[*]
+*global_alloc@.str.27[0]	*global_alloc@.str.27[*]
+*global_alloc@.str.28[0]	*global_alloc@.str.28[*]
+*global_alloc@emit_ancillary_info.infomap[0]	*global_alloc@emit_ancillary_info.infomap[*]
+*global_alloc@spareline[0]	*global_alloc@spareline[*]
+*global_alloc@outlist_end[0]	*global_alloc@outlist_end[*]
+*global_alloc@outlist_head[0]	*global_alloc@outlist_head[*]
+*global_alloc@autocount_1[0]	*global_alloc@autocount_1[*]
+*global_alloc@autocount_2[0]	*global_alloc@autocount_2[*]
+*global_alloc@uni_blank[0]	*global_alloc@uni_blank[*]
+*global_alloc@prevline[0]	*global_alloc@prevline[*]
+*global_alloc@line_no[0]	*global_alloc@line_no[*]
+*global_alloc@.str.30[0]	*global_alloc@.str.30[*]
+*global_alloc@.str.31[0]	*global_alloc@.str.31[*]
+*global_alloc@.str.32[0]	*global_alloc@.str.32[*]
+*global_alloc@.str.33[0]	*global_alloc@.str.33[*]
+*global_alloc@.str.34[0]	*global_alloc@.str.34[*]
+*global_alloc@.str.35[0]	*global_alloc@.str.35[*]
+*global_alloc@.str.36[0]	*global_alloc@.str.36[*]
+*global_alloc@.str.37[0]	*global_alloc@.str.37[*]
+*global_alloc@.str.61[0]	*global_alloc@.str.61[*]
+*global_alloc@.str.60[0]	*global_alloc@.str.60[*]
+*global_alloc@.str.56[0]	*global_alloc@.str.56[*]
+*global_alloc@.str.57[0]	*global_alloc@.str.57[*]
+*global_alloc@__PRETTY_FUNCTION__.add_field[0]	*global_alloc@__PRETTY_FUNCTION__.add_field[*]
+*global_alloc@.str.58[0]	*global_alloc@.str.58[*]
+*global_alloc@.str.54[0]	*global_alloc@.str.54[*]
+*global_alloc@.str.55[0]	*global_alloc@.str.55[*]
+*global_alloc@.str.59[0]	*global_alloc@.str.59[*]
+*global_alloc@.str.53[0]	*global_alloc@.str.53[*]
+*global_alloc@.str.52[0]	*global_alloc@.str.52[*]
+*global_alloc@.str.45[0]	*global_alloc@.str.45[*]
+*global_alloc@.str.46[0]	*global_alloc@.str.46[*]
+*global_alloc@.str.47[0]	*global_alloc@.str.47[*]
+*global_alloc@.str.48[0]	*global_alloc@.str.48[*]
+*global_alloc@.str.49[0]	*global_alloc@.str.49[*]
+*global_alloc@.str.50[0]	*global_alloc@.str.50[*]
+*global_alloc@.str.51[0]	*global_alloc@.str.51[*]
+*global_alloc@.str.38[0]	*global_alloc@.str.38[*]
+*global_alloc@.str.39[0]	*global_alloc@.str.39[*]
+*global_alloc@.str.40[0]	*global_alloc@.str.40[*]
+*global_alloc@.str.41[0]	*global_alloc@.str.41[*]
+*global_alloc@.str.42[0]	*global_alloc@.str.42[*]
+*global_alloc@.str.43[0]	*global_alloc@.str.43[*]
+*global_alloc@.str.44[0]	*global_alloc@.str.44[*]
+*global_alloc@.str.29[0]	*global_alloc@.str.29[*]
+*global_alloc@Version[0]	*global_alloc@Version[*]
+*global_alloc@.str.62[0]	*global_alloc@.str.62[*]
+*global_alloc@file_name[0]	*global_alloc@file_name[*]
+*global_alloc@ignore_EPIPE[0]	*global_alloc@ignore_EPIPE[*]
+*global_alloc@.str.65[0]	*global_alloc@.str.65[*]
+*global_alloc@.str.1.66[0]	*global_alloc@.str.1.66[*]
+*global_alloc@.str.2.67[0]	*global_alloc@.str.2.67[*]
+*global_alloc@exit_failure[0]	*global_alloc@exit_failure[*]
+*global_alloc@.str.76[0]	*global_alloc@.str.76[*]
+*global_alloc@.str.1.77[0]	*global_alloc@.str.1.77[*]
+*global_alloc@program_name[0]	*global_alloc@program_name[*]
+*global_alloc@program_invocation_short_name[0]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[1]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[2]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[3]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[4]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[5]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[6]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[7]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_short_name[8]	*global_alloc@program_invocation_short_name[*]
+*global_alloc@program_invocation_name[0]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[1]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[2]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[3]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[4]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[5]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[6]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[7]	*global_alloc@program_invocation_name[*]
+*global_alloc@program_invocation_name[8]	*global_alloc@program_invocation_name[*]
+*global_alloc@.str.86[0]	*global_alloc@.str.86[*]
+*global_alloc@.str.1.87[0]	*global_alloc@.str.1.87[*]
+*global_alloc@.str.2.88[0]	*global_alloc@.str.2.88[*]
+*global_alloc@quoting_style_args[0]	*global_alloc@quoting_style_args[*]
+*global_alloc@quoting_style_vals[0]	*global_alloc@quoting_style_vals[*]
+*global_alloc@quote_quoting_options[0]	*global_alloc@quote_quoting_options[*]
+*global_alloc@default_quoting_options[0]	*global_alloc@default_quoting_options[*]
+*global_alloc@slotvec[0]	*global_alloc@slotvec[*]
+*global_alloc@nslots[0]	*global_alloc@nslots[*]
+*global_alloc@slot0[0]	*global_alloc@slot0[*]
+*global_alloc@slotvec0[0]	*global_alloc@slotvec0[*]
+*global_alloc@.str.93[0]	*global_alloc@.str.93[*]
+*global_alloc@.str.1.94[0]	*global_alloc@.str.1.94[*]
+*global_alloc@.str.2.95[0]	*global_alloc@.str.2.95[*]
+*global_alloc@.str.3.96[0]	*global_alloc@.str.3.96[*]
+*global_alloc@.str.4.97[0]	*global_alloc@.str.4.97[*]
+*global_alloc@.str.5.98[0]	*global_alloc@.str.5.98[*]
+*global_alloc@.str.6.99[0]	*global_alloc@.str.6.99[*]
+*global_alloc@.str.7.100[0]	*global_alloc@.str.7.100[*]
+*global_alloc@.str.11.101[0]	*global_alloc@.str.11.101[*]
+*global_alloc@.str.12.102[0]	*global_alloc@.str.12.102[*]
+*global_alloc@.str.13.103[0]	*global_alloc@.str.13.103[*]
+*global_alloc@.str.14.104[0]	*global_alloc@.str.14.104[*]
+*global_alloc@.str.15.105[0]	*global_alloc@.str.15.105[*]
+*global_alloc@.str.16.106[0]	*global_alloc@.str.16.106[*]
+*global_alloc@.str.8.107[0]	*global_alloc@.str.8.107[*]
+*global_alloc@.str.10.108[0]	*global_alloc@.str.10.108[*]
+*global_alloc@.str.9.109[0]	*global_alloc@.str.9.109[*]
+*global_alloc@.str.114[0]	*global_alloc@.str.114[*]
+*global_alloc@.str.1.115[0]	*global_alloc@.str.1.115[*]
+*global_alloc@.str.2.116[0]	*global_alloc@.str.2.116[*]
+*global_alloc@.str.3.117[0]	*global_alloc@.str.3.117[*]
+*global_alloc@.str.4.118[0]	*global_alloc@.str.4.118[*]
+*global_alloc@.str.5.119[0]	*global_alloc@.str.5.119[*]
+*global_alloc@.str.6.120[0]	*global_alloc@.str.6.120[*]
+*global_alloc@.str.7.121[0]	*global_alloc@.str.7.121[*]
+*global_alloc@.str.8.122[0]	*global_alloc@.str.8.122[*]
+*global_alloc@.str.9.123[0]	*global_alloc@.str.9.123[*]
+*global_alloc@.str.10.124[0]	*global_alloc@.str.10.124[*]
+*global_alloc@.str.11.125[0]	*global_alloc@.str.11.125[*]
+*global_alloc@.str.12.126[0]	*global_alloc@.str.12.126[*]
+*global_alloc@.str.13.127[0]	*global_alloc@.str.13.127[*]
+*global_alloc@.str.14.128[0]	*global_alloc@.str.14.128[*]
+*global_alloc@.str.15.129[0]	*global_alloc@.str.15.129[*]
+*global_alloc@.str.16.130[0]	*global_alloc@.str.16.130[*]
+*global_alloc@.str.17.131[0]	*global_alloc@.str.17.131[*]
+*global_alloc@.str.18.132[0]	*global_alloc@.str.18.132[*]
+*global_alloc@.str.19.133[0]	*global_alloc@.str.19.133[*]
+*global_alloc@version_etc_copyright[0]	*global_alloc@version_etc_copyright[*]
+*global_alloc@.str.1.152[0]	*global_alloc@.str.1.152[*]
+*global_alloc@.str.153[0]	*global_alloc@.str.153[*]
+*global_alloc@.str.156[0]	*global_alloc@.str.156[*]
+*global_alloc@.str.1.157[0]	*global_alloc@.str.1.157[*]
+*global_alloc@.str.2.158[0]	*global_alloc@.str.2.158[*]
+*global_alloc@.str.161[0]	*global_alloc@.str.161[*]
+*global_alloc@.str.1.162[0]	*global_alloc@.str.1.162[*]
+*global_alloc@__PRETTY_FUNCTION__.xstrtoul[0]	*global_alloc@__PRETTY_FUNCTION__.xstrtoul[*]
+*global_alloc@rpl_fcntl.have_dupfd_cloexec[0]	*global_alloc@rpl_fcntl.have_dupfd_cloexec[*]
+*global_alloc@.str.175[0]	*global_alloc@.str.175[*]
+*global_alloc@.str.182[0]	*global_alloc@.str.182[*]
+*global_alloc@.str.1.183[0]	*global_alloc@.str.1.183[*]
+*global_alloc@charset_aliases[0]	*global_alloc@charset_aliases[*]
+*global_alloc@.str.2.184[0]	*global_alloc@.str.2.184[*]
+*global_alloc@.str.3.185[0]	*global_alloc@.str.3.185[*]
+*global_alloc@.str.4.186[0]	*global_alloc@.str.4.186[*]
+*global_alloc@.str.5.187[0]	*global_alloc@.str.5.187[*]
+*global_alloc@.str.6.188[0]	*global_alloc@.str.6.188[*]
+*global_alloc@.str[0][*]	*global_alloc@.str[*][*]
+*global_alloc@.str.1[0][*]	*global_alloc@.str.1[*][*]
+*global_alloc@.str.2[0][*]	*global_alloc@.str.2[*][*]
+*global_alloc@.str.3[0][*]	*global_alloc@.str.3[*][*]
+*global_alloc@.str.4[0][*]	*global_alloc@.str.4[*][*]
+*global_alloc@.str.5[0][*]	*global_alloc@.str.5[*][*]
+*global_alloc@.str.6[0][*]	*global_alloc@.str.6[*][*]
+*global_alloc@.str.7[0][*]	*global_alloc@.str.7[*][*]
+*global_alloc@.str.8[0][*]	*global_alloc@.str.8[*][*]
+*global_alloc@.str.9[0][*]	*global_alloc@.str.9[*][*]
+*global_alloc@.str.10[0][*]	*global_alloc@.str.10[*][*]
+*global_alloc@.str.11[0][*]	*global_alloc@.str.11[*][*]
+*global_alloc@.str.12[0][*]	*global_alloc@.str.12[*][*]
+*global_alloc@.str.13[0][*]	*global_alloc@.str.13[*][*]
+*global_alloc@issued_disorder_warning[0][*]	*global_alloc@issued_disorder_warning[*][*]
+*global_alloc@.str.14[0][*]	*global_alloc@.str.14[*][*]
+*global_alloc@longopts[0][*]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][0]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][1]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][2]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][3]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][4]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][5]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][6]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[*][7]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][0]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][1]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][2]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][3]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][4]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][5]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][6]	*global_alloc@longopts[*][*]
+*global_alloc@longopts[0][7]	*global_alloc@longopts[*][*]
+*global_alloc@.str.15[0][*]	*global_alloc@.str.15[*][*]
+*global_alloc@.str.16[0][*]	*global_alloc@.str.16[*][*]
+*global_alloc@.str.17[0][*]	*global_alloc@.str.17[*][*]
+*global_alloc@.str.18[0][*]	*global_alloc@.str.18[*][*]
+*global_alloc@.str.19[0][*]	*global_alloc@.str.19[*][*]
+*global_alloc@.str.20[0][*]	*global_alloc@.str.20[*][*]
+*global_alloc@g_names[0][*]	*global_alloc@g_names[*][*]
+*global_alloc@g_names[*][0]	*global_alloc@g_names[*][*]
+*global_alloc@g_names[*][1]	*global_alloc@g_names[*][*]
+*global_alloc@g_names[0][0]	*global_alloc@g_names[*][*]
+*global_alloc@g_names[0][1]	*global_alloc@g_names[*][*]
+*global_alloc@.str.21[0][*]	*global_alloc@.str.21[*][*]
+*global_alloc@.str.22[0][*]	*global_alloc@.str.22[*][*]
+*global_alloc@.str.23[0][*]	*global_alloc@.str.23[*][*]
+*global_alloc@.str.24[0][*]	*global_alloc@.str.24[*][*]
+*global_alloc@.str.25[0][*]	*global_alloc@.str.25[*][*]
+*global_alloc@.str.26[0][*]	*global_alloc@.str.26[*][*]
+*global_alloc@.str.27[0][*]	*global_alloc@.str.27[*][*]
+*global_alloc@.str.28[0][*]	*global_alloc@.str.28[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][*]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][0]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][1]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][2]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][3]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][4]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][5]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[*][6]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][0]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][1]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][2]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][3]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][4]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][5]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@emit_ancillary_info.infomap[0][6]	*global_alloc@emit_ancillary_info.infomap[*][*]
+*global_alloc@spareline[0][*]	*global_alloc@spareline[*][*]
+*global_alloc@spareline[*][0]	*global_alloc@spareline[*][*]
+*global_alloc@spareline[*][1]	*global_alloc@spareline[*][*]
+*global_alloc@spareline[0][0]	*global_alloc@spareline[*][*]
+*global_alloc@spareline[0][1]	*global_alloc@spareline[*][*]
+*global_alloc@prevline[0][*]	*global_alloc@prevline[*][*]
+*global_alloc@prevline[*][0]	*global_alloc@prevline[*][*]
+*global_alloc@prevline[*][1]	*global_alloc@prevline[*][*]
+*global_alloc@prevline[0][0]	*global_alloc@prevline[*][*]
+*global_alloc@prevline[0][1]	*global_alloc@prevline[*][*]
+*global_alloc@line_no[0][*]	*global_alloc@line_no[*][*]
+*global_alloc@.str.30[0][*]	*global_alloc@.str.30[*][*]
+*global_alloc@.str.31[0][*]	*global_alloc@.str.31[*][*]
+*global_alloc@.str.32[0][*]	*global_alloc@.str.32[*][*]
+*global_alloc@.str.33[0][*]	*global_alloc@.str.33[*][*]
+*global_alloc@.str.34[0][*]	*global_alloc@.str.34[*][*]
+*global_alloc@.str.35[0][*]	*global_alloc@.str.35[*][*]
+*global_alloc@.str.36[0][*]	*global_alloc@.str.36[*][*]
+*global_alloc@.str.37[0][*]	*global_alloc@.str.37[*][*]
+*global_alloc@.str.61[0][*]	*global_alloc@.str.61[*][*]
+*global_alloc@.str.60[0][*]	*global_alloc@.str.60[*][*]
+*global_alloc@.str.56[0][*]	*global_alloc@.str.56[*][*]
+*global_alloc@.str.57[0][*]	*global_alloc@.str.57[*][*]
+*global_alloc@__PRETTY_FUNCTION__.add_field[0][*]	*global_alloc@__PRETTY_FUNCTION__.add_field[*][*]
+*global_alloc@.str.58[0][*]	*global_alloc@.str.58[*][*]
+*global_alloc@.str.54[0][*]	*global_alloc@.str.54[*][*]
+*global_alloc@.str.55[0][*]	*global_alloc@.str.55[*][*]
+*global_alloc@.str.59[0][*]	*global_alloc@.str.59[*][*]
+*global_alloc@.str.53[0][*]	*global_alloc@.str.53[*][*]
+*global_alloc@.str.52[0][*]	*global_alloc@.str.52[*][*]
+*global_alloc@.str.45[0][*]	*global_alloc@.str.45[*][*]
+*global_alloc@.str.46[0][*]	*global_alloc@.str.46[*][*]
+*global_alloc@.str.47[0][*]	*global_alloc@.str.47[*][*]
+*global_alloc@.str.48[0][*]	*global_alloc@.str.48[*][*]
+*global_alloc@.str.49[0][*]	*global_alloc@.str.49[*][*]
+*global_alloc@.str.50[0][*]	*global_alloc@.str.50[*][*]
+*global_alloc@.str.51[0][*]	*global_alloc@.str.51[*][*]
+*global_alloc@.str.38[0][*]	*global_alloc@.str.38[*][*]
+*global_alloc@.str.39[0][*]	*global_alloc@.str.39[*][*]
+*global_alloc@.str.40[0][*]	*global_alloc@.str.40[*][*]
+*global_alloc@.str.41[0][*]	*global_alloc@.str.41[*][*]
+*global_alloc@.str.42[0][*]	*global_alloc@.str.42[*][*]
+*global_alloc@.str.43[0][*]	*global_alloc@.str.43[*][*]
+*global_alloc@.str.44[0][*]	*global_alloc@.str.44[*][*]
+*global_alloc@.str.29[0][*]	*global_alloc@.str.29[*][*]
+*global_alloc@.str.62[0][*]	*global_alloc@.str.62[*][*]
+*global_alloc@.str.65[0][*]	*global_alloc@.str.65[*][*]
+*global_alloc@.str.1.66[0][*]	*global_alloc@.str.1.66[*][*]
+*global_alloc@.str.2.67[0][*]	*global_alloc@.str.2.67[*][*]
+*global_alloc@.str.76[0][*]	*global_alloc@.str.76[*][*]
+*global_alloc@.str.1.77[0][*]	*global_alloc@.str.1.77[*][*]
+*global_alloc@.str.86[0][*]	*global_alloc@.str.86[*][*]
+*global_alloc@.str.1.87[0][*]	*global_alloc@.str.1.87[*][*]
+*global_alloc@.str.2.88[0][*]	*global_alloc@.str.2.88[*][*]
+*global_alloc@quoting_style_args[0][*]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][0]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][1]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][2]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][3]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][4]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][5]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][6]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][7]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[*][8]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][0]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][1]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][2]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][3]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][4]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][5]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][6]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][7]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_args[0][8]	*global_alloc@quoting_style_args[*][*]
+*global_alloc@quoting_style_vals[0][*]	*global_alloc@quoting_style_vals[*][*]
+*global_alloc@slot0[0][*]	*global_alloc@slot0[*][*]
+*global_alloc@.str.93[0][*]	*global_alloc@.str.93[*][*]
+*global_alloc@.str.1.94[0][*]	*global_alloc@.str.1.94[*][*]
+*global_alloc@.str.2.95[0][*]	*global_alloc@.str.2.95[*][*]
+*global_alloc@.str.3.96[0][*]	*global_alloc@.str.3.96[*][*]
+*global_alloc@.str.4.97[0][*]	*global_alloc@.str.4.97[*][*]
+*global_alloc@.str.5.98[0][*]	*global_alloc@.str.5.98[*][*]
+*global_alloc@.str.6.99[0][*]	*global_alloc@.str.6.99[*][*]
+*global_alloc@.str.7.100[0][*]	*global_alloc@.str.7.100[*][*]
+*global_alloc@.str.11.101[0][*]	*global_alloc@.str.11.101[*][*]
+*global_alloc@.str.12.102[0][*]	*global_alloc@.str.12.102[*][*]
+*global_alloc@.str.13.103[0][*]	*global_alloc@.str.13.103[*][*]
+*global_alloc@.str.14.104[0][*]	*global_alloc@.str.14.104[*][*]
+*global_alloc@.str.15.105[0][*]	*global_alloc@.str.15.105[*][*]
+*global_alloc@.str.16.106[0][*]	*global_alloc@.str.16.106[*][*]
+*global_alloc@.str.8.107[0][*]	*global_alloc@.str.8.107[*][*]
+*global_alloc@.str.10.108[0][*]	*global_alloc@.str.10.108[*][*]
+*global_alloc@.str.9.109[0][*]	*global_alloc@.str.9.109[*][*]
+*global_alloc@.str.114[0][*]	*global_alloc@.str.114[*][*]
+*global_alloc@.str.1.115[0][*]	*global_alloc@.str.1.115[*][*]
+*global_alloc@.str.2.116[0][*]	*global_alloc@.str.2.116[*][*]
+*global_alloc@.str.3.117[0][*]	*global_alloc@.str.3.117[*][*]
+*global_alloc@.str.4.118[0][*]	*global_alloc@.str.4.118[*][*]
+*global_alloc@.str.5.119[0][*]	*global_alloc@.str.5.119[*][*]
+*global_alloc@.str.6.120[0][*]	*global_alloc@.str.6.120[*][*]
+*global_alloc@.str.7.121[0][*]	*global_alloc@.str.7.121[*][*]
+*global_alloc@.str.8.122[0][*]	*global_alloc@.str.8.122[*][*]
+*global_alloc@.str.9.123[0][*]	*global_alloc@.str.9.123[*][*]
+*global_alloc@.str.10.124[0][*]	*global_alloc@.str.10.124[*][*]
+*global_alloc@.str.11.125[0][*]	*global_alloc@.str.11.125[*][*]
+*global_alloc@.str.12.126[0][*]	*global_alloc@.str.12.126[*][*]
+*global_alloc@.str.13.127[0][*]	*global_alloc@.str.13.127[*][*]
+*global_alloc@.str.14.128[0][*]	*global_alloc@.str.14.128[*][*]
+*global_alloc@.str.15.129[0][*]	*global_alloc@.str.15.129[*][*]
+*global_alloc@.str.16.130[0][*]	*global_alloc@.str.16.130[*][*]
+*global_alloc@.str.17.131[0][*]	*global_alloc@.str.17.131[*][*]
+*global_alloc@.str.18.132[0][*]	*global_alloc@.str.18.132[*][*]
+*global_alloc@.str.19.133[0][*]	*global_alloc@.str.19.133[*][*]
+*global_alloc@version_etc_copyright[0][*]	*global_alloc@version_etc_copyright[*][*]
+*global_alloc@.str.1.152[0][*]	*global_alloc@.str.1.152[*][*]
+*global_alloc@.str.153[0][*]	*global_alloc@.str.153[*][*]
+*global_alloc@.str.156[0][*]	*global_alloc@.str.156[*][*]
+*global_alloc@.str.1.157[0][*]	*global_alloc@.str.1.157[*][*]
+*global_alloc@.str.2.158[0][*]	*global_alloc@.str.2.158[*][*]
+*global_alloc@.str.161[0][*]	*global_alloc@.str.161[*][*]
+*global_alloc@.str.1.162[0][*]	*global_alloc@.str.1.162[*][*]
+*global_alloc@__PRETTY_FUNCTION__.xstrtoul[0][*]	*global_alloc@__PRETTY_FUNCTION__.xstrtoul[*][*]
+*global_alloc@.str.175[0][*]	*global_alloc@.str.175[*][*]
+*global_alloc@.str.182[0][*]	*global_alloc@.str.182[*][*]
+*global_alloc@.str.1.183[0][*]	*global_alloc@.str.1.183[*][*]
+*global_alloc@.str.2.184[0][*]	*global_alloc@.str.2.184[*][*]
+*global_alloc@.str.3.185[0][*]	*global_alloc@.str.3.185[*][*]
+*global_alloc@.str.4.186[0][*]	*global_alloc@.str.4.186[*][*]
+*global_alloc@.str.5.187[0][*]	*global_alloc@.str.5.187[*][*]
+*global_alloc@.str.6.188[0][*]	*global_alloc@.str.6.188[*][*]
+*global_alloc@outlist_head[0].?/0	*global_alloc@outlist_head[*].?/0
+*global_alloc@outlist_head[0].?/1	*global_alloc@outlist_head[*].?/1
+*global_alloc@outlist_head[0].?/2	*global_alloc@outlist_head[*].?/2
+*global_alloc@uni_blank[0].?/0	*global_alloc@uni_blank[*].?/0
+*global_alloc@uni_blank[0].?/1	*global_alloc@uni_blank[*].?/1
+*global_alloc@uni_blank[0].?/2	*global_alloc@uni_blank[*].?/2
+*global_alloc@uni_blank[0].?/3	*global_alloc@uni_blank[*].?/3
+*global_alloc@quote_quoting_options[0].?/0	*global_alloc@quote_quoting_options[*].?/0
+*global_alloc@quote_quoting_options[0].?/1	*global_alloc@quote_quoting_options[*].?/1
+*global_alloc@quote_quoting_options[0].?/2	*global_alloc@quote_quoting_options[*].?/2
+*global_alloc@quote_quoting_options[0].?/3	*global_alloc@quote_quoting_options[*].?/3
+*global_alloc@quote_quoting_options[0].?/4	*global_alloc@quote_quoting_options[*].?/4
+*global_alloc@default_quoting_options[0].?/0	*global_alloc@default_quoting_options[*].?/0
+*global_alloc@default_quoting_options[0].?/1	*global_alloc@default_quoting_options[*].?/1
+*global_alloc@default_quoting_options[0].?/2	*global_alloc@default_quoting_options[*].?/2
+*global_alloc@default_quoting_options[0].?/3	*global_alloc@default_quoting_options[*].?/3
+*global_alloc@default_quoting_options[0].?/4	*global_alloc@default_quoting_options[*].?/4
+*global_alloc@slotvec0[0].?/0	*global_alloc@slotvec0[*].?/0
+*global_alloc@slotvec0[0].?/1	*global_alloc@slotvec0[*].?/1
+*stack_alloc@main[i32* %retval][0]	*stack_alloc@main[i32* %retval][*]
+*stack_alloc@main[i32* %argc.addr][0]	*stack_alloc@main[i32* %argc.addr][*]
+*stack_alloc@main[i8*** %argv.addr][0]	*stack_alloc@main[i8*** %argv.addr][*]
+*stack_alloc@main[i32* %optc_status][0]	*stack_alloc@main[i32* %optc_status][*]
+*stack_alloc@main[i32* %prev_optc_status][0]	*stack_alloc@main[i32* %prev_optc_status][*]
+*stack_alloc@main[[2 x i32]* %operand_status][0]	*stack_alloc@main[[2 x i32]* %operand_status][*]
+*stack_alloc@main[[2 x i32]* %joption_count][0]	*stack_alloc@main[[2 x i32]* %joption_count][*]
+*stack_alloc@main[%struct._IO_FILE** %fp1][0]	*stack_alloc@main[%struct._IO_FILE** %fp1][*]
+*stack_alloc@main[%struct._IO_FILE** %fp2][0]	*stack_alloc@main[%struct._IO_FILE** %fp2][*]
+*stack_alloc@main[i32* %optc][0]	*stack_alloc@main[i32* %optc][*]
+*stack_alloc@main[i32* %nfiles][0]	*stack_alloc@main[i32* %nfiles][*]
+*stack_alloc@main[i32* %i][0]	*stack_alloc@main[i32* %i][*]
+*stack_alloc@main[i64* %val][0]	*stack_alloc@main[i64* %val][*]
+*stack_alloc@main[i8* %is_j2][0]	*stack_alloc@main[i8* %is_j2][*]
+*stack_alloc@main[i8* %newtab][0]	*stack_alloc@main[i8* %newtab][*]
+*argv[0]-alloc[0]	*argv[0]-alloc[*]
+*argv[0]-alloc[1]	*argv[0]-alloc[*]
+*argv[0]-alloc[2]	*argv[0]-alloc[*]
+*argv[0]-alloc[3]	*argv[0]-alloc[*]
+*argv[0]-alloc[4]	*argv[0]-alloc[*]
+*argv[0]-alloc[5]	*argv[0]-alloc[*]
+*argv[0]-alloc[6]	*argv[0]-alloc[*]
+*argv[0]-alloc[7]	*argv[0]-alloc[*]
+*argv[0]-alloc[8]	*argv[0]-alloc[*]
+*argv[1]-alloc[0]	*argv[1]-alloc[*]
+*argv[1]-alloc[1]	*argv[1]-alloc[*]
+*argv[1]-alloc[2]	*argv[1]-alloc[*]
+*argv[1]-alloc[3]	*argv[1]-alloc[*]
+*argv[1]-alloc[4]	*argv[1]-alloc[*]
+*argv[1]-alloc[5]	*argv[1]-alloc[*]
+*argv[1]-alloc[6]	*argv[1]-alloc[*]
+*argv[1]-alloc[7]	*argv[1]-alloc[*]
+*argv[1]-alloc[8]	*argv[1]-alloc[*]
+*argv[2]-alloc[0]	*argv[2]-alloc[*]
+*argv[2]-alloc[1]	*argv[2]-alloc[*]
+*argv[2]-alloc[2]	*argv[2]-alloc[*]
+*argv[2]-alloc[3]	*argv[2]-alloc[*]
+*argv[2]-alloc[4]	*argv[2]-alloc[*]
+*argv[2]-alloc[5]	*argv[2]-alloc[*]
+*argv[2]-alloc[6]	*argv[2]-alloc[*]
+*argv[2]-alloc[7]	*argv[2]-alloc[*]
+*argv[2]-alloc[8]	*argv[2]-alloc[*]
+*argv[3]-alloc[0]	*argv[3]-alloc[*]
+*argv[3]-alloc[1]	*argv[3]-alloc[*]
+*argv[3]-alloc[2]	*argv[3]-alloc[*]
+*argv[3]-alloc[3]	*argv[3]-alloc[*]
+*argv[3]-alloc[4]	*argv[3]-alloc[*]
+*argv[3]-alloc[5]	*argv[3]-alloc[*]
+*argv[3]-alloc[6]	*argv[3]-alloc[*]
+*argv[3]-alloc[7]	*argv[3]-alloc[*]
+*argv[3]-alloc[8]	*argv[3]-alloc[*]
+*argv[4]-alloc[0]	*argv[4]-alloc[*]
+*argv[4]-alloc[1]	*argv[4]-alloc[*]
+*argv[4]-alloc[2]	*argv[4]-alloc[*]
+*argv[4]-alloc[3]	*argv[4]-alloc[*]
+*argv[4]-alloc[4]	*argv[4]-alloc[*]
+*argv[4]-alloc[5]	*argv[4]-alloc[*]
+*argv[4]-alloc[6]	*argv[4]-alloc[*]
+*argv[4]-alloc[7]	*argv[4]-alloc[*]
+*argv[4]-alloc[8]	*argv[4]-alloc[*]
+*argv[5]-alloc[0]	*argv[5]-alloc[*]
+*argv[5]-alloc[1]	*argv[5]-alloc[*]
+*argv[5]-alloc[2]	*argv[5]-alloc[*]
+*argv[5]-alloc[3]	*argv[5]-alloc[*]
+*argv[5]-alloc[4]	*argv[5]-alloc[*]
+*argv[5]-alloc[5]	*argv[5]-alloc[*]
+*argv[5]-alloc[6]	*argv[5]-alloc[*]
+*argv[5]-alloc[7]	*argv[5]-alloc[*]
+*argv[5]-alloc[8]	*argv[5]-alloc[*]
+*argv[6]-alloc[0]	*argv[6]-alloc[*]
+*argv[6]-alloc[1]	*argv[6]-alloc[*]
+*argv[6]-alloc[2]	*argv[6]-alloc[*]
+*argv[6]-alloc[3]	*argv[6]-alloc[*]
+*argv[6]-alloc[4]	*argv[6]-alloc[*]
+*argv[6]-alloc[5]	*argv[6]-alloc[*]
+*argv[6]-alloc[6]	*argv[6]-alloc[*]
+*argv[6]-alloc[7]	*argv[6]-alloc[*]
+*argv[6]-alloc[8]	*argv[6]-alloc[*]
+*argv[7]-alloc[0]	*argv[7]-alloc[*]
+*argv[7]-alloc[1]	*argv[7]-alloc[*]
+*argv[7]-alloc[2]	*argv[7]-alloc[*]
+*argv[7]-alloc[3]	*argv[7]-alloc[*]
+*argv[7]-alloc[4]	*argv[7]-alloc[*]
+*argv[7]-alloc[5]	*argv[7]-alloc[*]
+*argv[7]-alloc[6]	*argv[7]-alloc[*]
+*argv[7]-alloc[7]	*argv[7]-alloc[*]
+*argv[7]-alloc[8]	*argv[7]-alloc[*]
+*argv[8]-alloc[0]	*argv[8]-alloc[*]
+*argv[8]-alloc[1]	*argv[8]-alloc[*]
+*argv[8]-alloc[2]	*argv[8]-alloc[*]
+*argv[8]-alloc[3]	*argv[8]-alloc[*]
+*argv[8]-alloc[4]	*argv[8]-alloc[*]
+*argv[8]-alloc[5]	*argv[8]-alloc[*]
+*argv[8]-alloc[6]	*argv[8]-alloc[*]
+*argv[8]-alloc[7]	*argv[8]-alloc[*]
+*argv[8]-alloc[8]	*argv[8]-alloc[*]
+*global_alloc@longopts[0][0]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][1]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][2]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][3]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][4]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][5]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][6]	*global_alloc@longopts[0][*]
+*global_alloc@longopts[0][7]	*global_alloc@longopts[0][*]
+*global_alloc@g_names[0][0]	*global_alloc@g_names[0][*]
+*global_alloc@g_names[0][1]	*global_alloc@g_names[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][0]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][1]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][2]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][3]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][4]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][5]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@emit_ancillary_info.infomap[0][6]	*global_alloc@emit_ancillary_info.infomap[0][*]
+*global_alloc@spareline[0][0]	*global_alloc@spareline[0][*]
+*global_alloc@spareline[0][1]	*global_alloc@spareline[0][*]
+*global_alloc@prevline[0][0]	*global_alloc@prevline[0][*]
+*global_alloc@prevline[0][1]	*global_alloc@prevline[0][*]
+*global_alloc@quoting_style_args[0][0]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][1]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][2]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][3]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][4]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][5]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][6]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][7]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quoting_style_args[0][8]	*global_alloc@quoting_style_args[0][*]
+*global_alloc@quote_quoting_options[0].?/2[*]	*global_alloc@quote_quoting_options[*].?/2[*]
+*global_alloc@default_quoting_options[0].?/2[*]	*global_alloc@default_quoting_options[*].?/2[*]
+*global_alloc@longopts[0][*].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][0].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][1].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][2].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][3].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][4].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][5].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][6].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[*][7].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][0].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][1].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][2].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][3].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][4].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][5].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][6].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][7].?/0	*global_alloc@longopts[*][*].?/0
+*global_alloc@longopts[0][*].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][0].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][1].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][2].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][3].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][4].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][5].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][6].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[*][7].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][0].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][1].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][2].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][3].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][4].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][5].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][6].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][7].?/1	*global_alloc@longopts[*][*].?/1
+*global_alloc@longopts[0][*].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][0].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][1].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][2].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][3].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][4].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][5].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][6].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[*][7].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][0].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][1].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][2].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][3].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][4].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][5].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][6].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][7].?/2	*global_alloc@longopts[*][*].?/2
+*global_alloc@longopts[0][*].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][0].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][1].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][2].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][3].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][4].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][5].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][6].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[*][7].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][0].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][1].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][2].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][3].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][4].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][5].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][6].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@longopts[0][7].?/3	*global_alloc@longopts[*][*].?/3
+*global_alloc@emit_ancillary_info.infomap[0][*].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][0].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][1].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][2].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][3].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][4].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][5].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[*][6].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][0].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][1].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][2].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][3].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][4].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][5].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][6].?/0	*global_alloc@emit_ancillary_info.infomap[*][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][*].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][0].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][1].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][2].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][3].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][4].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][5].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[*][6].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][0].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][1].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][2].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][3].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][4].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][5].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][6].?/1	*global_alloc@emit_ancillary_info.infomap[*][*].?/1
+*global_alloc@uni_blank[0].?/0.?/0	*global_alloc@uni_blank[*].?/0.?/0
+*global_alloc@uni_blank[0].?/0.?/1	*global_alloc@uni_blank[*].?/0.?/1
+*global_alloc@uni_blank[0].?/0.?/2	*global_alloc@uni_blank[*].?/0.?/2
+*stack_alloc@main[[2 x i32]* %operand_status][0][*]	*stack_alloc@main[[2 x i32]* %operand_status][*][*]
+*stack_alloc@main[[2 x i32]* %joption_count][0][*]	*stack_alloc@main[[2 x i32]* %joption_count][*][*]
+*global_alloc@longopts[0][0]	*global_alloc@longopts[*][0]
+*global_alloc@longopts[0][1]	*global_alloc@longopts[*][1]
+*global_alloc@longopts[0][2]	*global_alloc@longopts[*][2]
+*global_alloc@longopts[0][3]	*global_alloc@longopts[*][3]
+*global_alloc@longopts[0][4]	*global_alloc@longopts[*][4]
+*global_alloc@longopts[0][5]	*global_alloc@longopts[*][5]
+*global_alloc@longopts[0][6]	*global_alloc@longopts[*][6]
+*global_alloc@longopts[0][7]	*global_alloc@longopts[*][7]
+*global_alloc@g_names[0][0]	*global_alloc@g_names[*][0]
+*global_alloc@g_names[0][1]	*global_alloc@g_names[*][1]
+*global_alloc@emit_ancillary_info.infomap[0][0]	*global_alloc@emit_ancillary_info.infomap[*][0]
+*global_alloc@emit_ancillary_info.infomap[0][1]	*global_alloc@emit_ancillary_info.infomap[*][1]
+*global_alloc@emit_ancillary_info.infomap[0][2]	*global_alloc@emit_ancillary_info.infomap[*][2]
+*global_alloc@emit_ancillary_info.infomap[0][3]	*global_alloc@emit_ancillary_info.infomap[*][3]
+*global_alloc@emit_ancillary_info.infomap[0][4]	*global_alloc@emit_ancillary_info.infomap[*][4]
+*global_alloc@emit_ancillary_info.infomap[0][5]	*global_alloc@emit_ancillary_info.infomap[*][5]
+*global_alloc@emit_ancillary_info.infomap[0][6]	*global_alloc@emit_ancillary_info.infomap[*][6]
+*global_alloc@spareline[0][0]	*global_alloc@spareline[*][0]
+*global_alloc@spareline[0][1]	*global_alloc@spareline[*][1]
+*global_alloc@prevline[0][0]	*global_alloc@prevline[*][0]
+*global_alloc@prevline[0][1]	*global_alloc@prevline[*][1]
+*global_alloc@quoting_style_args[0][0]	*global_alloc@quoting_style_args[*][0]
+*global_alloc@quoting_style_args[0][1]	*global_alloc@quoting_style_args[*][1]
+*global_alloc@quoting_style_args[0][2]	*global_alloc@quoting_style_args[*][2]
+*global_alloc@quoting_style_args[0][3]	*global_alloc@quoting_style_args[*][3]
+*global_alloc@quoting_style_args[0][4]	*global_alloc@quoting_style_args[*][4]
+*global_alloc@quoting_style_args[0][5]	*global_alloc@quoting_style_args[*][5]
+*global_alloc@quoting_style_args[0][6]	*global_alloc@quoting_style_args[*][6]
+*global_alloc@quoting_style_args[0][7]	*global_alloc@quoting_style_args[*][7]
+*global_alloc@quoting_style_args[0][8]	*global_alloc@quoting_style_args[*][8]
+*global_alloc@longopts[0][0].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][1].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][2].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][3].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][4].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][5].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][6].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][7].?/0	*global_alloc@longopts[0][*].?/0
+*global_alloc@longopts[0][0].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][1].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][2].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][3].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][4].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][5].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][6].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][7].?/1	*global_alloc@longopts[0][*].?/1
+*global_alloc@longopts[0][0].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][1].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][2].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][3].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][4].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][5].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][6].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][7].?/2	*global_alloc@longopts[0][*].?/2
+*global_alloc@longopts[0][0].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][1].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][2].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][3].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][4].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][5].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][6].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@longopts[0][7].?/3	*global_alloc@longopts[0][*].?/3
+*global_alloc@emit_ancillary_info.infomap[0][0].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][1].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][2].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][3].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][4].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][5].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][6].?/0	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+*global_alloc@emit_ancillary_info.infomap[0][0].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][1].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][2].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][3].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][4].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][5].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*global_alloc@emit_ancillary_info.infomap[0][6].?/1	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+*stack_alloc@usage[i32* %status.addr][0]	*stack_alloc@usage[i32* %status.addr][*]
+*stack_alloc@string_to_join_field[i8** %str.addr][0]	*stack_alloc@string_to_join_field[i8** %str.addr][*]
+*stack_alloc@string_to_join_field[i64* %result][0]	*stack_alloc@string_to_join_field[i64* %result][*]
+*stack_alloc@string_to_join_field[i64* %val][0]	*stack_alloc@string_to_join_field[i64* %val][*]
+*stack_alloc@string_to_join_field[i32* %s_err][0]	*stack_alloc@string_to_join_field[i32* %s_err][*]
+*stack_alloc@set_join_field[i64** %var.addr][0]	*stack_alloc@set_join_field[i64** %var.addr][*]
+*stack_alloc@set_join_field[i64* %val.addr][0]	*stack_alloc@set_join_field[i64* %val.addr][*]
+*stack_alloc@set_join_field[i64* %var1][0]	*stack_alloc@set_join_field[i64* %var1][*]
+*stack_alloc@set_join_field[i64* %val1][0]	*stack_alloc@set_join_field[i64* %val1][*]
+*stack_alloc@add_field_list[i8** %str.addr][0]	*stack_alloc@add_field_list[i8** %str.addr][*]
+*stack_alloc@add_field_list[i8** %p][0]	*stack_alloc@add_field_list[i8** %p][*]
+*stack_alloc@add_field_list[i32* %file_index][0]	*stack_alloc@add_field_list[i32* %file_index][*]
+*stack_alloc@add_field_list[i64* %field_index][0]	*stack_alloc@add_field_list[i64* %field_index][*]
+*stack_alloc@add_field_list[i8** %spec_item][0]	*stack_alloc@add_field_list[i8** %spec_item][*]
+*stack_alloc@add_file_name[i8** %name.addr][0]	*stack_alloc@add_file_name[i8** %name.addr][*]
+*stack_alloc@add_file_name[i8*** %names.addr][0]	*stack_alloc@add_file_name[i8*** %names.addr][*]
+*stack_alloc@add_file_name[i32** %operand_status.addr][0]	*stack_alloc@add_file_name[i32** %operand_status.addr][*]
+*stack_alloc@add_file_name[i32** %joption_count.addr][0]	*stack_alloc@add_file_name[i32** %joption_count.addr][*]
+*stack_alloc@add_file_name[i32** %nfiles.addr][0]	*stack_alloc@add_file_name[i32** %nfiles.addr][*]
+*stack_alloc@add_file_name[i32** %prev_optc_status.addr][0]	*stack_alloc@add_file_name[i32** %prev_optc_status.addr][*]
+*stack_alloc@add_file_name[i32** %optc_status.addr][0]	*stack_alloc@add_file_name[i32** %optc_status.addr][*]
+*stack_alloc@add_file_name[i32* %n][0]	*stack_alloc@add_file_name[i32* %n][*]
+*stack_alloc@add_file_name[i8* %op0][0]	*stack_alloc@add_file_name[i8* %op0][*]
+*stack_alloc@add_file_name[i8** %arg][0]	*stack_alloc@add_file_name[i8** %arg][*]
+*stack_alloc@system_join[%struct._IO_FILE** %fp1.addr][0]	*stack_alloc@system_join[%struct._IO_FILE** %fp1.addr][*]
+*stack_alloc@system_join[%struct._IO_FILE** %fp2.addr][0]	*stack_alloc@system_join[%struct._IO_FILE** %fp2.addr][*]
+*stack_alloc@system_join[%struct.seq* %seq1][0]	*stack_alloc@system_join[%struct.seq* %seq1][*]
+*stack_alloc@system_join[%struct.seq* %seq2][0]	*stack_alloc@system_join[%struct.seq* %seq2][*]
+*stack_alloc@system_join[i32* %diff][0]	*stack_alloc@system_join[i32* %diff][*]
+*stack_alloc@system_join[i8* %eof1][0]	*stack_alloc@system_join[i8* %eof1][*]
+*stack_alloc@system_join[i8* %eof2][0]	*stack_alloc@system_join[i8* %eof2][*]
+*stack_alloc@system_join[%struct.line** %hline1][0]	*stack_alloc@system_join[%struct.line** %hline1][*]
+*stack_alloc@system_join[%struct.line** %hline2][0]	*stack_alloc@system_join[%struct.line** %hline2][*]
+*stack_alloc@system_join[i64* %i][0]	*stack_alloc@system_join[i64* %i][*]
+*stack_alloc@system_join[i64* %j][0]	*stack_alloc@system_join[i64* %j][*]
+*stack_alloc@system_join[%struct.line** %tmp][0]	*stack_alloc@system_join[%struct.line** %tmp][*]
+*stack_alloc@system_join[%struct.line** %tmp142][0]	*stack_alloc@system_join[%struct.line** %tmp142][*]
+*stack_alloc@system_join[%struct.line** %line][0]	*stack_alloc@system_join[%struct.line** %line][*]
+*stack_alloc@system_join[i8* %checktail][0]	*stack_alloc@system_join[i8* %checktail][*]
+*stack_alloc@fopen_safer[%struct._IO_FILE** %retval][0]	*stack_alloc@fopen_safer[%struct._IO_FILE** %retval][*]
+*stack_alloc@fopen_safer[i8** %file.addr][0]	*stack_alloc@fopen_safer[i8** %file.addr][*]
+*stack_alloc@fopen_safer[i8** %mode.addr][0]	*stack_alloc@fopen_safer[i8** %mode.addr][*]
+*stack_alloc@fopen_safer[%struct._IO_FILE** %fp][0]	*stack_alloc@fopen_safer[%struct._IO_FILE** %fp][*]
+*stack_alloc@fopen_safer[i32* %fd][0]	*stack_alloc@fopen_safer[i32* %fd][*]
+*stack_alloc@fopen_safer[i32* %f][0]	*stack_alloc@fopen_safer[i32* %f][*]
+*stack_alloc@fopen_safer[i32* %e][0]	*stack_alloc@fopen_safer[i32* %e][*]
+*stack_alloc@fopen_safer[i32* %e15][0]	*stack_alloc@fopen_safer[i32* %e15][*]
+*stack_alloc@hard_locale[i32* %category.addr][0]	*stack_alloc@hard_locale[i32* %category.addr][*]
+*stack_alloc@hard_locale[i8* %hard][0]	*stack_alloc@hard_locale[i8* %hard][*]
+*stack_alloc@hard_locale[i8** %p][0]	*stack_alloc@hard_locale[i8** %p][*]
+*stack_alloc@set_program_name[i8** %argv0.addr][0]	*stack_alloc@set_program_name[i8** %argv0.addr][*]
+*stack_alloc@set_program_name[i8** %slash][0]	*stack_alloc@set_program_name[i8** %slash][*]
+*stack_alloc@set_program_name[i8** %base][0]	*stack_alloc@set_program_name[i8** %base][*]
+*stack_alloc@quote[i8** %arg.addr][0]	*stack_alloc@quote[i8** %arg.addr][*]
+*stack_alloc@version_etc[%struct._IO_FILE** %stream.addr][0]	*stack_alloc@version_etc[%struct._IO_FILE** %stream.addr][*]
+*stack_alloc@version_etc[i8** %command_name.addr][0]	*stack_alloc@version_etc[i8** %command_name.addr][*]
+*stack_alloc@version_etc[i8** %package.addr][0]	*stack_alloc@version_etc[i8** %package.addr][*]
+*stack_alloc@version_etc[i8** %version.addr][0]	*stack_alloc@version_etc[i8** %version.addr][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0]	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*]
+*stack_alloc@xstrtoul[i32* %retval][0]	*stack_alloc@xstrtoul[i32* %retval][*]
+*stack_alloc@xstrtoul[i8** %s.addr][0]	*stack_alloc@xstrtoul[i8** %s.addr][*]
+*stack_alloc@xstrtoul[i8*** %ptr.addr][0]	*stack_alloc@xstrtoul[i8*** %ptr.addr][*]
+*stack_alloc@xstrtoul[i32* %strtol_base.addr][0]	*stack_alloc@xstrtoul[i32* %strtol_base.addr][*]
+*stack_alloc@xstrtoul[i64** %val.addr][0]	*stack_alloc@xstrtoul[i64** %val.addr][*]
+*stack_alloc@xstrtoul[i8** %valid_suffixes.addr][0]	*stack_alloc@xstrtoul[i8** %valid_suffixes.addr][*]
+*stack_alloc@xstrtoul[i8** %t_ptr][0]	*stack_alloc@xstrtoul[i8** %t_ptr][*]
+*stack_alloc@xstrtoul[i8*** %p][0]	*stack_alloc@xstrtoul[i8*** %p][*]
+*stack_alloc@xstrtoul[i64* %tmp][0]	*stack_alloc@xstrtoul[i64* %tmp][*]
+*stack_alloc@xstrtoul[i32* %err][0]	*stack_alloc@xstrtoul[i32* %err][*]
+*stack_alloc@xstrtoul[i8** %q][0]	*stack_alloc@xstrtoul[i8** %q][*]
+*stack_alloc@xstrtoul[i8* %ch][0]	*stack_alloc@xstrtoul[i8* %ch][*]
+*stack_alloc@xstrtoul[i32* %base][0]	*stack_alloc@xstrtoul[i32* %base][*]
+*stack_alloc@xstrtoul[i32* %suffixes][0]	*stack_alloc@xstrtoul[i32* %suffixes][*]
+*stack_alloc@xstrtoul[i32* %overflow][0]	*stack_alloc@xstrtoul[i32* %overflow][*]
+*stack_alloc@rpl_fclose[i32* %retval][0]	*stack_alloc@rpl_fclose[i32* %retval][*]
+*stack_alloc@rpl_fclose[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@rpl_fclose[%struct._IO_FILE** %fp.addr][*]
+*stack_alloc@rpl_fclose[i32* %saved_errno][0]	*stack_alloc@rpl_fclose[i32* %saved_errno][*]
+*stack_alloc@rpl_fclose[i32* %fd][0]	*stack_alloc@rpl_fclose[i32* %fd][*]
+*stack_alloc@rpl_fclose[i32* %result][0]	*stack_alloc@rpl_fclose[i32* %result][*]
+*global_alloc@longopts[0][0].?/0	*global_alloc@longopts[*][0].?/0
+*global_alloc@longopts[0][0].?/1	*global_alloc@longopts[*][0].?/1
+*global_alloc@longopts[0][0].?/2	*global_alloc@longopts[*][0].?/2
+*global_alloc@longopts[0][0].?/3	*global_alloc@longopts[*][0].?/3
+*global_alloc@longopts[0][1].?/0	*global_alloc@longopts[*][1].?/0
+*global_alloc@longopts[0][1].?/1	*global_alloc@longopts[*][1].?/1
+*global_alloc@longopts[0][1].?/2	*global_alloc@longopts[*][1].?/2
+*global_alloc@longopts[0][1].?/3	*global_alloc@longopts[*][1].?/3
+*global_alloc@longopts[0][2].?/0	*global_alloc@longopts[*][2].?/0
+*global_alloc@longopts[0][2].?/1	*global_alloc@longopts[*][2].?/1
+*global_alloc@longopts[0][2].?/2	*global_alloc@longopts[*][2].?/2
+*global_alloc@longopts[0][2].?/3	*global_alloc@longopts[*][2].?/3
+*global_alloc@longopts[0][3].?/0	*global_alloc@longopts[*][3].?/0
+*global_alloc@longopts[0][3].?/1	*global_alloc@longopts[*][3].?/1
+*global_alloc@longopts[0][3].?/2	*global_alloc@longopts[*][3].?/2
+*global_alloc@longopts[0][3].?/3	*global_alloc@longopts[*][3].?/3
+*global_alloc@longopts[0][4].?/0	*global_alloc@longopts[*][4].?/0
+*global_alloc@longopts[0][4].?/1	*global_alloc@longopts[*][4].?/1
+*global_alloc@longopts[0][4].?/2	*global_alloc@longopts[*][4].?/2
+*global_alloc@longopts[0][4].?/3	*global_alloc@longopts[*][4].?/3
+*global_alloc@longopts[0][5].?/0	*global_alloc@longopts[*][5].?/0
+*global_alloc@longopts[0][5].?/1	*global_alloc@longopts[*][5].?/1
+*global_alloc@longopts[0][5].?/2	*global_alloc@longopts[*][5].?/2
+*global_alloc@longopts[0][5].?/3	*global_alloc@longopts[*][5].?/3
+*global_alloc@longopts[0][6].?/0	*global_alloc@longopts[*][6].?/0
+*global_alloc@longopts[0][6].?/1	*global_alloc@longopts[*][6].?/1
+*global_alloc@longopts[0][6].?/2	*global_alloc@longopts[*][6].?/2
+*global_alloc@longopts[0][6].?/3	*global_alloc@longopts[*][6].?/3
+*global_alloc@longopts[0][7].?/0	*global_alloc@longopts[*][7].?/0
+*global_alloc@longopts[0][7].?/1	*global_alloc@longopts[*][7].?/1
+*global_alloc@longopts[0][7].?/2	*global_alloc@longopts[*][7].?/2
+*global_alloc@longopts[0][7].?/3	*global_alloc@longopts[*][7].?/3
+*global_alloc@emit_ancillary_info.infomap[0][0].?/0	*global_alloc@emit_ancillary_info.infomap[*][0].?/0
+*global_alloc@emit_ancillary_info.infomap[0][0].?/1	*global_alloc@emit_ancillary_info.infomap[*][0].?/1
+*global_alloc@emit_ancillary_info.infomap[0][1].?/0	*global_alloc@emit_ancillary_info.infomap[*][1].?/0
+*global_alloc@emit_ancillary_info.infomap[0][1].?/1	*global_alloc@emit_ancillary_info.infomap[*][1].?/1
+*global_alloc@emit_ancillary_info.infomap[0][2].?/0	*global_alloc@emit_ancillary_info.infomap[*][2].?/0
+*global_alloc@emit_ancillary_info.infomap[0][2].?/1	*global_alloc@emit_ancillary_info.infomap[*][2].?/1
+*global_alloc@emit_ancillary_info.infomap[0][3].?/0	*global_alloc@emit_ancillary_info.infomap[*][3].?/0
+*global_alloc@emit_ancillary_info.infomap[0][3].?/1	*global_alloc@emit_ancillary_info.infomap[*][3].?/1
+*global_alloc@emit_ancillary_info.infomap[0][4].?/0	*global_alloc@emit_ancillary_info.infomap[*][4].?/0
+*global_alloc@emit_ancillary_info.infomap[0][4].?/1	*global_alloc@emit_ancillary_info.infomap[*][4].?/1
+*global_alloc@emit_ancillary_info.infomap[0][5].?/0	*global_alloc@emit_ancillary_info.infomap[*][5].?/0
+*global_alloc@emit_ancillary_info.infomap[0][5].?/1	*global_alloc@emit_ancillary_info.infomap[*][5].?/1
+*global_alloc@emit_ancillary_info.infomap[0][6].?/0	*global_alloc@emit_ancillary_info.infomap[*][6].?/0
+*global_alloc@emit_ancillary_info.infomap[0][6].?/1	*global_alloc@emit_ancillary_info.infomap[*][6].?/1
+*stack_alloc@free_spareline[i64* %i][0]	*stack_alloc@free_spareline[i64* %i][*]
+*stack_alloc@close_stdout[i8** %write_error][0]	*stack_alloc@close_stdout[i8** %write_error][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*]	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0]	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0]	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*]
+*stack_alloc@system_join[%struct.seq* %seq1][0].?/0	*stack_alloc@system_join[%struct.seq* %seq1][*].?/0
+*stack_alloc@system_join[%struct.seq* %seq1][0].?/1	*stack_alloc@system_join[%struct.seq* %seq1][*].?/1
+*stack_alloc@system_join[%struct.seq* %seq1][0].?/2	*stack_alloc@system_join[%struct.seq* %seq1][*].?/2
+*stack_alloc@system_join[%struct.seq* %seq2][0].?/0	*stack_alloc@system_join[%struct.seq* %seq2][*].?/0
+*stack_alloc@system_join[%struct.seq* %seq2][0].?/1	*stack_alloc@system_join[%struct.seq* %seq2][*].?/1
+*stack_alloc@system_join[%struct.seq* %seq2][0].?/2	*stack_alloc@system_join[%struct.seq* %seq2][*].?/2
+*stack_alloc@emit_ancillary_info[i8** %program.addr][0]	*stack_alloc@emit_ancillary_info[i8** %program.addr][*]
+*stack_alloc@emit_ancillary_info[i8** %node][0]	*stack_alloc@emit_ancillary_info[i8** %node][*]
+*stack_alloc@emit_ancillary_info[%struct.infomap** %map_prog][0]	*stack_alloc@emit_ancillary_info[%struct.infomap** %map_prog][*]
+*stack_alloc@emit_ancillary_info[i8** %lc_messages][0]	*stack_alloc@emit_ancillary_info[i8** %lc_messages][*]
+*stack_alloc@freeline[%struct.line** %line.addr][0]	*stack_alloc@freeline[%struct.line** %line.addr][*]
+*stack_alloc@decode_field_spec[i8** %s.addr][0]	*stack_alloc@decode_field_spec[i8** %s.addr][*]
+*stack_alloc@decode_field_spec[i32** %file_index.addr][0]	*stack_alloc@decode_field_spec[i32** %file_index.addr][*]
+*stack_alloc@decode_field_spec[i64** %field_index.addr][0]	*stack_alloc@decode_field_spec[i64** %field_index.addr][*]
+*stack_alloc@add_field[i32* %file.addr][0]	*stack_alloc@add_field[i32* %file.addr][*]
+*stack_alloc@add_field[i64* %field.addr][0]	*stack_alloc@add_field[i64* %field.addr][*]
+*stack_alloc@add_field[%struct.outlist** %o][0]	*stack_alloc@add_field[%struct.outlist** %o][*]
+*stack_alloc@initseq[%struct.seq** %seq.addr][0]	*stack_alloc@initseq[%struct.seq** %seq.addr][*]
+*stack_alloc@getseq[i1* %retval][0]	*stack_alloc@getseq[i1* %retval][*]
+*stack_alloc@getseq[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@getseq[%struct._IO_FILE** %fp.addr][*]
+*stack_alloc@getseq[%struct.seq** %seq.addr][0]	*stack_alloc@getseq[%struct.seq** %seq.addr][*]
+*stack_alloc@getseq[i32* %whichfile.addr][0]	*stack_alloc@getseq[i32* %whichfile.addr][*]
+*stack_alloc@getseq[i64* %i][0]	*stack_alloc@getseq[i64* %i][*]
+*stack_alloc@prjoin[%struct.line** %line1.addr][0]	*stack_alloc@prjoin[%struct.line** %line1.addr][*]
+*stack_alloc@prjoin[%struct.line** %line2.addr][0]	*stack_alloc@prjoin[%struct.line** %line2.addr][*]
+*stack_alloc@prjoin[%struct.outlist** %outlist][0]	*stack_alloc@prjoin[%struct.outlist** %outlist][*]
+*stack_alloc@prjoin[i8* %output_separator][0]	*stack_alloc@prjoin[i8* %output_separator][*]
+*stack_alloc@prjoin[i64* %field][0]	*stack_alloc@prjoin[i64* %field][*]
+*stack_alloc@prjoin[%struct.line** %line][0]	*stack_alloc@prjoin[%struct.line** %line][*]
+*stack_alloc@prjoin[%struct.outlist** %o][0]	*stack_alloc@prjoin[%struct.outlist** %o][*]
+*stack_alloc@advance_seq[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@advance_seq[%struct._IO_FILE** %fp.addr][*]
+*stack_alloc@advance_seq[%struct.seq** %seq.addr][0]	*stack_alloc@advance_seq[%struct.seq** %seq.addr][*]
+*stack_alloc@advance_seq[i8* %first.addr][0]	*stack_alloc@advance_seq[i8* %first.addr][*]
+*stack_alloc@advance_seq[i32* %whichfile.addr][0]	*stack_alloc@advance_seq[i32* %whichfile.addr][*]
+*stack_alloc@keycmp[i32* %retval][0]	*stack_alloc@keycmp[i32* %retval][*]
+*stack_alloc@keycmp[%struct.line** %line1.addr][0]	*stack_alloc@keycmp[%struct.line** %line1.addr][*]
+*stack_alloc@keycmp[%struct.line** %line2.addr][0]	*stack_alloc@keycmp[%struct.line** %line2.addr][*]
+*stack_alloc@keycmp[i64* %jf_1.addr][0]	*stack_alloc@keycmp[i64* %jf_1.addr][*]
+*stack_alloc@keycmp[i64* %jf_2.addr][0]	*stack_alloc@keycmp[i64* %jf_2.addr][*]
+*stack_alloc@keycmp[i8** %beg1][0]	*stack_alloc@keycmp[i8** %beg1][*]
+*stack_alloc@keycmp[i8** %beg2][0]	*stack_alloc@keycmp[i8** %beg2][*]
+*stack_alloc@keycmp[i64* %len1][0]	*stack_alloc@keycmp[i64* %len1][*]
+*stack_alloc@keycmp[i64* %len2][0]	*stack_alloc@keycmp[i64* %len2][*]
+*stack_alloc@keycmp[i32* %diff][0]	*stack_alloc@keycmp[i32* %diff][*]
+*stack_alloc@get_line[i1* %retval][0]	*stack_alloc@get_line[i1* %retval][*]
+*stack_alloc@get_line[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@get_line[%struct._IO_FILE** %fp.addr][*]
+*stack_alloc@get_line[%struct.line*** %linep.addr][0]	*stack_alloc@get_line[%struct.line*** %linep.addr][*]
+*stack_alloc@get_line[i32* %which.addr][0]	*stack_alloc@get_line[i32* %which.addr][*]
+*stack_alloc@get_line[%struct.line** %line][0]	*stack_alloc@get_line[%struct.line** %line][*]
+*stack_alloc@get_line[%struct.line** %tmp][0]	*stack_alloc@get_line[%struct.line** %tmp][*]
+*stack_alloc@delseq[%struct.seq** %seq.addr][0]	*stack_alloc@delseq[%struct.seq** %seq.addr][*]
+*stack_alloc@delseq[i64* %i][0]	*stack_alloc@delseq[i64* %i][*]
+*stack_alloc@fadvise[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@fadvise[%struct._IO_FILE** %fp.addr][*]
+*stack_alloc@fadvise[i32* %advice.addr][0]	*stack_alloc@fadvise[i32* %advice.addr][*]
+*stack_alloc@quote_n[i32* %n.addr][0]	*stack_alloc@quote_n[i32* %n.addr][*]
+*stack_alloc@quote_n[i8** %arg.addr][0]	*stack_alloc@quote_n[i8** %arg.addr][*]
+*stack_alloc@dup_safer[i32* %fd.addr][0]	*stack_alloc@dup_safer[i32* %fd.addr][*]
+*stack_alloc@version_etc_va[%struct._IO_FILE** %stream.addr][0]	*stack_alloc@version_etc_va[%struct._IO_FILE** %stream.addr][*]
+*stack_alloc@version_etc_va[i8** %command_name.addr][0]	*stack_alloc@version_etc_va[i8** %command_name.addr][*]
+*stack_alloc@version_etc_va[i8** %package.addr][0]	*stack_alloc@version_etc_va[i8** %package.addr][*]
+*stack_alloc@version_etc_va[i8** %version.addr][0]	*stack_alloc@version_etc_va[i8** %version.addr][*]
+*stack_alloc@version_etc_va[%struct.__va_list_tag** %authors.addr][0]	*stack_alloc@version_etc_va[%struct.__va_list_tag** %authors.addr][*]
+*stack_alloc@version_etc_va[i64* %n_authors][0]	*stack_alloc@version_etc_va[i64* %n_authors][*]
+*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*]
+*stack_alloc@bkm_scale[i32* %retval][0]	*stack_alloc@bkm_scale[i32* %retval][*]
+*stack_alloc@bkm_scale[i64** %x.addr][0]	*stack_alloc@bkm_scale[i64** %x.addr][*]
+*stack_alloc@bkm_scale[i32* %scale_factor.addr][0]	*stack_alloc@bkm_scale[i32* %scale_factor.addr][*]
+*stack_alloc@bkm_scale_by_power[i64** %x.addr][0]	*stack_alloc@bkm_scale_by_power[i64** %x.addr][*]
+*stack_alloc@bkm_scale_by_power[i32* %base.addr][0]	*stack_alloc@bkm_scale_by_power[i32* %base.addr][*]
+*stack_alloc@bkm_scale_by_power[i32* %power.addr][0]	*stack_alloc@bkm_scale_by_power[i32* %power.addr][*]
+*stack_alloc@bkm_scale_by_power[i32* %err][0]	*stack_alloc@bkm_scale_by_power[i32* %err][*]
+*stack_alloc@rpl_fflush[i32* %retval][0]	*stack_alloc@rpl_fflush[i32* %retval][*]
+*stack_alloc@rpl_fflush[%struct._IO_FILE** %stream.addr][0]	*stack_alloc@rpl_fflush[%struct._IO_FILE** %stream.addr][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0]	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/0	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/0
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/0	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/0
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/0	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/0
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/1	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/1
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/1	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/1
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/1	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/1
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/2	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/2
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/2	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/2
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/2	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/2
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/3	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/3
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/3	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/3
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/3	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][*].?/3
+*stack_alloc@quotearg_colon[i8** %arg.addr][0]	*stack_alloc@quotearg_colon[i8** %arg.addr][*]
+*stack_alloc@close_stream[i32* %retval][0]	*stack_alloc@close_stream[i32* %retval][*]
+*stack_alloc@close_stream[%struct._IO_FILE** %stream.addr][0]	*stack_alloc@close_stream[%struct._IO_FILE** %stream.addr][*]
+*stack_alloc@close_stream[i8* %some_pending][0]	*stack_alloc@close_stream[i8* %some_pending][*]
+*stack_alloc@close_stream[i8* %prev_fail][0]	*stack_alloc@close_stream[i8* %prev_fail][*]
+*stack_alloc@close_stream[i8* %fclose_fail][0]	*stack_alloc@close_stream[i8* %fclose_fail][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0]	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0]
+*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][*]	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*][*]
+*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*][0]	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*][*]
+*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*][*]
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/0	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/0
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/1	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/1
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/2	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/2
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/3	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][*].?/3
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/0	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/0
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/1	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/1
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/2	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/2
+*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][0][0].?/3	*stack_alloc@version_etc[[1 x %struct.__va_list_tag]* %authors][*][0].?/3
+*stack_alloc@prfield[i64* %n.addr][0]	*stack_alloc@prfield[i64* %n.addr][*]
+*stack_alloc@prfield[%struct.line** %line.addr][0]	*stack_alloc@prfield[%struct.line** %line.addr][*]
+*stack_alloc@prfield[i64* %len][0]	*stack_alloc@prfield[i64* %len][*]
+*stack_alloc@prfields[%struct.line** %line.addr][0]	*stack_alloc@prfields[%struct.line** %line.addr][*]
+*stack_alloc@prfields[i64* %join_field.addr][0]	*stack_alloc@prfields[i64* %join_field.addr][*]
+*stack_alloc@prfields[i64* %autocount.addr][0]	*stack_alloc@prfields[i64* %autocount.addr][*]
+*stack_alloc@prfields[i64* %i][0]	*stack_alloc@prfields[i64* %i][*]
+*stack_alloc@prfields[i64* %nfields][0]	*stack_alloc@prfields[i64* %nfields][*]
+*stack_alloc@prfields[i8* %output_separator][0]	*stack_alloc@prfields[i8* %output_separator][*]
+*stack_alloc@reset_line[%struct.line** %line.addr][0]	*stack_alloc@reset_line[%struct.line** %line.addr][*]
+*stack_alloc@init_linep[%struct.line*** %linep.addr][0]	*stack_alloc@init_linep[%struct.line*** %linep.addr][*]
+*stack_alloc@init_linep[%struct.line** %line][0]	*stack_alloc@init_linep[%struct.line** %line][*]
+*stack_alloc@xfields[%struct.line** %line.addr][0]	*stack_alloc@xfields[%struct.line** %line.addr][*]
+*stack_alloc@xfields[i8** %ptr][0]	*stack_alloc@xfields[i8** %ptr][*]
+*stack_alloc@xfields[i8** %lim][0]	*stack_alloc@xfields[i8** %lim][*]
+*stack_alloc@xfields[i8** %sep][0]	*stack_alloc@xfields[i8** %sep][*]
+*stack_alloc@xfields[i8** %sep20][0]	*stack_alloc@xfields[i8** %sep20][*]
+*stack_alloc@check_order[%struct.line** %prev.addr][0]	*stack_alloc@check_order[%struct.line** %prev.addr][*]
+*stack_alloc@check_order[%struct.line** %current.addr][0]	*stack_alloc@check_order[%struct.line** %current.addr][*]
+*stack_alloc@check_order[i32* %whatfile.addr][0]	*stack_alloc@check_order[i32* %whatfile.addr][*]
+*stack_alloc@check_order[i64* %join_field][0]	*stack_alloc@check_order[i64* %join_field][*]
+*stack_alloc@check_order[i64* %len][0]	*stack_alloc@check_order[i64* %len][*]
+*stack_alloc@fdadvise[i32* %fd.addr][0]	*stack_alloc@fdadvise[i32* %fd.addr][*]
+*stack_alloc@fdadvise[i64* %offset.addr][0]	*stack_alloc@fdadvise[i64* %offset.addr][*]
+*stack_alloc@fdadvise[i64* %len.addr][0]	*stack_alloc@fdadvise[i64* %len.addr][*]
+*stack_alloc@fdadvise[i32* %advice.addr][0]	*stack_alloc@fdadvise[i32* %advice.addr][*]
+*stack_alloc@fdadvise[i32* %__x][0]	*stack_alloc@fdadvise[i32* %__x][*]
+*stack_alloc@readlinebuffer_delim[%struct.linebuffer** %retval][0]	*stack_alloc@readlinebuffer_delim[%struct.linebuffer** %retval][*]
+*stack_alloc@readlinebuffer_delim[%struct.linebuffer** %linebuffer.addr][0]	*stack_alloc@readlinebuffer_delim[%struct.linebuffer** %linebuffer.addr][*]
+*stack_alloc@readlinebuffer_delim[%struct._IO_FILE** %stream.addr][0]	*stack_alloc@readlinebuffer_delim[%struct._IO_FILE** %stream.addr][*]
+*stack_alloc@readlinebuffer_delim[i8* %delimiter.addr][0]	*stack_alloc@readlinebuffer_delim[i8* %delimiter.addr][*]
+*stack_alloc@readlinebuffer_delim[i32* %c][0]	*stack_alloc@readlinebuffer_delim[i32* %c][*]
+*stack_alloc@readlinebuffer_delim[i8** %buffer][0]	*stack_alloc@readlinebuffer_delim[i8** %buffer][*]
+*stack_alloc@readlinebuffer_delim[i8** %p][0]	*stack_alloc@readlinebuffer_delim[i8** %p][*]
+*stack_alloc@readlinebuffer_delim[i8** %end][0]	*stack_alloc@readlinebuffer_delim[i8** %end][*]
+*stack_alloc@readlinebuffer_delim[i64* %oldsize][0]	*stack_alloc@readlinebuffer_delim[i64* %oldsize][*]
+*stack_alloc@memcasecmp[i32* %retval][0]	*stack_alloc@memcasecmp[i32* %retval][*]
+*stack_alloc@memcasecmp[i8** %vs1.addr][0]	*stack_alloc@memcasecmp[i8** %vs1.addr][*]
+*stack_alloc@memcasecmp[i8** %vs2.addr][0]	*stack_alloc@memcasecmp[i8** %vs2.addr][*]
+*stack_alloc@memcasecmp[i64* %n.addr][0]	*stack_alloc@memcasecmp[i64* %n.addr][*]
+*stack_alloc@memcasecmp[i64* %i][0]	*stack_alloc@memcasecmp[i64* %i][*]
+*stack_alloc@memcasecmp[i8** %s1][0]	*stack_alloc@memcasecmp[i8** %s1][*]
+*stack_alloc@memcasecmp[i8** %s2][0]	*stack_alloc@memcasecmp[i8** %s2][*]
+*stack_alloc@memcasecmp[i8* %u1][0]	*stack_alloc@memcasecmp[i8* %u1][*]
+*stack_alloc@memcasecmp[i8* %u2][0]	*stack_alloc@memcasecmp[i8* %u2][*]
+*stack_alloc@memcasecmp[i32* %U1][0]	*stack_alloc@memcasecmp[i32* %U1][*]
+*stack_alloc@memcasecmp[i32* %U2][0]	*stack_alloc@memcasecmp[i32* %U2][*]
+*stack_alloc@memcasecmp[i32* %diff][0]	*stack_alloc@memcasecmp[i32* %diff][*]
+*stack_alloc@quote_n_mem[i32* %n.addr][0]	*stack_alloc@quote_n_mem[i32* %n.addr][*]
+*stack_alloc@quote_n_mem[i8** %arg.addr][0]	*stack_alloc@quote_n_mem[i8** %arg.addr][*]
+*stack_alloc@quote_n_mem[i64* %argsize.addr][0]	*stack_alloc@quote_n_mem[i64* %argsize.addr][*]
+*stack_alloc@version_etc_arn[%struct._IO_FILE** %stream.addr][0]	*stack_alloc@version_etc_arn[%struct._IO_FILE** %stream.addr][*]
+*stack_alloc@version_etc_arn[i8** %command_name.addr][0]	*stack_alloc@version_etc_arn[i8** %command_name.addr][*]
+*stack_alloc@version_etc_arn[i8** %package.addr][0]	*stack_alloc@version_etc_arn[i8** %package.addr][*]
+*stack_alloc@version_etc_arn[i8** %version.addr][0]	*stack_alloc@version_etc_arn[i8** %version.addr][*]
+*stack_alloc@version_etc_arn[i8*** %authors.addr][0]	*stack_alloc@version_etc_arn[i8*** %authors.addr][*]
+*stack_alloc@version_etc_arn[i64* %n_authors.addr][0]	*stack_alloc@version_etc_arn[i64* %n_authors.addr][*]
+*stack_alloc@xmalloc[i64* %n.addr][0]	*stack_alloc@xmalloc[i64* %n.addr][*]
+*stack_alloc@xmalloc[i8** %p][0]	*stack_alloc@xmalloc[i8** %p][*]
+*stack_alloc@x2nrealloc[i8** %p.addr][0]	*stack_alloc@x2nrealloc[i8** %p.addr][*]
+*stack_alloc@x2nrealloc[i64** %pn.addr][0]	*stack_alloc@x2nrealloc[i64** %pn.addr][*]
+*stack_alloc@x2nrealloc[i64* %s.addr][0]	*stack_alloc@x2nrealloc[i64* %s.addr][*]
+*stack_alloc@x2nrealloc[i64* %n][0]	*stack_alloc@x2nrealloc[i64* %n][*]
+*stack_alloc@xmemcoll[i8** %s1.addr][0]	*stack_alloc@xmemcoll[i8** %s1.addr][*]
+*stack_alloc@xmemcoll[i64* %s1len.addr][0]	*stack_alloc@xmemcoll[i64* %s1len.addr][*]
+*stack_alloc@xmemcoll[i8** %s2.addr][0]	*stack_alloc@xmemcoll[i8** %s2.addr][*]
+*stack_alloc@xmemcoll[i64* %s2len.addr][0]	*stack_alloc@xmemcoll[i64* %s2len.addr][*]
+*stack_alloc@xmemcoll[i32* %diff][0]	*stack_alloc@xmemcoll[i32* %diff][*]
+*stack_alloc@xmemcoll[i32* %collation_errno][0]	*stack_alloc@xmemcoll[i32* %collation_errno][*]
+*stack_alloc@rpl_fcntl[i32* %fd.addr][0]	*stack_alloc@rpl_fcntl[i32* %fd.addr][*]
+*stack_alloc@rpl_fcntl[i32* %action.addr][0]	*stack_alloc@rpl_fcntl[i32* %action.addr][*]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*]
+*stack_alloc@rpl_fcntl[i32* %result][0]	*stack_alloc@rpl_fcntl[i32* %result][*]
+*stack_alloc@rpl_fcntl[i32* %target][0]	*stack_alloc@rpl_fcntl[i32* %target][*]
+*stack_alloc@rpl_fcntl[i32* %flags][0]	*stack_alloc@rpl_fcntl[i32* %flags][*]
+*stack_alloc@rpl_fcntl[i32* %saved_errno][0]	*stack_alloc@rpl_fcntl[i32* %saved_errno][*]
+*stack_alloc@rpl_fcntl[i8** %p][0]	*stack_alloc@rpl_fcntl[i8** %p][*]
+*stack_alloc@clear_ungetc_buffer_preserving_position[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@clear_ungetc_buffer_preserving_position[%struct._IO_FILE** %fp.addr][*]
+*heap_alloc@xmalloc[i8* %call][0]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][1]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][2]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][3]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][4]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][8]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][16]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][24]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][32]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][40]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][48]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][56]	*heap_alloc@xmalloc[i8* %call][*]
+*heap_alloc@xmalloc[i8* %call][64]	*heap_alloc@xmalloc[i8* %call][*]
+*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][*]
+*stack_alloc@quotearg_char[i8** %arg.addr][0]	*stack_alloc@quotearg_char[i8** %arg.addr][*]
+*stack_alloc@quotearg_char[i8* %ch.addr][0]	*stack_alloc@quotearg_char[i8* %ch.addr][*]
+*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*][0]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*]	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0]	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*]
+*stack_alloc@extract_field[%struct.line** %line.addr][0]	*stack_alloc@extract_field[%struct.line** %line.addr][*]
+*stack_alloc@extract_field[i8** %field.addr][0]	*stack_alloc@extract_field[i8** %field.addr][*]
+*stack_alloc@extract_field[i64* %len.addr][0]	*stack_alloc@extract_field[i64* %len.addr][*]
+*stack_alloc@to_uchar[i8* %ch.addr][0]	*stack_alloc@to_uchar[i8* %ch.addr][*]
+*stack_alloc@quotearg_n_options[i32* %n.addr][0]	*stack_alloc@quotearg_n_options[i32* %n.addr][*]
+*stack_alloc@quotearg_n_options[i8** %arg.addr][0]	*stack_alloc@quotearg_n_options[i8** %arg.addr][*]
+*stack_alloc@quotearg_n_options[i64* %argsize.addr][0]	*stack_alloc@quotearg_n_options[i64* %argsize.addr][*]
+*stack_alloc@quotearg_n_options[%struct.quoting_options** %options.addr][0]	*stack_alloc@quotearg_n_options[%struct.quoting_options** %options.addr][*]
+*stack_alloc@quotearg_n_options[i32* %e][0]	*stack_alloc@quotearg_n_options[i32* %e][*]
+*stack_alloc@quotearg_n_options[i32* %n0][0]	*stack_alloc@quotearg_n_options[i32* %n0][*]
+*stack_alloc@quotearg_n_options[%struct.slotvec** %sv][0]	*stack_alloc@quotearg_n_options[%struct.slotvec** %sv][*]
+*stack_alloc@quotearg_n_options[i64* %n1][0]	*stack_alloc@quotearg_n_options[i64* %n1][*]
+*stack_alloc@quotearg_n_options[i8* %preallocated][0]	*stack_alloc@quotearg_n_options[i8* %preallocated][*]
+*stack_alloc@quotearg_n_options[i64* %size][0]	*stack_alloc@quotearg_n_options[i64* %size][*]
+*stack_alloc@quotearg_n_options[i8** %val][0]	*stack_alloc@quotearg_n_options[i8** %val][*]
+*stack_alloc@quotearg_n_options[i32* %flags][0]	*stack_alloc@quotearg_n_options[i32* %flags][*]
+*stack_alloc@quotearg_n_options[i64* %qsize][0]	*stack_alloc@quotearg_n_options[i64* %qsize][*]
+*stack_alloc@xrealloc[i8** %retval][0]	*stack_alloc@xrealloc[i8** %retval][*]
+*stack_alloc@xrealloc[i8** %p.addr][0]	*stack_alloc@xrealloc[i8** %p.addr][*]
+*stack_alloc@xrealloc[i64* %n.addr][0]	*stack_alloc@xrealloc[i64* %n.addr][*]
+*stack_alloc@x2realloc[i8** %p.addr][0]	*stack_alloc@x2realloc[i8** %p.addr][*]
+*stack_alloc@x2realloc[i64** %pn.addr][0]	*stack_alloc@x2realloc[i64** %pn.addr][*]
+*stack_alloc@xcalloc[i64* %n.addr][0]	*stack_alloc@xcalloc[i64* %n.addr][*]
+*stack_alloc@xcalloc[i64* %s.addr][0]	*stack_alloc@xcalloc[i64* %s.addr][*]
+*stack_alloc@xcalloc[i8** %p][0]	*stack_alloc@xcalloc[i8** %p][*]
+*stack_alloc@collate_error[i32* %collation_errno.addr][0]	*stack_alloc@collate_error[i32* %collation_errno.addr][*]
+*stack_alloc@collate_error[i8** %s1.addr][0]	*stack_alloc@collate_error[i8** %s1.addr][*]
+*stack_alloc@collate_error[i64* %s1len.addr][0]	*stack_alloc@collate_error[i64* %s1len.addr][*]
+*stack_alloc@collate_error[i8** %s2.addr][0]	*stack_alloc@collate_error[i8** %s2.addr][*]
+*stack_alloc@collate_error[i64* %s2len.addr][0]	*stack_alloc@collate_error[i64* %s2len.addr][*]
+*stack_alloc@rpl_fseeko[i32* %retval][0]	*stack_alloc@rpl_fseeko[i32* %retval][*]
+*stack_alloc@rpl_fseeko[%struct._IO_FILE** %fp.addr][0]	*stack_alloc@rpl_fseeko[%struct._IO_FILE** %fp.addr][*]
+*stack_alloc@rpl_fseeko[i64* %offset.addr][0]	*stack_alloc@rpl_fseeko[i64* %offset.addr][*]
+*stack_alloc@rpl_fseeko[i32* %whence.addr][0]	*stack_alloc@rpl_fseeko[i32* %whence.addr][*]
+*stack_alloc@rpl_fseeko[i64* %pos][0]	*stack_alloc@rpl_fseeko[i64* %pos][*]
+*stack_alloc@memcoll[i8** %s1.addr][0]	*stack_alloc@memcoll[i8** %s1.addr][*]
+*stack_alloc@memcoll[i64* %s1len.addr][0]	*stack_alloc@memcoll[i64* %s1len.addr][*]
+*stack_alloc@memcoll[i8** %s2.addr][0]	*stack_alloc@memcoll[i8** %s2.addr][*]
+*stack_alloc@memcoll[i64* %s2len.addr][0]	*stack_alloc@memcoll[i64* %s2len.addr][*]
+*stack_alloc@memcoll[i32* %diff][0]	*stack_alloc@memcoll[i32* %diff][*]
+*stack_alloc@memcoll[i8* %n1][0]	*stack_alloc@memcoll[i8* %n1][*]
+*stack_alloc@memcoll[i8* %n2][0]	*stack_alloc@memcoll[i8* %n2][*]
+*heap_alloc@xrealloc[i8* %call][0]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][1]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][2]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][3]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][4]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][8]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][16]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][24]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][32]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][40]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][48]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][56]	*heap_alloc@xrealloc[i8* %call][*]
+*heap_alloc@xrealloc[i8* %call][64]	*heap_alloc@xrealloc[i8* %call][*]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/0	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/0
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/0	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/0
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/0	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/0
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/1	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/1
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/1	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/1
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/1	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/1
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/2
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/2
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/2
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/3	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/3
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/3	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/3
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/3	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][*].?/3
+*stack_alloc@quotearg_char_mem[i8** %arg.addr][0]	*stack_alloc@quotearg_char_mem[i8** %arg.addr][*]
+*stack_alloc@quotearg_char_mem[i64* %argsize.addr][0]	*stack_alloc@quotearg_char_mem[i64* %argsize.addr][*]
+*stack_alloc@quotearg_char_mem[i8* %ch.addr][0]	*stack_alloc@quotearg_char_mem[i8* %ch.addr][*]
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0]	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0]
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/0	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/0
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/1	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/1
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/2
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/3	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][*].?/3
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/0	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*].?/0
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/1	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*].?/1
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/2	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*].?/2
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/3	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*].?/3
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/4	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*].?/4
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/0	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/0
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/1	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/1
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/2
+*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/3	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][*][0].?/3
+*stack_alloc@quotearg_n_style_mem[i32* %n.addr][0]	*stack_alloc@quotearg_n_style_mem[i32* %n.addr][*]
+*stack_alloc@quotearg_n_style_mem[i32* %s.addr][0]	*stack_alloc@quotearg_n_style_mem[i32* %s.addr][*]
+*stack_alloc@quotearg_n_style_mem[i8** %arg.addr][0]	*stack_alloc@quotearg_n_style_mem[i8** %arg.addr][*]
+*stack_alloc@quotearg_n_style_mem[i64* %argsize.addr][0]	*stack_alloc@quotearg_n_style_mem[i64* %argsize.addr][*]
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0]	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %retval][0]	*stack_alloc@quotearg_buffer_restyled[i64* %retval][*]
+*stack_alloc@quotearg_buffer_restyled[i8** %buffer.addr][0]	*stack_alloc@quotearg_buffer_restyled[i8** %buffer.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %buffersize.addr][0]	*stack_alloc@quotearg_buffer_restyled[i64* %buffersize.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i8** %arg.addr][0]	*stack_alloc@quotearg_buffer_restyled[i8** %arg.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %argsize.addr][0]	*stack_alloc@quotearg_buffer_restyled[i64* %argsize.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i32* %quoting_style.addr][0]	*stack_alloc@quotearg_buffer_restyled[i32* %quoting_style.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i32* %flags.addr][0]	*stack_alloc@quotearg_buffer_restyled[i32* %flags.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i32** %quote_these_too.addr][0]	*stack_alloc@quotearg_buffer_restyled[i32** %quote_these_too.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i8** %left_quote.addr][0]	*stack_alloc@quotearg_buffer_restyled[i8** %left_quote.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i8** %right_quote.addr][0]	*stack_alloc@quotearg_buffer_restyled[i8** %right_quote.addr][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %i][0]	*stack_alloc@quotearg_buffer_restyled[i64* %i][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %len][0]	*stack_alloc@quotearg_buffer_restyled[i64* %len][*]
+*stack_alloc@quotearg_buffer_restyled[i8** %quote_string][0]	*stack_alloc@quotearg_buffer_restyled[i8** %quote_string][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %quote_string_len][0]	*stack_alloc@quotearg_buffer_restyled[i64* %quote_string_len][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %backslash_escapes][0]	*stack_alloc@quotearg_buffer_restyled[i8* %backslash_escapes][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %unibyte_locale][0]	*stack_alloc@quotearg_buffer_restyled[i8* %unibyte_locale][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %elide_outer_quotes][0]	*stack_alloc@quotearg_buffer_restyled[i8* %elide_outer_quotes][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %c][0]	*stack_alloc@quotearg_buffer_restyled[i8* %c][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %esc][0]	*stack_alloc@quotearg_buffer_restyled[i8* %esc][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %is_right_quote][0]	*stack_alloc@quotearg_buffer_restyled[i8* %is_right_quote][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %m][0]	*stack_alloc@quotearg_buffer_restyled[i64* %m][*]
+*stack_alloc@quotearg_buffer_restyled[i8* %printable][0]	*stack_alloc@quotearg_buffer_restyled[i8* %printable][*]
+*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][0]	*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][*]
+*stack_alloc@quotearg_buffer_restyled[i32* %w][0]	*stack_alloc@quotearg_buffer_restyled[i32* %w][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %bytes][0]	*stack_alloc@quotearg_buffer_restyled[i64* %bytes][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %j][0]	*stack_alloc@quotearg_buffer_restyled[i64* %j][*]
+*stack_alloc@quotearg_buffer_restyled[i64* %ilim][0]	*stack_alloc@quotearg_buffer_restyled[i64* %ilim][*]
+*stack_alloc@xcharalloc[i64* %n.addr][0]	*stack_alloc@xcharalloc[i64* %n.addr][*]
+*stack_alloc@rpl_calloc[i8** %retval][0]	*stack_alloc@rpl_calloc[i8** %retval][*]
+*stack_alloc@rpl_calloc[i64* %n.addr][0]	*stack_alloc@rpl_calloc[i64* %n.addr][*]
+*stack_alloc@rpl_calloc[i64* %s.addr][0]	*stack_alloc@rpl_calloc[i64* %s.addr][*]
+*stack_alloc@rpl_calloc[i8** %result][0]	*stack_alloc@rpl_calloc[i8** %result][*]
+*stack_alloc@rpl_calloc[i64* %bytes][0]	*stack_alloc@rpl_calloc[i64* %bytes][*]
+*stack_alloc@strcoll_loop[i32* %retval][0]	*stack_alloc@strcoll_loop[i32* %retval][*]
+*stack_alloc@strcoll_loop[i8** %s1.addr][0]	*stack_alloc@strcoll_loop[i8** %s1.addr][*]
+*stack_alloc@strcoll_loop[i64* %s1size.addr][0]	*stack_alloc@strcoll_loop[i64* %s1size.addr][*]
+*stack_alloc@strcoll_loop[i8** %s2.addr][0]	*stack_alloc@strcoll_loop[i8** %s2.addr][*]
+*stack_alloc@strcoll_loop[i64* %s2size.addr][0]	*stack_alloc@strcoll_loop[i64* %s2size.addr][*]
+*stack_alloc@strcoll_loop[i32* %diff][0]	*stack_alloc@strcoll_loop[i32* %diff][*]
+*stack_alloc@strcoll_loop[i64* %size1][0]	*stack_alloc@strcoll_loop[i64* %size1][*]
+*stack_alloc@strcoll_loop[i64* %size2][0]	*stack_alloc@strcoll_loop[i64* %size2][*]
+*heap_alloc@rpl_calloc[i8* %call5][0]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][1]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][2]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][3]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][4]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][8]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][16]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][24]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][32]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][40]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][48]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][56]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*heap_alloc@rpl_calloc[i8* %call5][64]	*heap_alloc@rpl_calloc[i8* %call5][*]
+*stack_alloc@set_char_quoting[%struct.quoting_options** %o.addr][0]	*stack_alloc@set_char_quoting[%struct.quoting_options** %o.addr][*]
+*stack_alloc@set_char_quoting[i8* %c.addr][0]	*stack_alloc@set_char_quoting[i8* %c.addr][*]
+*stack_alloc@set_char_quoting[i32* %i.addr][0]	*stack_alloc@set_char_quoting[i32* %i.addr][*]
+*stack_alloc@set_char_quoting[i8* %uc][0]	*stack_alloc@set_char_quoting[i8* %uc][*]
+*stack_alloc@set_char_quoting[i32** %p][0]	*stack_alloc@set_char_quoting[i32** %p][*]
+*stack_alloc@set_char_quoting[i32* %shift][0]	*stack_alloc@set_char_quoting[i32* %shift][*]
+*stack_alloc@set_char_quoting[i32* %r][0]	*stack_alloc@set_char_quoting[i32* %r][*]
+*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/2[*]	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][*].?/2[*]
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/0	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*].?/0
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/1	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*].?/1
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*].?/2
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/3	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*].?/3
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/4	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*].?/4
+*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][0].?/0	*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][*].?/0
+*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][0].?/1	*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][*].?/1
+*stack_alloc@quoting_options_from_style[i32* %style.addr][0]	*stack_alloc@quoting_options_from_style[i32* %style.addr][*]
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0]	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*]
+*stack_alloc@gettext_quote[i8** %retval][0]	*stack_alloc@gettext_quote[i8** %retval][*]
+*stack_alloc@gettext_quote[i8** %msgid.addr][0]	*stack_alloc@gettext_quote[i8** %msgid.addr][*]
+*stack_alloc@gettext_quote[i32* %s.addr][0]	*stack_alloc@gettext_quote[i32* %s.addr][*]
+*stack_alloc@gettext_quote[i8** %translation][0]	*stack_alloc@gettext_quote[i8** %translation][*]
+*stack_alloc@gettext_quote[i8** %locale_code][0]	*stack_alloc@gettext_quote[i8** %locale_code][*]
+*stack_alloc@rpl_mbrtowc[i64* %retval][0]	*stack_alloc@rpl_mbrtowc[i64* %retval][*]
+*stack_alloc@rpl_mbrtowc[i32** %pwc.addr][0]	*stack_alloc@rpl_mbrtowc[i32** %pwc.addr][*]
+*stack_alloc@rpl_mbrtowc[i8** %s.addr][0]	*stack_alloc@rpl_mbrtowc[i8** %s.addr][*]
+*stack_alloc@rpl_mbrtowc[i64* %n.addr][0]	*stack_alloc@rpl_mbrtowc[i64* %n.addr][*]
+*stack_alloc@rpl_mbrtowc[%struct.__mbstate_t** %ps.addr][0]	*stack_alloc@rpl_mbrtowc[%struct.__mbstate_t** %ps.addr][*]
+*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2[*]	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][*].?/2[*]
+*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][0].?/1.?/0	*stack_alloc@quotearg_buffer_restyled[%struct.__mbstate_t* %mbstate][*].?/1.?/0
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/0	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*].?/0
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/1	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*].?/1
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/2	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*].?/2
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/3	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*].?/3
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/4	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*].?/4
+*stack_alloc@c_strcasecmp[i32* %retval][0]	*stack_alloc@c_strcasecmp[i32* %retval][*]
+*stack_alloc@c_strcasecmp[i8** %s1.addr][0]	*stack_alloc@c_strcasecmp[i8** %s1.addr][*]
+*stack_alloc@c_strcasecmp[i8** %s2.addr][0]	*stack_alloc@c_strcasecmp[i8** %s2.addr][*]
+*stack_alloc@c_strcasecmp[i8** %p1][0]	*stack_alloc@c_strcasecmp[i8** %p1][*]
+*stack_alloc@c_strcasecmp[i8** %p2][0]	*stack_alloc@c_strcasecmp[i8** %p2][*]
+*stack_alloc@c_strcasecmp[i8* %c1][0]	*stack_alloc@c_strcasecmp[i8* %c1][*]
+*stack_alloc@c_strcasecmp[i8* %c2][0]	*stack_alloc@c_strcasecmp[i8* %c2][*]
+*stack_alloc@locale_charset[i8** %codeset][0]	*stack_alloc@locale_charset[i8** %codeset][*]
+*stack_alloc@locale_charset[i8** %aliases][0]	*stack_alloc@locale_charset[i8** %aliases][*]
+*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/2[*]	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][*].?/2[*]
+*stack_alloc@get_charset_aliases[i8** %cp][0]	*stack_alloc@get_charset_aliases[i8** %cp][*]
+*stack_alloc@get_charset_aliases[i8** %dir][0]	*stack_alloc@get_charset_aliases[i8** %dir][*]
+*stack_alloc@get_charset_aliases[i8** %base][0]	*stack_alloc@get_charset_aliases[i8** %base][*]
+*stack_alloc@get_charset_aliases[i8** %file_name][0]	*stack_alloc@get_charset_aliases[i8** %file_name][*]
+*stack_alloc@get_charset_aliases[i64* %dir_len][0]	*stack_alloc@get_charset_aliases[i64* %dir_len][*]
+*stack_alloc@get_charset_aliases[i64* %base_len][0]	*stack_alloc@get_charset_aliases[i64* %base_len][*]
+*stack_alloc@get_charset_aliases[i32* %add_slash][0]	*stack_alloc@get_charset_aliases[i32* %add_slash][*]
+*stack_alloc@get_charset_aliases[i32* %fd][0]	*stack_alloc@get_charset_aliases[i32* %fd][*]
+*stack_alloc@get_charset_aliases[%struct._IO_FILE** %fp][0]	*stack_alloc@get_charset_aliases[%struct._IO_FILE** %fp][*]
+*stack_alloc@get_charset_aliases[i8** %res_ptr][0]	*stack_alloc@get_charset_aliases[i8** %res_ptr][*]
+*stack_alloc@get_charset_aliases[i64* %res_size][0]	*stack_alloc@get_charset_aliases[i64* %res_size][*]
+*stack_alloc@get_charset_aliases[i32* %c][0]	*stack_alloc@get_charset_aliases[i32* %c][*]
+*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0]	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][*]
+*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0]	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][*]
+*stack_alloc@get_charset_aliases[i64* %l1][0]	*stack_alloc@get_charset_aliases[i64* %l1][*]
+*stack_alloc@get_charset_aliases[i64* %l2][0]	*stack_alloc@get_charset_aliases[i64* %l2][*]
+*stack_alloc@get_charset_aliases[i8** %old_res_ptr][0]	*stack_alloc@get_charset_aliases[i8** %old_res_ptr][*]
+*stack_alloc@c_tolower[i32* %c.addr][0]	*stack_alloc@c_tolower[i32* %c.addr][*]
+*heap_alloc@get_charset_aliases[i8* %call16][0]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][1]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][2]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][3]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][4]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][8]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][16]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][24]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][32]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][40]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][48]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][56]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call16][64]	*heap_alloc@get_charset_aliases[i8* %call16][*]
+*heap_alloc@get_charset_aliases[i8* %call87][0]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][1]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][2]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][3]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][4]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][8]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][16]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][24]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][32]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][40]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][48]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][56]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call87][64]	*heap_alloc@get_charset_aliases[i8* %call87][*]
+*heap_alloc@get_charset_aliases[i8* %call94][0]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][1]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][2]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][3]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][4]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][8]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][16]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][24]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][32]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][40]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][48]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][56]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*heap_alloc@get_charset_aliases[i8* %call94][64]	*heap_alloc@get_charset_aliases[i8* %call94][*]
+*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0][*]	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][*][*]
+*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0][*]	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][*][*]
+*typed_heap_alloc@xmalloc[%struct.outlist* %call][0]	*typed_heap_alloc@xmalloc[%struct.outlist* %call][*]
+*typed_heap_alloc@xmalloc[%struct.outlist* %call][0].?/0	*typed_heap_alloc@xmalloc[%struct.outlist* %call][*].?/0
+*typed_heap_alloc@xmalloc[%struct.outlist* %call][0].?/1	*typed_heap_alloc@xmalloc[%struct.outlist* %call][*].?/1
+*typed_heap_alloc@xmalloc[%struct.outlist* %call][0].?/2	*typed_heap_alloc@xmalloc[%struct.outlist* %call][*].?/2
+*typed_heap_alloc@xrealloc[%struct.slotvec* %call][0]	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+*typed_heap_alloc@xrealloc[%struct.slotvec* %call][0].?/0	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*].?/0
+*typed_heap_alloc@xrealloc[%struct.slotvec* %call][0].?/1	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*].?/1
+*typed_heap_alloc@xrealloc[%struct.line** %call][0]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][1]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][2]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][3]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][4]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][5]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][6]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][7]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.line** %call][8]	*typed_heap_alloc@xrealloc[%struct.line** %call][*]
+*typed_heap_alloc@xrealloc[%struct.field* %call][0]	*typed_heap_alloc@xrealloc[%struct.field* %call][*]
+*typed_heap_alloc@xrealloc[%struct.field* %call][0].?/0	*typed_heap_alloc@xrealloc[%struct.field* %call][*].?/0
+*typed_heap_alloc@xrealloc[%struct.field* %call][0].?/1	*typed_heap_alloc@xrealloc[%struct.field* %call][*].?/1
+*typed_heap_alloc@xrealloc[i8* %call][0]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][1]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][2]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][3]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][4]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][8]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][16]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][24]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][32]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][40]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][48]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][56]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@xrealloc[i8* %call][64]	*typed_heap_alloc@xrealloc[i8* %call][*]
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0]	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/0	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/0
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/1	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/1
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/2	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/2
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/3	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/3
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/0.?/0	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/0.?/0
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/0.?/1	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/0.?/1
+*typed_heap_alloc@rpl_calloc[%struct.line* %call5][0].?/0.?/2	*typed_heap_alloc@rpl_calloc[%struct.line* %call5][*].?/0.?/2
+*typed_heap_alloc@rpl_calloc[i8* %call5][0]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][1]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][2]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][3]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][4]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][8]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][16]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][24]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][32]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][40]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][48]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][56]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@rpl_calloc[i8* %call5][64]	*typed_heap_alloc@rpl_calloc[i8* %call5][*]
+*typed_heap_alloc@xmalloc[i8* %call][0]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][1]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][2]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][3]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][4]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][8]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][16]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][24]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][32]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][40]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][48]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][56]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[i8* %call][64]	*typed_heap_alloc@xmalloc[i8* %call][*]
+*typed_heap_alloc@xmalloc[%struct.slotvec* %call][0]	*typed_heap_alloc@xmalloc[%struct.slotvec* %call][*]
+*typed_heap_alloc@rpl_calloc[%struct.slotvec* %call5][0]	*typed_heap_alloc@rpl_calloc[%struct.slotvec* %call5][*]
+*typed_heap_alloc@xmalloc[%struct.slotvec* %call][0].?/0	*typed_heap_alloc@xmalloc[%struct.slotvec* %call][*].?/0
+*typed_heap_alloc@xmalloc[%struct.slotvec* %call][0].?/1	*typed_heap_alloc@xmalloc[%struct.slotvec* %call][*].?/1
+*typed_heap_alloc@rpl_calloc[%struct.slotvec* %call5][0].?/0	*typed_heap_alloc@rpl_calloc[%struct.slotvec* %call5][*].?/0
+*typed_heap_alloc@rpl_calloc[%struct.slotvec* %call5][0].?/1	*typed_heap_alloc@rpl_calloc[%struct.slotvec* %call5][*].?/1
+*typed_heap_alloc@xmalloc[%struct.line** %call][0]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][1]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][2]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][3]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][4]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][5]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][6]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][7]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.line** %call][8]	*typed_heap_alloc@xmalloc[%struct.line** %call][*]
+*typed_heap_alloc@xmalloc[%struct.field* %call][0]	*typed_heap_alloc@xmalloc[%struct.field* %call][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][0]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][1]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][2]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][3]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][4]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][5]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][6]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][7]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.line** %call5][8]	*typed_heap_alloc@rpl_calloc[%struct.line** %call5][*]
+*typed_heap_alloc@rpl_calloc[%struct.field* %call5][0]	*typed_heap_alloc@rpl_calloc[%struct.field* %call5][*]
+*typed_heap_alloc@xmalloc[%struct.field* %call][0].?/0	*typed_heap_alloc@xmalloc[%struct.field* %call][*].?/0
+*typed_heap_alloc@xmalloc[%struct.field* %call][0].?/1	*typed_heap_alloc@xmalloc[%struct.field* %call][*].?/1
+*typed_heap_alloc@rpl_calloc[%struct.field* %call5][0].?/0	*typed_heap_alloc@rpl_calloc[%struct.field* %call5][*].?/0
+*typed_heap_alloc@rpl_calloc[%struct.field* %call5][0].?/1	*typed_heap_alloc@rpl_calloc[%struct.field* %call5][*].?/1

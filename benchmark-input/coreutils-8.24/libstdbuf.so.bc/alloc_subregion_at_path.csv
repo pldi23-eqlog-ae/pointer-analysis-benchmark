@@ -1,0 +1,200 @@
+*argv-alloc		*argv-alloc
+*argv-alloc	[*]	*argv-alloc[*]
+*argv-alloc	[0]	*argv-alloc[0]
+*global_alloc@stderr		*global_alloc@stderr
+*global_alloc@stderr	[*]	*global_alloc@stderr[*]
+*global_alloc@stderr	[0]	*global_alloc@stderr[0]
+*global_alloc@stdin		*global_alloc@stdin
+*global_alloc@stdin	[*]	*global_alloc@stdin[*]
+*global_alloc@stdin	[0]	*global_alloc@stdin[0]
+*global_alloc@stdout		*global_alloc@stdout
+*global_alloc@stdout	[*]	*global_alloc@stdout[*]
+*global_alloc@stdout	[0]	*global_alloc@stdout[0]
+*global_alloc@llvm.global_ctors		*global_alloc@llvm.global_ctors
+*global_alloc@llvm.global_ctors	[*]	*global_alloc@llvm.global_ctors[*]
+*global_alloc@llvm.global_ctors	[0]	*global_alloc@llvm.global_ctors[0]
+*global_alloc@llvm.global_ctors	[*][*]	*global_alloc@llvm.global_ctors[*][*]
+*global_alloc@llvm.global_ctors	[0][*]	*global_alloc@llvm.global_ctors[0][*]
+*global_alloc@llvm.global_ctors	[*][*]/0	*global_alloc@llvm.global_ctors[*][*].?/0
+*global_alloc@llvm.global_ctors	[*][*]/1	*global_alloc@llvm.global_ctors[*][*].?/1
+*global_alloc@llvm.global_ctors	[*][*]/2	*global_alloc@llvm.global_ctors[*][*].?/2
+*global_alloc@llvm.global_ctors	[*][0]	*global_alloc@llvm.global_ctors[*][0]
+*global_alloc@llvm.global_ctors	[0][*]/0	*global_alloc@llvm.global_ctors[0][*].?/0
+*global_alloc@llvm.global_ctors	[0][*]/1	*global_alloc@llvm.global_ctors[0][*].?/1
+*global_alloc@llvm.global_ctors	[0][*]/2	*global_alloc@llvm.global_ctors[0][*].?/2
+*global_alloc@llvm.global_ctors	[0][0]	*global_alloc@llvm.global_ctors[0][0]
+*global_alloc@llvm.global_ctors	[*][0]/0	*global_alloc@llvm.global_ctors[*][0].?/0
+*global_alloc@llvm.global_ctors	[*][0]/1	*global_alloc@llvm.global_ctors[*][0].?/1
+*global_alloc@llvm.global_ctors	[*][0]/2	*global_alloc@llvm.global_ctors[*][0].?/2
+*global_alloc@llvm.global_ctors	[0][0]/0	*global_alloc@llvm.global_ctors[0][0].?/0
+*global_alloc@llvm.global_ctors	[0][0]/1	*global_alloc@llvm.global_ctors[0][0].?/1
+*global_alloc@llvm.global_ctors	[0][0]/2	*global_alloc@llvm.global_ctors[0][0].?/2
+*global_alloc@.str.6		*global_alloc@.str.6
+*global_alloc@.str.6	[*]	*global_alloc@.str.6[*]
+*global_alloc@.str.6	[0]	*global_alloc@.str.6[0]
+*global_alloc@.str.6	[*][*]	*global_alloc@.str.6[*][*]
+*global_alloc@.str.6	[0][*]	*global_alloc@.str.6[0][*]
+*global_alloc@.str.7		*global_alloc@.str.7
+*global_alloc@.str.7	[*]	*global_alloc@.str.7[*]
+*global_alloc@.str.7	[0]	*global_alloc@.str.7[0]
+*global_alloc@.str.7	[*][*]	*global_alloc@.str.7[*][*]
+*global_alloc@.str.7	[0][*]	*global_alloc@.str.7[0][*]
+*global_alloc@.str.8		*global_alloc@.str.8
+*global_alloc@.str.8	[*]	*global_alloc@.str.8[*]
+*global_alloc@.str.8	[0]	*global_alloc@.str.8[0]
+*global_alloc@.str.8	[*][*]	*global_alloc@.str.8[*][*]
+*global_alloc@.str.8	[0][*]	*global_alloc@.str.8[0][*]
+*global_alloc@.str.9		*global_alloc@.str.9
+*global_alloc@.str.9	[*]	*global_alloc@.str.9[*]
+*global_alloc@.str.9	[0]	*global_alloc@.str.9[0]
+*global_alloc@.str.9	[*][*]	*global_alloc@.str.9[*][*]
+*global_alloc@.str.9	[0][*]	*global_alloc@.str.9[0][*]
+*global_alloc@.str.3		*global_alloc@.str.3
+*global_alloc@.str.3	[*]	*global_alloc@.str.3[*]
+*global_alloc@.str.3	[0]	*global_alloc@.str.3[0]
+*global_alloc@.str.3	[*][*]	*global_alloc@.str.3[*][*]
+*global_alloc@.str.3	[0][*]	*global_alloc@.str.3[0][*]
+*global_alloc@.str.4		*global_alloc@.str.4
+*global_alloc@.str.4	[*]	*global_alloc@.str.4[*]
+*global_alloc@.str.4	[0]	*global_alloc@.str.4[0]
+*global_alloc@.str.4	[*][*]	*global_alloc@.str.4[*][*]
+*global_alloc@.str.4	[0][*]	*global_alloc@.str.4[0][*]
+*global_alloc@.str.5		*global_alloc@.str.5
+*global_alloc@.str.5	[*]	*global_alloc@.str.5[*]
+*global_alloc@.str.5	[0]	*global_alloc@.str.5[0]
+*global_alloc@.str.5	[*][*]	*global_alloc@.str.5[*][*]
+*global_alloc@.str.5	[0][*]	*global_alloc@.str.5[0][*]
+*global_alloc@.str		*global_alloc@.str
+*global_alloc@.str	[*]	*global_alloc@.str[*]
+*global_alloc@.str	[0]	*global_alloc@.str[0]
+*global_alloc@.str	[*][*]	*global_alloc@.str[*][*]
+*global_alloc@.str	[0][*]	*global_alloc@.str[0][*]
+*global_alloc@.str.1		*global_alloc@.str.1
+*global_alloc@.str.1	[*]	*global_alloc@.str.1[*]
+*global_alloc@.str.1	[0]	*global_alloc@.str.1[0]
+*global_alloc@.str.1	[*][*]	*global_alloc@.str.1[*][*]
+*global_alloc@.str.1	[0][*]	*global_alloc@.str.1[0][*]
+*global_alloc@.str.2		*global_alloc@.str.2
+*global_alloc@.str.2	[*]	*global_alloc@.str.2[*]
+*global_alloc@.str.2	[0]	*global_alloc@.str.2[0]
+*global_alloc@.str.2	[*][*]	*global_alloc@.str.2[*][*]
+*global_alloc@.str.2	[0][*]	*global_alloc@.str.2[0][*]
+*global_alloc@stdbuf		*global_alloc@stdbuf
+*global_alloc@apply_mode		*global_alloc@apply_mode
+*global_alloc@fileno_to_name		*global_alloc@fileno_to_name
+*global_alloc@llvm.dbg.declare		*global_alloc@llvm.dbg.declare
+*global_alloc@getenv		*global_alloc@getenv
+*global_alloc@strtoul		*global_alloc@strtoul
+*global_alloc@malloc		*global_alloc@malloc
+*global_alloc@fprintf		*global_alloc@fprintf
+*global_alloc@gettext		*global_alloc@gettext
+*global_alloc@fileno		*global_alloc@fileno
+*global_alloc@setvbuf		*global_alloc@setvbuf
+*global_alloc@free		*global_alloc@free
+*argv-alloc[*]		*argv-alloc[*]
+*global_alloc@stderr[*]		*global_alloc@stderr[*]
+*global_alloc@stdin[*]		*global_alloc@stdin[*]
+*global_alloc@stdout[*]		*global_alloc@stdout[*]
+*global_alloc@llvm.global_ctors[*]		*global_alloc@llvm.global_ctors[*]
+*global_alloc@llvm.global_ctors[*]	[*]	*global_alloc@llvm.global_ctors[*][*]
+*global_alloc@llvm.global_ctors[*]	[0]	*global_alloc@llvm.global_ctors[*][0]
+*global_alloc@.str.6[*]		*global_alloc@.str.6[*]
+*global_alloc@.str.6[*]	[*]	*global_alloc@.str.6[*][*]
+*global_alloc@.str.7[*]		*global_alloc@.str.7[*]
+*global_alloc@.str.7[*]	[*]	*global_alloc@.str.7[*][*]
+*global_alloc@.str.8[*]		*global_alloc@.str.8[*]
+*global_alloc@.str.8[*]	[*]	*global_alloc@.str.8[*][*]
+*global_alloc@.str.9[*]		*global_alloc@.str.9[*]
+*global_alloc@.str.9[*]	[*]	*global_alloc@.str.9[*][*]
+*global_alloc@.str.3[*]		*global_alloc@.str.3[*]
+*global_alloc@.str.3[*]	[*]	*global_alloc@.str.3[*][*]
+*global_alloc@.str.4[*]		*global_alloc@.str.4[*]
+*global_alloc@.str.4[*]	[*]	*global_alloc@.str.4[*][*]
+*global_alloc@.str.5[*]		*global_alloc@.str.5[*]
+*global_alloc@.str.5[*]	[*]	*global_alloc@.str.5[*][*]
+*global_alloc@.str[*]		*global_alloc@.str[*]
+*global_alloc@.str[*]	[*]	*global_alloc@.str[*][*]
+*global_alloc@.str.1[*]		*global_alloc@.str.1[*]
+*global_alloc@.str.1[*]	[*]	*global_alloc@.str.1[*][*]
+*global_alloc@.str.2[*]		*global_alloc@.str.2[*]
+*global_alloc@.str.2[*]	[*]	*global_alloc@.str.2[*][*]
+*argv-alloc[0]		*argv-alloc[0]
+*global_alloc@stderr[0]		*global_alloc@stderr[0]
+*global_alloc@stdin[0]		*global_alloc@stdin[0]
+*global_alloc@stdout[0]		*global_alloc@stdout[0]
+*argv[0]-alloc		*argv[0]-alloc
+*argv[0]-alloc	[*]	*argv[0]-alloc[*]
+*argv[0]-alloc	[0]	*argv[0]-alloc[0]
+*global_alloc@llvm.global_ctors[0]		*global_alloc@llvm.global_ctors[0]
+*global_alloc@llvm.global_ctors[0]	[*]	*global_alloc@llvm.global_ctors[0][*]
+*global_alloc@llvm.global_ctors[0]	[0]	*global_alloc@llvm.global_ctors[0][0]
+*global_alloc@.str.6[0]		*global_alloc@.str.6[0]
+*global_alloc@.str.6[0]	[*]	*global_alloc@.str.6[0][*]
+*global_alloc@.str.7[0]		*global_alloc@.str.7[0]
+*global_alloc@.str.7[0]	[*]	*global_alloc@.str.7[0][*]
+*global_alloc@.str.8[0]		*global_alloc@.str.8[0]
+*global_alloc@.str.8[0]	[*]	*global_alloc@.str.8[0][*]
+*global_alloc@.str.9[0]		*global_alloc@.str.9[0]
+*global_alloc@.str.9[0]	[*]	*global_alloc@.str.9[0][*]
+*global_alloc@.str.3[0]		*global_alloc@.str.3[0]
+*global_alloc@.str.3[0]	[*]	*global_alloc@.str.3[0][*]
+*global_alloc@.str.4[0]		*global_alloc@.str.4[0]
+*global_alloc@.str.4[0]	[*]	*global_alloc@.str.4[0][*]
+*global_alloc@.str.5[0]		*global_alloc@.str.5[0]
+*global_alloc@.str.5[0]	[*]	*global_alloc@.str.5[0][*]
+*global_alloc@.str[0]		*global_alloc@.str[0]
+*global_alloc@.str[0]	[*]	*global_alloc@.str[0][*]
+*global_alloc@.str.1[0]		*global_alloc@.str.1[0]
+*global_alloc@.str.1[0]	[*]	*global_alloc@.str.1[0][*]
+*global_alloc@.str.2[0]		*global_alloc@.str.2[0]
+*global_alloc@.str.2[0]	[*]	*global_alloc@.str.2[0][*]
+*global_alloc@llvm.global_ctors[*][*]		*global_alloc@llvm.global_ctors[*][*]
+*global_alloc@llvm.global_ctors[*][*]	/0	*global_alloc@llvm.global_ctors[*][*].?/0
+*global_alloc@llvm.global_ctors[*][*]	/1	*global_alloc@llvm.global_ctors[*][*].?/1
+*global_alloc@llvm.global_ctors[*][*]	/2	*global_alloc@llvm.global_ctors[*][*].?/2
+*global_alloc@.str.6[*][*]		*global_alloc@.str.6[*][*]
+*global_alloc@.str.7[*][*]		*global_alloc@.str.7[*][*]
+*global_alloc@.str.8[*][*]		*global_alloc@.str.8[*][*]
+*global_alloc@.str.9[*][*]		*global_alloc@.str.9[*][*]
+*global_alloc@.str.3[*][*]		*global_alloc@.str.3[*][*]
+*global_alloc@.str.4[*][*]		*global_alloc@.str.4[*][*]
+*global_alloc@.str.5[*][*]		*global_alloc@.str.5[*][*]
+*global_alloc@.str[*][*]		*global_alloc@.str[*][*]
+*global_alloc@.str.1[*][*]		*global_alloc@.str.1[*][*]
+*global_alloc@.str.2[*][*]		*global_alloc@.str.2[*][*]
+*argv[0]-alloc[*]		*argv[0]-alloc[*]
+*global_alloc@llvm.global_ctors[0][*]		*global_alloc@llvm.global_ctors[0][*]
+*global_alloc@llvm.global_ctors[0][*]	/0	*global_alloc@llvm.global_ctors[0][*].?/0
+*global_alloc@llvm.global_ctors[0][*]	/1	*global_alloc@llvm.global_ctors[0][*].?/1
+*global_alloc@llvm.global_ctors[0][*]	/2	*global_alloc@llvm.global_ctors[0][*].?/2
+*global_alloc@.str.6[0][*]		*global_alloc@.str.6[0][*]
+*global_alloc@.str.7[0][*]		*global_alloc@.str.7[0][*]
+*global_alloc@.str.8[0][*]		*global_alloc@.str.8[0][*]
+*global_alloc@.str.9[0][*]		*global_alloc@.str.9[0][*]
+*global_alloc@.str.3[0][*]		*global_alloc@.str.3[0][*]
+*global_alloc@.str.4[0][*]		*global_alloc@.str.4[0][*]
+*global_alloc@.str.5[0][*]		*global_alloc@.str.5[0][*]
+*global_alloc@.str[0][*]		*global_alloc@.str[0][*]
+*global_alloc@.str.1[0][*]		*global_alloc@.str.1[0][*]
+*global_alloc@.str.2[0][*]		*global_alloc@.str.2[0][*]
+*global_alloc@llvm.global_ctors[*][*].?/0		*global_alloc@llvm.global_ctors[*][*].?/0
+*global_alloc@llvm.global_ctors[*][*].?/1		*global_alloc@llvm.global_ctors[*][*].?/1
+*global_alloc@llvm.global_ctors[*][*].?/2		*global_alloc@llvm.global_ctors[*][*].?/2
+*argv[0]-alloc[0]		*argv[0]-alloc[0]
+*global_alloc@llvm.global_ctors[*][0]		*global_alloc@llvm.global_ctors[*][0]
+*global_alloc@llvm.global_ctors[*][0]	/0	*global_alloc@llvm.global_ctors[*][0].?/0
+*global_alloc@llvm.global_ctors[*][0]	/1	*global_alloc@llvm.global_ctors[*][0].?/1
+*global_alloc@llvm.global_ctors[*][0]	/2	*global_alloc@llvm.global_ctors[*][0].?/2
+*global_alloc@llvm.global_ctors[0][*].?/0		*global_alloc@llvm.global_ctors[0][*].?/0
+*global_alloc@llvm.global_ctors[0][*].?/1		*global_alloc@llvm.global_ctors[0][*].?/1
+*global_alloc@llvm.global_ctors[0][*].?/2		*global_alloc@llvm.global_ctors[0][*].?/2
+*global_alloc@llvm.global_ctors[0][0]		*global_alloc@llvm.global_ctors[0][0]
+*global_alloc@llvm.global_ctors[0][0]	/0	*global_alloc@llvm.global_ctors[0][0].?/0
+*global_alloc@llvm.global_ctors[0][0]	/1	*global_alloc@llvm.global_ctors[0][0].?/1
+*global_alloc@llvm.global_ctors[0][0]	/2	*global_alloc@llvm.global_ctors[0][0].?/2
+*global_alloc@llvm.global_ctors[*][0].?/0		*global_alloc@llvm.global_ctors[*][0].?/0
+*global_alloc@llvm.global_ctors[*][0].?/1		*global_alloc@llvm.global_ctors[*][0].?/1
+*global_alloc@llvm.global_ctors[*][0].?/2		*global_alloc@llvm.global_ctors[*][0].?/2
+*global_alloc@llvm.global_ctors[0][0].?/0		*global_alloc@llvm.global_ctors[0][0].?/0
+*global_alloc@llvm.global_ctors[0][0].?/1		*global_alloc@llvm.global_ctors[0][0].?/1
+*global_alloc@llvm.global_ctors[0][0].?/2		*global_alloc@llvm.global_ctors[0][0].?/2

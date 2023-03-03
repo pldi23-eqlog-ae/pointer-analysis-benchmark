@@ -238,6 +238,14 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:enter_dir:%16	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:enter_dir:%15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:enter_dir:%ht	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:enter_dir:%fts_cycle
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:enter_dir:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:enter_dir:%call
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_hash:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_hash:%0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%12	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:32:0:false
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%12	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%cmp3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:AD_compare:%0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:LCO_hash:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:LCO_hash:%0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:LCO_compare:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:LCO_compare:%2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:LCO_compare:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:LCO_compare:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:fts_padjust:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:fts_padjust:%37
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:fts_padjust:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:fts_padjust:%35
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:fts_padjust:%sub.ptr.rhs.cast17	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:fts_padjust:%28
@@ -271,6 +279,7 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_delete:%46	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_delete:%45
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_delete:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_delete:%mul32
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_delete:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_delete:%mul27
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:raw_hasher:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:raw_hasher:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_find_entry:%24	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_find_entry:%22
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_find_entry:%23	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:hash_find_entry:%21
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:allocate_entry:%7	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/chmod.bc>:allocate_entry:%call

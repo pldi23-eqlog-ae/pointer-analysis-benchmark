@@ -714,52 +714,140 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pg_toupper:34:0:@toupper	*global_alloc@toupper
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pg_tolower:24:0:@__ctype_b_loc	*global_alloc@__ctype_b_loc
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pg_tolower:34:0:@tolower	*global_alloc@tolower
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:4:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2, i32 0, i32 0)	*global_alloc@.str.2[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:4:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2, i32 0, i32 0)	*global_alloc@.str.2[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:5:@.str.2	*global_alloc@.str.2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:10:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.1.1, i32 0, i32 0)	*global_alloc@.str.1.1[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:10:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.1.1, i32 0, i32 0)	*global_alloc@.str.1.1[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:11:@.str.1.1	*global_alloc@.str.1.1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:16:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.3, i32 0, i32 0)	*global_alloc@.str.2.3[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:16:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.3, i32 0, i32 0)	*global_alloc@.str.2.3[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:17:@.str.2.3	*global_alloc@.str.2.3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:22:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.3, i32 0, i32 0)	*global_alloc@.str.3[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:22:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.3, i32 0, i32 0)	*global_alloc@.str.3[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:23:@.str.3	*global_alloc@.str.3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:28:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.4, i32 0, i32 0)	*global_alloc@.str.4[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:28:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.4, i32 0, i32 0)	*global_alloc@.str.4[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:29:@.str.4	*global_alloc@.str.4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:34:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.5, i32 0, i32 0)	*global_alloc@.str.5[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:34:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.5, i32 0, i32 0)	*global_alloc@.str.5[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:35:@.str.5	*global_alloc@.str.5
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:68:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.77, i32 0, i32 0)	*global_alloc@.str.77[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:68:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.77, i32 0, i32 0)	*global_alloc@.str.77[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:69:@.str.77	*global_alloc@.str.77
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:72:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1.78, i32 0, i32 0)	*global_alloc@.str.1.78[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:72:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1.78, i32 0, i32 0)	*global_alloc@.str.1.78[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:73:@.str.1.78	*global_alloc@.str.1.78
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:76:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.79, i32 0, i32 0)	*global_alloc@.str.2.79[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:76:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.2.79, i32 0, i32 0)	*global_alloc@.str.2.79[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:77:@.str.2.79	*global_alloc@.str.2.79
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:80:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.3.80, i32 0, i32 0)	*global_alloc@.str.3.80[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:80:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.3.80, i32 0, i32 0)	*global_alloc@.str.3.80[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:81:@.str.3.80	*global_alloc@.str.3.80
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:84:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.4.81, i32 0, i32 0)	*global_alloc@.str.4.81[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:84:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.4.81, i32 0, i32 0)	*global_alloc@.str.4.81[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:85:@.str.4.81	*global_alloc@.str.4.81
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:88:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.5.82, i32 0, i32 0)	*global_alloc@.str.5.82[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:88:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.5.82, i32 0, i32 0)	*global_alloc@.str.5.82[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:89:@.str.5.82	*global_alloc@.str.5.82
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:92:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.6.83, i32 0, i32 0)	*global_alloc@.str.6.83[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:92:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.6.83, i32 0, i32 0)	*global_alloc@.str.6.83[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:93:@.str.6.83	*global_alloc@.str.6.83
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:96:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.7.84, i32 0, i32 0)	*global_alloc@.str.7.84[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:96:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.7.84, i32 0, i32 0)	*global_alloc@.str.7.84[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:97:@.str.7.84	*global_alloc@.str.7.84
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:100:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.8.85, i32 0, i32 0)	*global_alloc@.str.8.85[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:100:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.8.85, i32 0, i32 0)	*global_alloc@.str.8.85[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:101:@.str.8.85	*global_alloc@.str.8.85
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:104:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.9.86, i32 0, i32 0)	*global_alloc@.str.9.86[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:104:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.9.86, i32 0, i32 0)	*global_alloc@.str.9.86[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:105:@.str.9.86	*global_alloc@.str.9.86
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:108:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.10.87, i32 0, i32 0)	*global_alloc@.str.10.87[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:108:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.10.87, i32 0, i32 0)	*global_alloc@.str.10.87[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:109:@.str.10.87	*global_alloc@.str.10.87
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:112:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.11.88, i32 0, i32 0)	*global_alloc@.str.11.88[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:112:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.11.88, i32 0, i32 0)	*global_alloc@.str.11.88[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:113:@.str.11.88	*global_alloc@.str.11.88
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:116:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:118:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.12.89, i32 0, i32 0)	*global_alloc@.str.12.89[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:118:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.12.89, i32 0, i32 0)	*global_alloc@.str.12.89[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:119:@.str.12.89	*global_alloc@.str.12.89
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:122:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.13.90, i32 0, i32 0)	*global_alloc@.str.13.90[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:122:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.13.90, i32 0, i32 0)	*global_alloc@.str.13.90[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:123:@.str.13.90	*global_alloc@.str.13.90
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:126:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.14.91, i32 0, i32 0)	*global_alloc@.str.14.91[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:126:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.14.91, i32 0, i32 0)	*global_alloc@.str.14.91[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:127:@.str.14.91	*global_alloc@.str.14.91
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:130:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.15.92, i32 0, i32 0)	*global_alloc@.str.15.92[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:130:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.15.92, i32 0, i32 0)	*global_alloc@.str.15.92[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:131:@.str.15.92	*global_alloc@.str.15.92
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:134:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.16.93, i32 0, i32 0)	*global_alloc@.str.16.93[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:134:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.16.93, i32 0, i32 0)	*global_alloc@.str.16.93[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:135:@.str.16.93	*global_alloc@.str.16.93
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:138:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.17, i32 0, i32 0)	*global_alloc@.str.17[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:138:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.17, i32 0, i32 0)	*global_alloc@.str.17[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:139:@.str.17	*global_alloc@.str.17
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:142:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.18, i32 0, i32 0)	*global_alloc@.str.18[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:142:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.18, i32 0, i32 0)	*global_alloc@.str.18[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:143:@.str.18	*global_alloc@.str.18
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:146:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:148:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.19, i32 0, i32 0)	*global_alloc@.str.19[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:148:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.19, i32 0, i32 0)	*global_alloc@.str.19[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:149:@.str.19	*global_alloc@.str.19
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:152:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.20, i32 0, i32 0)	*global_alloc@.str.20[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:152:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.20, i32 0, i32 0)	*global_alloc@.str.20[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:153:@.str.20	*global_alloc@.str.20
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:156:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.21, i32 0, i32 0)	*global_alloc@.str.21[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:156:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.21, i32 0, i32 0)	*global_alloc@.str.21[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:157:@.str.21	*global_alloc@.str.21
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:160:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.22, i32 0, i32 0)	*global_alloc@.str.22[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:160:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.22, i32 0, i32 0)	*global_alloc@.str.22[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:161:@.str.22	*global_alloc@.str.22
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:164:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.23, i32 0, i32 0)	*global_alloc@.str.23[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:164:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.23, i32 0, i32 0)	*global_alloc@.str.23[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:165:@.str.23	*global_alloc@.str.23
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:168:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.24, i32 0, i32 0)	*global_alloc@.str.24[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:168:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.24, i32 0, i32 0)	*global_alloc@.str.24[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:169:@.str.24	*global_alloc@.str.24
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:172:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.25, i32 0, i32 0)	*global_alloc@.str.25[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:172:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.25, i32 0, i32 0)	*global_alloc@.str.25[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:173:@.str.25	*global_alloc@.str.25
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:176:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:178:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.26, i32 0, i32 0)	*global_alloc@.str.26[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:178:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.26, i32 0, i32 0)	*global_alloc@.str.26[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:179:@.str.26	*global_alloc@.str.26
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:182:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.27, i32 0, i32 0)	*global_alloc@.str.27[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:182:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.27, i32 0, i32 0)	*global_alloc@.str.27[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:183:@.str.27	*global_alloc@.str.27
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:186:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.28, i32 0, i32 0)	*global_alloc@.str.28[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:186:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.28, i32 0, i32 0)	*global_alloc@.str.28[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:187:@.str.28	*global_alloc@.str.28
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:190:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.29, i32 0, i32 0)	*global_alloc@.str.29[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:190:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.29, i32 0, i32 0)	*global_alloc@.str.29[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:191:@.str.29	*global_alloc@.str.29
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:194:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.4.81, i32 0, i32 0)	*global_alloc@.str.4.81[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:194:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.4.81, i32 0, i32 0)	*global_alloc@.str.4.81[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:195:@.str.4.81	*global_alloc@.str.4.81
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:198:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.30, i32 0, i32 0)	*global_alloc@.str.30[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:198:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.30, i32 0, i32 0)	*global_alloc@.str.30[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:199:@.str.30	*global_alloc@.str.30
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:202:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.31, i32 0, i32 0)	*global_alloc@.str.31[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:202:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.31, i32 0, i32 0)	*global_alloc@.str.31[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:203:@.str.31	*global_alloc@.str.31
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:206:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.32, i32 0, i32 0)	*global_alloc@.str.32[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:206:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.32, i32 0, i32 0)	*global_alloc@.str.32[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:207:@.str.32	*global_alloc@.str.32
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:210:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.33, i32 0, i32 0)	*global_alloc@.str.33[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:210:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.33, i32 0, i32 0)	*global_alloc@.str.33[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:211:@.str.33	*global_alloc@.str.33
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:214:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.34, i32 0, i32 0)	*global_alloc@.str.34[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:214:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.34, i32 0, i32 0)	*global_alloc@.str.34[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:215:@.str.34	*global_alloc@.str.34
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:218:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.35, i32 0, i32 0)	*global_alloc@.str.35[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:218:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.35, i32 0, i32 0)	*global_alloc@.str.35[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:219:@.str.35	*global_alloc@.str.35
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:222:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.36, i32 0, i32 0)	*global_alloc@.str.36[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:222:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.36, i32 0, i32 0)	*global_alloc@.str.36[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:223:@.str.36	*global_alloc@.str.36
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:226:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_new:5:0:null	*null*
@@ -788,15 +876,21 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_div:627:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_div:645:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_div:653:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_from_double:10:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str, i32 0, i32 0)	*global_alloc@.str[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_from_double:10:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str, i32 0, i32 0)	*global_alloc@.str[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_from_double:10:2:@.str	*global_alloc@.str
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_from_double:16:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_from_double:18:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESnumeric_to_long:11:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:alloc_var:9:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:alloc_var:27:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:set_var_from_str:45:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1, i32 0, i32 0)	*global_alloc@.str.1[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:set_var_from_str:45:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1, i32 0, i32 0)	*global_alloc@.str.1[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:set_var_from_str:45:2:@.str.1	*global_alloc@.str.1
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:18:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:20:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:23:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1, i32 0, i32 0)	*global_alloc@.str.1[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:23:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1, i32 0, i32 0)	*global_alloc@.str.1[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:23:2:@.str.1	*global_alloc@.str.1
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:167:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:get_str_from_var:169:0:null	*null*
@@ -819,113 +913,263 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:59:1:@pgtypes_date_weekdays_short	*global_alloc@pgtypes_date_weekdays_short
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:75:0:bitcast ([13 x i8*]* @months to [0 x i8*]*)	*global_alloc@months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:75:1:@months	*global_alloc@months
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:101:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.6, i32 0, i32 0)	*global_alloc@.str.6[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:101:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.6, i32 0, i32 0)	*global_alloc@.str.6[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:101:1:@.str.6	*global_alloc@.str.6
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:124:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:131:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.7, i32 0, i32 0)	*global_alloc@.str.7[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:131:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.7, i32 0, i32 0)	*global_alloc@.str.7[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:131:3:@.str.7	*global_alloc@.str.7
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:143:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:150:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.8, i32 0, i32 0)	*global_alloc@.str.8[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:150:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.8, i32 0, i32 0)	*global_alloc@.str.8[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:150:3:@.str.8	*global_alloc@.str.8
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:162:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:169:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.9, i32 0, i32 0)	*global_alloc@.str.9[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:169:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.9, i32 0, i32 0)	*global_alloc@.str.9[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_fmt_asc:169:3:@.str.9	*global_alloc@.str.9
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:28:1:bitcast ([3 x i32]* @PGTYPESdate_defmt_asc.token_values to i8*)	*global_alloc@PGTYPESdate_defmt_asc.token_values
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:28:2:@PGTYPESdate_defmt_asc.token_values	*global_alloc@PGTYPESdate_defmt_asc.token_values
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:36:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:39:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:42:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:49:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.5, i32 0, i32 0)	*global_alloc@.str.5[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:49:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.5, i32 0, i32 0)	*global_alloc@.str.5[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:49:2:@.str.5	*global_alloc@.str.5
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:52:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.3, i32 0, i32 0)	*global_alloc@.str.3[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:52:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.3, i32 0, i32 0)	*global_alloc@.str.3[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:52:2:@.str.3	*global_alloc@.str.3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:55:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.1.1, i32 0, i32 0)	*global_alloc@.str.1.1[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:55:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.1.1, i32 0, i32 0)	*global_alloc@.str.1.1[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:55:2:@.str.1.1	*global_alloc@.str.1.1
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:58:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:61:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:64:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:78:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.10, i32 0, i32 0)	*global_alloc@.str.10[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:78:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.10, i32 0, i32 0)	*global_alloc@.str.10[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:78:1:@.str.10	*global_alloc@.str.10
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:84:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.11, i32 0, i32 0)	*global_alloc@.str.11[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:84:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.11, i32 0, i32 0)	*global_alloc@.str.11[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:84:1:@.str.11	*global_alloc@.str.11
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:86:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.12, i32 0, i32 0)	*global_alloc@.str.12[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:86:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.12, i32 0, i32 0)	*global_alloc@.str.12[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:86:1:@.str.12	*global_alloc@.str.12
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:94:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.13, i32 0, i32 0)	*global_alloc@.str.13[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:94:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.13, i32 0, i32 0)	*global_alloc@.str.13[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:94:1:@.str.13	*global_alloc@.str.13
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:100:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.14, i32 0, i32 0)	*global_alloc@.str.14[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:100:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.14, i32 0, i32 0)	*global_alloc@.str.14[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:100:1:@.str.14	*global_alloc@.str.14
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:102:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:102:0:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.15, i32 0, i32 0)	*global_alloc@.str.15[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:102:1:@.str.15	*global_alloc@.str.15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:162:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:284:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:416:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:422:0:getelementptr inbounds ([13 x i8*], [13 x i8*]* @pgtypes_date_months, i32 0, i32 0)	*global_alloc@pgtypes_date_months[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:422:0:getelementptr inbounds ([13 x i8*], [13 x i8*]* @pgtypes_date_months, i32 0, i32 0)	*global_alloc@pgtypes_date_months[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:422:1:@pgtypes_date_months	*global_alloc@pgtypes_date_months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:430:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:469:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:560:0:getelementptr inbounds ([13 x i8*], [13 x i8*]* @pgtypes_date_months, i32 0, i32 0)	*global_alloc@pgtypes_date_months[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:560:0:getelementptr inbounds ([13 x i8*], [13 x i8*]* @pgtypes_date_months, i32 0, i32 0)	*global_alloc@pgtypes_date_months[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:560:1:@pgtypes_date_months	*global_alloc@pgtypes_date_months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:568:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:570:0:getelementptr inbounds ([13 x i8*], [13 x i8*]* @months, i32 0, i32 0)	*global_alloc@months[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:570:0:getelementptr inbounds ([13 x i8*], [13 x i8*]* @months, i32 0, i32 0)	*global_alloc@months[0][0]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:570:1:@months	*global_alloc@months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESdate_defmt_asc:637:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_alloc:7:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_strdup:7:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:86:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:95:2:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:95:2:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.16, i32 0, i32 0)	*global_alloc@.str.16[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:95:3:@.str.16	*global_alloc@.str.16
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:101:2:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1.17, i32 0, i32 0)	*global_alloc@.str.1.17[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:101:2:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.1.17, i32 0, i32 0)	*global_alloc@.str.1.17[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:101:3:@.str.1.17	*global_alloc@.str.1.17
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:107:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.2.18, i32 0, i32 0)	*global_alloc@.str.2.18[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:107:2:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.2.18, i32 0, i32 0)	*global_alloc@.str.2.18[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:107:3:@.str.2.18	*global_alloc@.str.2.18
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:113:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.3.19, i32 0, i32 0)	*global_alloc@.str.3.19[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:113:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.3.19, i32 0, i32 0)	*global_alloc@.str.3.19[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:113:3:@.str.3.19	*global_alloc@.str.3.19
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:119:2:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.4.20, i32 0, i32 0)	*global_alloc@.str.4.20[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:119:2:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.4.20, i32 0, i32 0)	*global_alloc@.str.4.20[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:119:3:@.str.4.20	*global_alloc@.str.4.20
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:125:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.5.21, i32 0, i32 0)	*global_alloc@.str.5.21[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:125:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.5.21, i32 0, i32 0)	*global_alloc@.str.5.21[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:125:3:@.str.5.21	*global_alloc@.str.5.21
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:131:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.6.22, i32 0, i32 0)	*global_alloc@.str.6.22[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:131:2:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.6.22, i32 0, i32 0)	*global_alloc@.str.6.22[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:pgtypes_fmt_replace:131:3:@.str.6.22	*global_alloc@.str.6.22
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:10:0:@deltacache	*global_alloc@deltacache
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:12:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:17:0:@deltacache	*global_alloc@deltacache
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:26:0:@deltacache	*global_alloc@deltacache
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:31:1:getelementptr inbounds ([63 x %struct.datetkn], [63 x %struct.datetkn]* @deltatktbl, i32 0, i32 0)	*global_alloc@deltatktbl[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:31:1:getelementptr inbounds ([63 x %struct.datetkn], [63 x %struct.datetkn]* @deltatktbl, i32 0, i32 0)	*global_alloc@deltatktbl[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:31:2:@deltatktbl	*global_alloc@deltatktbl
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:37:0:@deltacache	*global_alloc@deltacache
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeUnits:40:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:38:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.37, i32 0, i32 0)	*global_alloc@.str.37[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:38:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.37, i32 0, i32 0)	*global_alloc@.str.37[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:38:2:@.str.37	*global_alloc@.str.37
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:52:1:getelementptr inbounds ([18 x i8], [18 x i8]* @.str.38, i32 0, i32 0)	*global_alloc@.str.38[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:52:1:getelementptr inbounds ([18 x i8], [18 x i8]* @.str.38, i32 0, i32 0)	*global_alloc@.str.38[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:52:2:@.str.38	*global_alloc@.str.38
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:52:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:52:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:52:6:@.str.39	*global_alloc@.str.39
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:65:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:65:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:65:2:@.str.40	*global_alloc@.str.40
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:74:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:74:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:74:2:@.str.40	*global_alloc@.str.40
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:86:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.41, i32 0, i32 0)	*global_alloc@.str.41[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:86:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.41, i32 0, i32 0)	*global_alloc@.str.41[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:86:2:@.str.41	*global_alloc@.str.41
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:95:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.42, i32 0, i32 0)	*global_alloc@.str.42[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:95:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.42, i32 0, i32 0)	*global_alloc@.str.42[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:95:2:@.str.42	*global_alloc@.str.42
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:95:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:95:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:95:6:@.str.39	*global_alloc@.str.39
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:105:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.43, i32 0, i32 0)	*global_alloc@.str.43[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:105:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.43, i32 0, i32 0)	*global_alloc@.str.43[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:105:2:@.str.43	*global_alloc@.str.43
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:116:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.44, i32 0, i32 0)	*global_alloc@.str.44[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:116:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.44, i32 0, i32 0)	*global_alloc@.str.44[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:116:2:@.str.44	*global_alloc@.str.44
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:125:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.45, i32 0, i32 0)	*global_alloc@.str.45[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:125:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.45, i32 0, i32 0)	*global_alloc@.str.45[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:125:2:@.str.45	*global_alloc@.str.45
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:125:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:125:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:125:6:@.str.39	*global_alloc@.str.39
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:139:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.46, i32 0, i32 0)	*global_alloc@.str.46[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:139:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.46, i32 0, i32 0)	*global_alloc@.str.46[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:139:2:@.str.46	*global_alloc@.str.46
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:148:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.46, i32 0, i32 0)	*global_alloc@.str.46[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:148:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.46, i32 0, i32 0)	*global_alloc@.str.46[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:148:2:@.str.46	*global_alloc@.str.46
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:160:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.47, i32 0, i32 0)	*global_alloc@.str.47[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:160:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.47, i32 0, i32 0)	*global_alloc@.str.47[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:160:2:@.str.47	*global_alloc@.str.47
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:169:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.48, i32 0, i32 0)	*global_alloc@.str.48[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:169:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.48, i32 0, i32 0)	*global_alloc@.str.48[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:169:2:@.str.48	*global_alloc@.str.48
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:169:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:169:5:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.39, i32 0, i32 0)	*global_alloc@.str.39[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateOnly:169:6:@.str.39	*global_alloc@.str.39
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:57:1:getelementptr inbounds ([25 x i8], [25 x i8]* @.str.49, i32 0, i32 0)	*global_alloc@.str.49[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:57:1:getelementptr inbounds ([25 x i8], [25 x i8]* @.str.49, i32 0, i32 0)	*global_alloc@.str.49[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:57:2:@.str.49	*global_alloc@.str.49
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:69:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:69:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:69:2:@.str.50	*global_alloc@.str.50
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:80:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:80:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:80:2:@.str.51	*global_alloc@.str.51
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:91:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:91:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:91:2:@.str.52	*global_alloc@.str.52
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:114:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:114:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:114:2:@.str.53	*global_alloc@.str.53
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:121:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:121:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:121:2:@.str.54	*global_alloc@.str.54
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:135:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:135:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:135:2:@.str.40	*global_alloc@.str.40
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:144:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:144:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.40, i32 0, i32 0)	*global_alloc@.str.40[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:144:2:@.str.40	*global_alloc@.str.40
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:170:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.55, i32 0, i32 0)	*global_alloc@.str.55[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:170:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.55, i32 0, i32 0)	*global_alloc@.str.55[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:170:2:@.str.55	*global_alloc@.str.55
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:182:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:182:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:182:2:@.str.50	*global_alloc@.str.50
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:193:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:193:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:193:2:@.str.51	*global_alloc@.str.51
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:204:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:204:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:204:2:@.str.52	*global_alloc@.str.52
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:210:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:217:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:217:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:217:2:@.str.56	*global_alloc@.str.56
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:237:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:237:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:237:2:@.str.53	*global_alloc@.str.53
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:244:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:244:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:244:2:@.str.54	*global_alloc@.str.54
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:256:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.43, i32 0, i32 0)	*global_alloc@.str.43[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:256:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.43, i32 0, i32 0)	*global_alloc@.str.43[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:256:2:@.str.43	*global_alloc@.str.43
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:281:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.57, i32 0, i32 0)	*global_alloc@.str.57[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:281:1:getelementptr inbounds ([16 x i8], [16 x i8]* @.str.57, i32 0, i32 0)	*global_alloc@.str.57[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:281:2:@.str.57	*global_alloc@.str.57
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:293:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:293:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:293:2:@.str.50	*global_alloc@.str.50
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:304:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:304:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:304:2:@.str.51	*global_alloc@.str.51
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:315:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:315:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:315:2:@.str.52	*global_alloc@.str.52
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:321:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:328:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:328:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:328:2:@.str.56	*global_alloc@.str.56
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:348:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:348:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.53, i32 0, i32 0)	*global_alloc@.str.53[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:348:2:@.str.53	*global_alloc@.str.53
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:355:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:355:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.54, i32 0, i32 0)	*global_alloc@.str.54[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:355:2:@.str.54	*global_alloc@.str.54
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:385:0:@days	*global_alloc@days
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:390:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.58, i32 0, i32 0)	*global_alloc@.str.58[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:390:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.58, i32 0, i32 0)	*global_alloc@.str.58[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:390:2:@.str.58	*global_alloc@.str.58
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:404:0:@months	*global_alloc@months
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:406:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.59, i32 0, i32 0)	*global_alloc@.str.59[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:406:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.59, i32 0, i32 0)	*global_alloc@.str.59[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:406:2:@.str.59	*global_alloc@.str.59
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:415:0:@months	*global_alloc@months
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:420:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.60, i32 0, i32 0)	*global_alloc@.str.60[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:420:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.60, i32 0, i32 0)	*global_alloc@.str.60[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:420:2:@.str.60	*global_alloc@.str.60
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:430:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.61, i32 0, i32 0)	*global_alloc@.str.61[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:430:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.61, i32 0, i32 0)	*global_alloc@.str.61[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:430:2:@.str.61	*global_alloc@.str.61
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:442:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:442:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.50, i32 0, i32 0)	*global_alloc@.str.50[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:442:2:@.str.50	*global_alloc@.str.50
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:453:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:453:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.51, i32 0, i32 0)	*global_alloc@.str.51[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:453:2:@.str.51	*global_alloc@.str.51
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:475:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.62, i32 0, i32 0)	*global_alloc@.str.62[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:475:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.62, i32 0, i32 0)	*global_alloc@.str.62[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:475:2:@.str.62	*global_alloc@.str.62
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:485:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:485:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.52, i32 0, i32 0)	*global_alloc@.str.52[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:485:2:@.str.52	*global_alloc@.str.52
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:491:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:498:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:498:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.56, i32 0, i32 0)	*global_alloc@.str.56[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:498:2:@.str.56	*global_alloc@.str.56
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:518:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.63, i32 0, i32 0)	*global_alloc@.str.63[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:518:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.63, i32 0, i32 0)	*global_alloc@.str.63[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:518:2:@.str.63	*global_alloc@.str.63
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:525:1:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.64, i32 0, i32 0)	*global_alloc@.str.64[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:525:1:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.64, i32 0, i32 0)	*global_alloc@.str.64[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeDateTime:525:2:@.str.64	*global_alloc@.str.64
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:GetEpochTime:9:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:GetCurrentDateTime:3:1:null	*null*
@@ -963,18 +1207,42 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:233:0:@pgtypes_date_months	*global_alloc@pgtypes_date_months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:238:0:@pgtypes_date_months	*global_alloc@pgtypes_date_months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:247:0:@pgtypes_date_months	*global_alloc@pgtypes_date_months
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:301:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.65, i32 0, i32 0)	*global_alloc@.str.65[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:301:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.65, i32 0, i32 0)	*global_alloc@.str.65[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:301:2:@.str.65	*global_alloc@.str.65
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:438:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.66, i32 0, i32 0)	*global_alloc@.str.66[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:438:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.66, i32 0, i32 0)	*global_alloc@.str.66[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:438:2:@.str.66	*global_alloc@.str.66
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:451:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.67, i32 0, i32 0)	*global_alloc@.str.67[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:451:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.67, i32 0, i32 0)	*global_alloc@.str.67[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:451:2:@.str.67	*global_alloc@.str.67
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:464:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.68, i32 0, i32 0)	*global_alloc@.str.68[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:464:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.68, i32 0, i32 0)	*global_alloc@.str.68[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:464:2:@.str.68	*global_alloc@.str.68
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:477:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.69, i32 0, i32 0)	*global_alloc@.str.69[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:477:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.69, i32 0, i32 0)	*global_alloc@.str.69[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:477:2:@.str.69	*global_alloc@.str.69
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:495:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.70, i32 0, i32 0)	*global_alloc@.str.70[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:495:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.70, i32 0, i32 0)	*global_alloc@.str.70[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:495:2:@.str.70	*global_alloc@.str.70
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:508:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.71, i32 0, i32 0)	*global_alloc@.str.71[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:508:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.71, i32 0, i32 0)	*global_alloc@.str.71[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:508:2:@.str.71	*global_alloc@.str.71
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:521:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.72, i32 0, i32 0)	*global_alloc@.str.72[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:521:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.72, i32 0, i32 0)	*global_alloc@.str.72[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:521:2:@.str.72	*global_alloc@.str.72
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:534:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.73, i32 0, i32 0)	*global_alloc@.str.73[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:534:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.73, i32 0, i32 0)	*global_alloc@.str.73[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:534:2:@.str.73	*global_alloc@.str.73
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:557:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.74, i32 0, i32 0)	*global_alloc@.str.74[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:557:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.74, i32 0, i32 0)	*global_alloc@.str.74[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:557:2:@.str.74	*global_alloc@.str.74
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:587:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.75, i32 0, i32 0)	*global_alloc@.str.75[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:587:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.75, i32 0, i32 0)	*global_alloc@.str.75[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:587:2:@.str.75	*global_alloc@.str.75
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:621:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:697:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:697:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.76, i32 0, i32 0)	*global_alloc@.str.76[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:697:2:@.str.76	*global_alloc@.str.76
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:854:0:@datetktbl	*global_alloc@datetktbl
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_scan:862:0:@datetktbl	*global_alloc@datetktbl
@@ -997,6 +1265,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:26:0:@datecache	*global_alloc@datecache
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:30:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:32:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:35:1:getelementptr inbounds ([280 x %struct.datetkn], [280 x %struct.datetkn]* @datetktbl, i32 0, i32 0)	*global_alloc@datetktbl[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:35:1:getelementptr inbounds ([280 x %struct.datetkn], [280 x %struct.datetkn]* @datetktbl, i32 0, i32 0)	*global_alloc@datetktbl[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:35:2:@datetktbl	*global_alloc@datetktbl
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:42:0:@datecache	*global_alloc@datecache
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeSpecial:45:0:null	*null*
@@ -1019,6 +1289,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_fmt_asc:21:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_fmt_asc:21:2:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_asc:18:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_asc:20:0:getelementptr inbounds ([18 x i8], [18 x i8]* @.str.96, i32 0, i32 0)	*global_alloc@.str.96[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_asc:20:0:getelementptr inbounds ([18 x i8], [18 x i8]* @.str.96, i32 0, i32 0)	*global_alloc@.str.96[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_defmt_asc:20:1:@.str.96	*global_alloc@.str.96
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_add_interval:32:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_add_interval:32:2:null	*null*
@@ -1026,7 +1298,11 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_add_interval:161:0:@day_tab	*global_alloc@day_tab
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPEStimestamp_add_interval:171:1:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:SetEpochTimestamp:15:2:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeSpecialTimestamp:9:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.1.113, i32 0, i32 0)	*global_alloc@.str.1.113[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeSpecialTimestamp:9:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.1.113, i32 0, i32 0)	*global_alloc@.str.1.113[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeSpecialTimestamp:9:2:@.str.1.113	*global_alloc@.str.1.113
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeSpecialTimestamp:15:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.2.114, i32 0, i32 0)	*global_alloc@.str.2.114[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeSpecialTimestamp:15:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.2.114, i32 0, i32 0)	*global_alloc@.str.2.114[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeSpecialTimestamp:15:2:@.str.2.114	*global_alloc@.str.2.114
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:timestamp2tm:77:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:timestamp2tm:198:0:null	*null*
@@ -1042,50 +1318,138 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:67:1:@months	*global_alloc@months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:77:0:bitcast ([13 x i8*]* @pgtypes_date_months to [0 x i8*]*)	*global_alloc@pgtypes_date_months
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:77:1:@pgtypes_date_months	*global_alloc@pgtypes_date_months
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:105:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.3.97, i32 0, i32 0)	*global_alloc@.str.3.97[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:105:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.3.97, i32 0, i32 0)	*global_alloc@.str.3.97[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:105:2:@.str.3.97	*global_alloc@.str.3.97
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:122:1:getelementptr inbounds ([4 x i8], [4 x i8]* @dttofmtasc_replace.tmp, i32 0, i32 0)	*global_alloc@dttofmtasc_replace.tmp[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:122:1:getelementptr inbounds ([4 x i8], [4 x i8]* @dttofmtasc_replace.tmp, i32 0, i32 0)	*global_alloc@dttofmtasc_replace.tmp[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:122:2:@dttofmtasc_replace.tmp	*global_alloc@dttofmtasc_replace.tmp
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:176:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.4.98, i32 0, i32 0)	*global_alloc@.str.4.98[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:176:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.4.98, i32 0, i32 0)	*global_alloc@.str.4.98[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:176:1:@.str.4.98	*global_alloc@.str.4.98
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:216:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.5.99, i32 0, i32 0)	*global_alloc@.str.5.99[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:216:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.5.99, i32 0, i32 0)	*global_alloc@.str.5.99[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:216:1:@.str.5.99	*global_alloc@.str.5.99
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:317:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.6.100, i32 0, i32 0)	*global_alloc@.str.6.100[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:317:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.6.100, i32 0, i32 0)	*global_alloc@.str.6.100[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:317:1:@.str.6.100	*global_alloc@.str.6.100
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:320:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.7.101, i32 0, i32 0)	*global_alloc@.str.7.101[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:320:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.7.101, i32 0, i32 0)	*global_alloc@.str.7.101[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:320:1:@.str.7.101	*global_alloc@.str.7.101
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:330:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.8.102, i32 0, i32 0)	*global_alloc@.str.8.102[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:330:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.8.102, i32 0, i32 0)	*global_alloc@.str.8.102[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:330:1:@.str.8.102	*global_alloc@.str.8.102
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:333:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.9.103, i32 0, i32 0)	*global_alloc@.str.9.103[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:333:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.9.103, i32 0, i32 0)	*global_alloc@.str.9.103[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:333:1:@.str.9.103	*global_alloc@.str.9.103
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:343:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.10.104, i32 0, i32 0)	*global_alloc@.str.10.104[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:343:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.10.104, i32 0, i32 0)	*global_alloc@.str.10.104[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:343:2:@.str.10.104	*global_alloc@.str.10.104
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:358:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.11.105, i32 0, i32 0)	*global_alloc@.str.11.105[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:358:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.11.105, i32 0, i32 0)	*global_alloc@.str.11.105[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:358:2:@.str.11.105	*global_alloc@.str.11.105
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:395:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.12.106, i32 0, i32 0)	*global_alloc@.str.12.106[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:395:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.12.106, i32 0, i32 0)	*global_alloc@.str.12.106[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:395:2:@.str.12.106	*global_alloc@.str.12.106
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:426:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.13.107, i32 0, i32 0)	*global_alloc@.str.13.107[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:426:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.13.107, i32 0, i32 0)	*global_alloc@.str.13.107[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:426:2:@.str.13.107	*global_alloc@.str.13.107
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:454:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.14.108, i32 0, i32 0)	*global_alloc@.str.14.108[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:454:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.14.108, i32 0, i32 0)	*global_alloc@.str.14.108[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:454:1:@.str.14.108	*global_alloc@.str.14.108
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:499:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.13.107, i32 0, i32 0)	*global_alloc@.str.13.107[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:499:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.13.107, i32 0, i32 0)	*global_alloc@.str.13.107[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:499:2:@.str.13.107	*global_alloc@.str.13.107
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:527:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.15.109, i32 0, i32 0)	*global_alloc@.str.15.109[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:527:0:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.15.109, i32 0, i32 0)	*global_alloc@.str.15.109[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:527:1:@.str.15.109	*global_alloc@.str.15.109
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:577:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.16.110, i32 0, i32 0)	*global_alloc@.str.16.110[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:577:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.16.110, i32 0, i32 0)	*global_alloc@.str.16.110[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:577:2:@.str.16.110	*global_alloc@.str.16.110
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:630:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.17.111, i32 0, i32 0)	*global_alloc@.str.17.111[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:630:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.17.111, i32 0, i32 0)	*global_alloc@.str.17.111[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:630:2:@.str.17.111	*global_alloc@.str.17.111
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:668:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.18.112, i32 0, i32 0)	*global_alloc@.str.18.112[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:668:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.18.112, i32 0, i32 0)	*global_alloc@.str.18.112[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:dttofmtasc_replace:668:2:@.str.18.112	*global_alloc@.str.18.112
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:DecodeInterval:74:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:205:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.115, i32 0, i32 0)	*global_alloc@.str.115[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:205:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.115, i32 0, i32 0)	*global_alloc@.str.115[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:205:2:@.str.115	*global_alloc@.str.115
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:258:1:getelementptr inbounds ([24 x i8], [24 x i8]* @.str.1.116, i32 0, i32 0)	*global_alloc@.str.1.116[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:258:1:getelementptr inbounds ([24 x i8], [24 x i8]* @.str.1.116, i32 0, i32 0)	*global_alloc@.str.1.116[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:258:2:@.str.1.116	*global_alloc@.str.1.116
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:275:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.2.117, i32 0, i32 0)	*global_alloc@.str.2.117[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:275:1:getelementptr inbounds ([6 x i8], [6 x i8]* @.str.2.117, i32 0, i32 0)	*global_alloc@.str.2.117[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:275:2:@.str.2.117	*global_alloc@.str.2.117
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:284:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.3.118, i32 0, i32 0)	*global_alloc@.str.3.118[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:284:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.3.118, i32 0, i32 0)	*global_alloc@.str.3.118[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:284:2:@.str.3.118	*global_alloc@.str.3.118
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:298:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.4.119, i32 0, i32 0)	*global_alloc@.str.4.119[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:298:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.4.119, i32 0, i32 0)	*global_alloc@.str.4.119[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:298:2:@.str.4.119	*global_alloc@.str.4.119
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:335:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.5.120, i32 0, i32 0)	*global_alloc@.str.5.120[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:335:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.5.120, i32 0, i32 0)	*global_alloc@.str.5.120[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:335:2:@.str.5.120	*global_alloc@.str.5.120
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:414:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.6.121, i32 0, i32 0)	*global_alloc@.str.6.121[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:414:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.6.121, i32 0, i32 0)	*global_alloc@.str.6.121[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:414:2:@.str.6.121	*global_alloc@.str.6.121
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:418:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.7.122, i32 0, i32 0)	*global_alloc@.str.7.122[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:418:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.7.122, i32 0, i32 0)	*global_alloc@.str.7.122[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:418:2:@.str.7.122	*global_alloc@.str.7.122
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:422:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.8.123, i32 0, i32 0)	*global_alloc@.str.8.123[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:422:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.8.123, i32 0, i32 0)	*global_alloc@.str.8.123[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:422:2:@.str.8.123	*global_alloc@.str.8.123
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:460:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:460:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:460:1:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:460:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.11.125, i32 0, i32 0)	*global_alloc@.str.11.125[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:460:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.11.125, i32 0, i32 0)	*global_alloc@.str.11.125[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:460:5:@.str.11.125	*global_alloc@.str.11.125
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:469:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.13.126, i32 0, i32 0)	*global_alloc@.str.13.126[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:469:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.13.126, i32 0, i32 0)	*global_alloc@.str.13.126[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:469:1:@.str.13.126	*global_alloc@.str.13.126
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:469:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:469:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:469:5:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:471:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.12.127, i32 0, i32 0)	*global_alloc@.str.12.127[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:471:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.12.127, i32 0, i32 0)	*global_alloc@.str.12.127[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:471:1:@.str.12.127	*global_alloc@.str.12.127
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:476:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.9.128, i32 0, i32 0)	*global_alloc@.str.9.128[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:476:1:getelementptr inbounds ([15 x i8], [15 x i8]* @.str.9.128, i32 0, i32 0)	*global_alloc@.str.9.128[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:476:2:@.str.9.128	*global_alloc@.str.9.128
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:490:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.14.129, i32 0, i32 0)	*global_alloc@.str.14.129[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:490:1:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.14.129, i32 0, i32 0)	*global_alloc@.str.14.129[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:490:2:@.str.14.129	*global_alloc@.str.14.129
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:496:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.6.121, i32 0, i32 0)	*global_alloc@.str.6.121[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:496:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.6.121, i32 0, i32 0)	*global_alloc@.str.6.121[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:496:2:@.str.6.121	*global_alloc@.str.6.121
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:500:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.7.122, i32 0, i32 0)	*global_alloc@.str.7.122[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:500:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.7.122, i32 0, i32 0)	*global_alloc@.str.7.122[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:500:2:@.str.7.122	*global_alloc@.str.7.122
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:504:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.8.123, i32 0, i32 0)	*global_alloc@.str.8.123[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:504:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.8.123, i32 0, i32 0)	*global_alloc@.str.8.123[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:504:2:@.str.8.123	*global_alloc@.str.8.123
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:508:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.15.130, i32 0, i32 0)	*global_alloc@.str.15.130[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:508:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.15.130, i32 0, i32 0)	*global_alloc@.str.15.130[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:508:2:@.str.15.130	*global_alloc@.str.15.130
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:512:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.16.131, i32 0, i32 0)	*global_alloc@.str.16.131[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:512:1:getelementptr inbounds ([4 x i8], [4 x i8]* @.str.16.131, i32 0, i32 0)	*global_alloc@.str.16.131[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:512:2:@.str.16.131	*global_alloc@.str.16.131
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:575:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.18.132, i32 0, i32 0)	*global_alloc@.str.18.132[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:575:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.18.132, i32 0, i32 0)	*global_alloc@.str.18.132[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:575:1:@.str.18.132	*global_alloc@.str.18.132
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:575:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:575:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:575:5:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:576:1:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.17.133, i32 0, i32 0)	*global_alloc@.str.17.133[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:576:1:getelementptr inbounds ([7 x i8], [7 x i8]* @.str.17.133, i32 0, i32 0)	*global_alloc@.str.17.133[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:576:2:@.str.17.133	*global_alloc@.str.17.133
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:583:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.19.134, i32 0, i32 0)	*global_alloc@.str.19.134[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:583:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.19.134, i32 0, i32 0)	*global_alloc@.str.19.134[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:583:2:@.str.19.134	*global_alloc@.str.19.134
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:589:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.20.135, i32 0, i32 0)	*global_alloc@.str.20.135[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:589:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.20.135, i32 0, i32 0)	*global_alloc@.str.20.135[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:EncodeInterval:589:2:@.str.20.135	*global_alloc@.str.20.135
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESinterval_from_asc:16:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESinterval_from_asc:19:0:null	*null*
@@ -1097,19 +1461,51 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESinterval_from_asc:106:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESinterval_to_asc:22:0:null	*null*
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:PGTYPESinterval_to_asc:33:0:null	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:19:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.21.140, i32 0, i32 0)	*global_alloc@.str.21.140[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:19:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.21.140, i32 0, i32 0)	*global_alloc@.str.21.140[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:19:2:@.str.21.140	*global_alloc@.str.21.140
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:24:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.22.141, i32 0, i32 0)	*global_alloc@.str.22.141[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:24:1:getelementptr inbounds ([3 x i8], [3 x i8]* @.str.22.141, i32 0, i32 0)	*global_alloc@.str.22.141[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:24:2:@.str.22.141	*global_alloc@.str.22.141
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:43:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.23.142, i32 0, i32 0)	*global_alloc@.str.23.142[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:43:1:getelementptr inbounds ([10 x i8], [10 x i8]* @.str.23.142, i32 0, i32 0)	*global_alloc@.str.23.142[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:43:2:@.str.23.142	*global_alloc@.str.23.142
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:58:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.24.143, i32 0, i32 0)	*global_alloc@.str.24.143[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:58:1:getelementptr inbounds ([8 x i8], [8 x i8]* @.str.24.143, i32 0, i32 0)	*global_alloc@.str.24.143[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AppendSeconds:58:2:@.str.24.143	*global_alloc@.str.24.143
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddISO8601IntPart:17:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.25.139, i32 0, i32 0)	*global_alloc@.str.25.139[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddISO8601IntPart:17:1:getelementptr inbounds ([5 x i8], [5 x i8]* @.str.25.139, i32 0, i32 0)	*global_alloc@.str.25.139[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddISO8601IntPart:17:2:@.str.25.139	*global_alloc@.str.25.139
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:22:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.11.125, i32 0, i32 0)	*global_alloc@.str.11.125[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:22:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.11.125, i32 0, i32 0)	*global_alloc@.str.11.125[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:22:1:@.str.11.125	*global_alloc@.str.11.125
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:22:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:22:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:22:5:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:32:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.13.126, i32 0, i32 0)	*global_alloc@.str.13.126[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:32:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.13.126, i32 0, i32 0)	*global_alloc@.str.13.126[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:32:1:@.str.13.126	*global_alloc@.str.13.126
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:32:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:32:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:32:5:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:37:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.18.132, i32 0, i32 0)	*global_alloc@.str.18.132[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:37:0:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.18.132, i32 0, i32 0)	*global_alloc@.str.18.132[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:37:1:@.str.18.132	*global_alloc@.str.18.132
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:37:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:37:4:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:37:5:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:38:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.26.138, i32 0, i32 0)	*global_alloc@.str.26.138[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:38:1:getelementptr inbounds ([12 x i8], [12 x i8]* @.str.26.138, i32 0, i32 0)	*global_alloc@.str.26.138[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddPostgresIntPart:38:2:@.str.26.138	*global_alloc@.str.26.138
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:45:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:45:0:getelementptr inbounds ([1 x i8], [1 x i8]* @.str.10.124, i32 0, i32 0)	*global_alloc@.str.10.124[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:45:1:@.str.10.124	*global_alloc@.str.10.124
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:45:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.18.132, i32 0, i32 0)	*global_alloc@.str.18.132[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:45:4:getelementptr inbounds ([2 x i8], [2 x i8]* @.str.18.132, i32 0, i32 0)	*global_alloc@.str.18.132[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:45:5:@.str.18.132	*global_alloc@.str.18.132
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:46:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.27.137, i32 0, i32 0)	*global_alloc@.str.27.137[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:46:1:getelementptr inbounds ([9 x i8], [9 x i8]* @.str.27.137, i32 0, i32 0)	*global_alloc@.str.27.137[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:AddVerboseIntPart:46:2:@.str.27.137	*global_alloc@.str.27.137
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:ISO8601IntegerWidth:12:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.28.136, i32 0, i32 0)	*global_alloc@.str.28.136[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:ISO8601IntegerWidth:12:1:getelementptr inbounds ([11 x i8], [11 x i8]* @.str.28.136, i32 0, i32 0)	*global_alloc@.str.28.136[0][*]
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/postgresql-9.5.2/libpgtypes.so.3.6.bc>:ISO8601IntegerWidth:12:2:@.str.28.136	*global_alloc@.str.28.136

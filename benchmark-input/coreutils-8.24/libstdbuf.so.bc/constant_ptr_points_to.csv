@@ -1,0 +1,2 @@
+*null*	*global_alloc@llvm.global_ctors[0][0].?/2
+*global_alloc@stdbuf	*global_alloc@llvm.global_ctors[0][0].?/1

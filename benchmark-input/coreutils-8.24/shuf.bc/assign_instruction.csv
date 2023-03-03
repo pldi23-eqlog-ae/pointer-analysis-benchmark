@@ -82,6 +82,9 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_swap:%6	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_swap:%.compoundliteral1
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_swap:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_swap:%call
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_swap:%2	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_swap:%.compoundliteral
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_hash_:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_hash_:%0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_cmp_:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_cmp_:%2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_cmp_:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:sparse_cmp_:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_new:%isaac17	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_new:%buf16
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_new:%12	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_new:%arraydecay15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_new:%isaac14	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_new:%buf13
@@ -116,6 +119,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:readisaac:%21	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:readisaac:%20
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:readisaac:%b	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:readisaac:%data
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:readisaac:%b4	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:readisaac:%data3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_error:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_error:%call3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_error:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:randread_error:%call2
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:ind:%6	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:ind:%5
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:ind:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:ind:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:version_etc_va:%9	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:version_etc_va:49:0:false
@@ -153,6 +158,7 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_delete:%46	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_delete:%45
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_delete:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_delete:%mul27
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_delete:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_delete:%mul32
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:raw_hasher:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:raw_hasher:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_find_entry:%24	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_find_entry:%22
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_find_entry:%23	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:hash_find_entry:%21
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:allocate_entry:%7	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shuf.bc>:allocate_entry:%call

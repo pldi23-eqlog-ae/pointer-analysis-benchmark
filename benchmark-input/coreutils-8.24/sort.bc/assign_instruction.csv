@@ -256,6 +256,9 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:reap_exited:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:reap_exited:7:0:false
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:reap_exited:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:reap_exited:%tobool
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:register_proc:%5	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:register_proc:%4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:proctab_hasher:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:proctab_hasher:%0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:proctab_comparator:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:proctab_comparator:%2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:proctab_comparator:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:proctab_comparator:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:mergefps:%302	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:mergefps:%301
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:mergefps:%300	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:mergefps:%299
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:mergefps:%296	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:mergefps:%295
@@ -292,6 +295,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:default_sort_size:%cond49	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:default_sort_size:%22
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:default_sort_size:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:default_sort_size:%12
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:default_sort_size:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:default_sort_size:%div26
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:compare_nodes:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:compare_nodes:%2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:compare_nodes:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:compare_nodes:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:merge_tree_init:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:merge_tree_init:%call
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:init_node:%cond9	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:init_node:%end_hi
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:init_node:%cond9	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:init_node:%end_lo
@@ -420,6 +425,7 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_delete:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_delete:%mul27
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_delete:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_delete:%mul32
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_delete:%46	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_delete:%45
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:raw_hasher:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:raw_hasher:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_find_entry:%24	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_find_entry:%22
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_find_entry:%23	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:hash_find_entry:%21
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:allocate_entry:%7	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:allocate_entry:%call
@@ -517,6 +523,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readisaac:%21	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readisaac:%20
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readisaac:%b4	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readisaac:%data3
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readisaac:%b	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readisaac:%data
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:randread_error:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:randread_error:%call3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:randread_error:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:randread_error:%call2
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:ind:%6	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:ind:%5
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:ind:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:ind:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readtokens0:%114	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/sort.bc>:readtokens0:%113

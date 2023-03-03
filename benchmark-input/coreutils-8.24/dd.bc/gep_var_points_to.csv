@@ -1,0 +1,590 @@
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:main:%st_mode88	*stack_alloc@main[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:main:%st_mode	*stack_alloc@main[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:main:%st_mode93	*stack_alloc@main[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:main:%arrayidx10	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:main:%arrayidx10	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:main:%st_mode94	*stack_alloc@main[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][1].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][2].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][3].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][4].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][5].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node5	*global_alloc@emit_ancillary_info.infomap[0][6].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][1].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][2].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][3].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][4].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][5].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%node3	*global_alloc@emit_ancillary_info.infomap[0][6].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][3]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][4]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][5]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%incdec.ptr	*global_alloc@emit_ancillary_info.infomap[0][6]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][3]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][4]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][5]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][6]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][1].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][2].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][3].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][4].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][5].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program2	*global_alloc@emit_ancillary_info.infomap[0][6].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][3]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][4]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][5]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][6]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][1].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][2].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][3].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][4].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][5].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:emit_ancillary_info:%program1	*global_alloc@emit_ancillary_info.infomap[0][6].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%sa_flags20	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler18	*stack_alloc@install_signal_handlers[%struct.sigaction* %act]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler18	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler18	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%sa_flags	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler11	*stack_alloc@install_signal_handlers[%struct.sigaction* %act]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler11	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler11	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%sa_mask	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler	*stack_alloc@install_signal_handlers[%struct.sigaction* %act]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:install_signal_handlers:%__sigaction_handler	*stack_alloc@install_signal_handlers[%struct.sigaction* %act][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx15	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx15	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx20	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx20	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx6	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:apply_translations:%arrayidx6	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_fd_flags:%st_nlink	*stack_alloc@set_fd_flags[%struct.stat* %st][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_fd_flags:%st_mode	*stack_alloc@set_fd_flags[%struct.stat* %st][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay3	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay3	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay3	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay2	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay2	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:nl_error:%arraydecay2	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%st_size	*stack_alloc@dd_copy[%struct.stat* %stdout_stat][0].?/8
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%st_mode	*stack_alloc@dd_copy[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%st_mode270	*stack_alloc@dd_copy[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%arrayidx213	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%arrayidx	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%arrayidx229	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:dd_copy:%st_mode271	*stack_alloc@dd_copy[%struct.stat* %stdout_stat][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:operand_matches:%incdec.ptr1	*global_alloc@conversions[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:operand_matches:%incdec.ptr1	*global_alloc@.str.57[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%value13	*global_alloc@conversions[0][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%value12	*global_alloc@conversions[0][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%incdec.ptr	*global_alloc@conversions[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@conversions
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@flags
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@statuses
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@conversions[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@flags[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@statuses[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@conversions[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@conversions[0][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arrayidx	*global_alloc@conversions[0][*].?/0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@conversions
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@flags
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@statuses
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@conversions[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@flags[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@statuses[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@conversions[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol4	*global_alloc@conversions[0][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%value3	*global_alloc@conversions[0][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@conversions
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@flags
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@statuses
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@conversions[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@flags[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@statuses[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@conversions[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@conversions[0][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%arraydecay	*global_alloc@conversions[0][*].?/0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@conversions
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@flags
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@statuses
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@conversions[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@flags[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@statuses[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@conversions[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_symbols:%symbol	*global_alloc@conversions[0][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:iread_fullblock:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:print_xfer_stats:%arraydecay8	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:print_xfer_stats:%arraydecay8	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:print_xfer_stats:%arraydecay8	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:print_xfer_stats:%arraydecay	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:print_xfer_stats:%arraydecay	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:print_xfer_stats:%arraydecay	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx4	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx4	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx2	*global_alloc@ebcdic_to_ascii[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx2	*global_alloc@ebcdic_to_ascii[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx2	*global_alloc@ascii_to_ebcdic[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx2	*global_alloc@ascii_to_ibm[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_charset:%arrayidx	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip:%st_size18	*stack_alloc@skip[%struct.stat* %st][0].?/8
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip:%st_size16	*stack_alloc@skip[%struct.stat* %st][0].?/8
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip:%st_size	*stack_alloc@skip[%struct.stat* %st][0].?/8
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_type	*stack_alloc@skip_via_lseek[%struct.mtget* %s2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_type	*stack_alloc@skip_via_lseek[%struct.mtget* %s2][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_type	*stack_alloc@skip_via_lseek[%struct.mtget* %s2][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_blkno13	*stack_alloc@skip_via_lseek[%struct.mtget* %s2][0].?/6
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_blkno	*stack_alloc@skip_via_lseek[%struct.mtget* %s1][0].?/6
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_fileno	*stack_alloc@skip_via_lseek[%struct.mtget* %s1][0].?/5
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_resid7	*stack_alloc@skip_via_lseek[%struct.mtget* %s2][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_resid	*stack_alloc@skip_via_lseek[%struct.mtget* %s1][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:skip_via_lseek:%mt_fileno10	*stack_alloc@skip_via_lseek[%struct.mtget* %s2][0].?/5
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:usable_st_size:%st_mode6	*stack_alloc@skip[%struct.stat* %st][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:usable_st_size:%st_mode5	*stack_alloc@skip[%struct.stat* %st][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:usable_st_size:%st_mode1	*stack_alloc@skip[%struct.stat* %st][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:usable_st_size:%st_mode	*stack_alloc@skip[%struct.stat* %st][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:iwrite:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:is_nul:%add.ptr7	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:is_nul:%incdec.ptr2	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:is_nul:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:is_nul:%incdec.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:alloc_ibuf:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:alloc_ibuf:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:ptr_align:%add.ptr2	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:ptr_align:%add.ptr1	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:ptr_align:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:alloc_obuf:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_buffer:%incdec.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_buffer:%arrayidx	*global_alloc@trans_table[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:translate_buffer:%arrayidx	*global_alloc@trans_table[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:swab_buffer:%incdec.ptr8	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:swab_buffer:%add.ptr7	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:swab_buffer:%add.ptr5	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:swab_buffer:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:swab_buffer:%arrayidx	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:swab_buffer:%incdec.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_block:%incdec.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_block:%arrayidx25	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_block:%arrayidx	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_unblock:%arrayidx23	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_unblock:%arrayidx14	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_unblock:%arrayidx3	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_unblock:%arrayidx	*global_alloc@saved_char[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_with_unblock:%arrayidx	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_simple:%add.ptr3	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:copy_simple:%add.ptr	*heap_alloc@alloc_ibuf[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_nsec4	*stack_alloc@gethrxtime[%struct.timespec* %ts2][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_sec3	*stack_alloc@gethrxtime[%struct.timespec* %ts2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_sec3	*stack_alloc@gethrxtime[%struct.timespec* %ts2][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_sec3	*stack_alloc@gethrxtime[%struct.timespec* %ts2][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_nsec	*stack_alloc@gethrxtime[%struct.timespec* %ts][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_sec	*stack_alloc@gethrxtime[%struct.timespec* %ts]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_sec	*stack_alloc@gethrxtime[%struct.timespec* %ts][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gethrxtime:%tv_sec	*stack_alloc@gethrxtime[%struct.timespec* %ts][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_nsec	*stack_alloc@gethrxtime[%struct.timespec* %ts2][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_usec	*stack_alloc@gettime[%struct.timespec* %tv][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_sec2	*stack_alloc@gethrxtime[%struct.timespec* %ts2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_sec2	*stack_alloc@gethrxtime[%struct.timespec* %ts2][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_sec2	*stack_alloc@gethrxtime[%struct.timespec* %ts2][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_sec	*stack_alloc@gettime[%struct.timespec* %tv]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_sec	*stack_alloc@gettime[%struct.timespec* %tv][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettime:%tv_sec	*stack_alloc@gettime[%struct.timespec* %tv][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr285	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr285	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr257	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr257	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr224	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr224	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr213	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr213	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%arrayidx268	*global_alloc@power_letter[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%arrayidx268	*global_alloc@power_letter[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr273	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr273	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr93	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr93	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%arrayidx	*global_alloc@human_size.hbuf[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%arrayidx	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%arrayidx	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%arrayidx	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr91	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr91	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr215	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr215	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr174	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr174	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr90	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr90	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr283	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%incdec.ptr283	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr13	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr13	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:human_readable:%add.ptr	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr14	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr14	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr8	*stack_alloc@group_number[[41 x i8]* %buf][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr8	*stack_alloc@group_number[[41 x i8]* %buf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%arraydecay	*stack_alloc@group_number[[41 x i8]* %buf]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%arraydecay	*stack_alloc@group_number[[41 x i8]* %buf][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%arraydecay	*stack_alloc@group_number[[41 x i8]* %buf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr7	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr7	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%incdec.ptr	*global_alloc@.str.1.138[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr	*global_alloc@human_size.hbuf[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:group_number:%add.ptr	*stack_alloc@print_xfer_stats[[652 x i8]* %hbuf][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_long_options:%arraydecay4	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_long_options:%arraydecay4	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_long_options:%arraydecay4	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_long_options:%arraydecay	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_long_options:%arraydecay	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:parse_long_options:%arraydecay	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%add.ptr	*global_alloc@default_quoting_options[0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%add.ptr	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%arraydecay	*global_alloc@default_quoting_options[0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%arraydecay	*global_alloc@default_quoting_options[0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%arraydecay	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%arraydecay	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%quote_these_too	*global_alloc@default_quoting_options[0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:set_char_quoting:%quote_these_too	*stack_alloc@quotearg_char_mem[%struct.quoting_options* %options][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%incdec.ptr513	*global_alloc@.str.8.179[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx478	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx478	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx478	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx519	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx519	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx519	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx507	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx507	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx507	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx453	*global_alloc@quote_quoting_options[0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx453	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx418	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx418	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx418	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx402	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx402	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx402	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx376	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx376	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx376	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx469	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx469	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx469	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx388	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx388	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx388	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx273	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx273	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx273	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx265	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx265	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx265	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx257	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx257	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx257	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx434	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx434	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx434	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx168	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx168	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx168	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx160	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx160	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx160	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx117	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx117	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx117	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx109	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx109	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx109	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx184	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx184	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx184	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%incdec.ptr	*global_alloc@.str.8.179[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx20	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx20	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx20	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx176	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx176	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx176	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx85	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx85	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx85	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx33	*global_alloc@slot0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx33	*global_alloc@slot0[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_buffer_restyled:%arrayidx33	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%right_quote43	*global_alloc@quote_quoting_options[0].?/4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%right_quote43	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%left_quote42	*global_alloc@quote_quoting_options[0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%left_quote42	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%quote_these_too40	*global_alloc@quote_quoting_options[0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%quote_these_too40	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style39	*global_alloc@quote_quoting_options
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style39	*global_alloc@quote_quoting_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style39	*global_alloc@quote_quoting_options[0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style39	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style39	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style39	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%val38	*global_alloc@slotvec0[*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%val38	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx37	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx37	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx37	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size30	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size30	*global_alloc@slotvec0[*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size30	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size30	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size30	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx29	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx29	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx29	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%right_quote	*global_alloc@quote_quoting_options[0].?/4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%right_quote	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%quote_these_too	*global_alloc@quote_quoting_options[0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%quote_these_too	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style	*global_alloc@quote_quoting_options
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style	*global_alloc@quote_quoting_options[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style	*global_alloc@quote_quoting_options[0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%style	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%flags22	*global_alloc@quote_quoting_options[0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%flags22	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay41	*global_alloc@quote_quoting_options[0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay41	*global_alloc@quote_quoting_options[0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay41	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay41	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%val21	*global_alloc@slotvec0[*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%val21	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*].?/1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx20	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx20	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx20	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size18	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size18	*global_alloc@slotvec0[*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size18	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size18	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%size18	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arrayidx	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%add.ptr	*global_alloc@slotvec0[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%add.ptr	*heap_alloc@xrealloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%add.ptr	*typed_heap_alloc@xrealloc[%struct.slotvec* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%left_quote	*global_alloc@quote_quoting_options[0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%left_quote	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay	*global_alloc@quote_quoting_options[0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay	*global_alloc@quote_quoting_options[0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quotearg_n_options:%arraydecay	*stack_alloc@quotearg_n_style_mem[%struct.quoting_options* %o][0].?/2[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quoting_options_from_style:%style1	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quoting_options_from_style:%style1	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:quoting_options_from_style:%style1	*stack_alloc@quoting_options_from_style[%struct.quoting_options* %o][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx12	*global_alloc@.str.10.180
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx12	*global_alloc@.str.10.180[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx12	*global_alloc@.str.9.181[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx12	*global_alloc@.str.10.180[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx	*global_alloc@.str.10.180
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx	*global_alloc@.str.10.180[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx	*global_alloc@.str.9.181[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:gettext_quote:%arrayidx	*global_alloc@.str.10.180[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx78	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx78	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx78	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx67	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx67	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx67	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx56	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx56	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx56	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx29	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx29	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx29	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx46	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx46	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx46	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx22	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx22	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx22	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx37	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx37	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx37	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx16	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx16	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx16	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx11	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx11	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx11	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_arn:%arrayidx	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%arraydecay	*stack_alloc@version_etc_va[[10 x i8*]* %authtab]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%arraydecay	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%arraydecay	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%arrayidx	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%arrayidx	*stack_alloc@version_etc_va[[10 x i8*]* %authtab][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%2	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%gp_offset_p	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%gp_offset_p	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%gp_offset_p	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%gp_offset_p	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:version_etc_va:%overflow_arg_area_p	*stack_alloc@parse_long_options[[1 x %struct.__va_list_tag]* %authors][0][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrtoumax:%arrayidx61	*stack_alloc@xstrtoumax[i8** %t_ptr]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrtoumax:%arrayidx61	*stack_alloc@parse_integer[i8** %suffix][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrtoumax:%arrayidx61	*stack_alloc@xstrtoumax[i8** %t_ptr][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrtoumax:%arrayidx58	*stack_alloc@xstrtoumax[i8** %t_ptr]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrtoumax:%arrayidx58	*stack_alloc@parse_integer[i8** %suffix][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrtoumax:%arrayidx58	*stack_alloc@xstrtoumax[i8** %t_ptr][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xvasprintf:%incdec.ptr12	*global_alloc@.str.74[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xvasprintf:%incdec.ptr	*global_alloc@.str.74[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%add.ptr	*heap_alloc@xmalloc[i8* %call][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%overflow_arg_area_p19	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%21	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p13	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p13	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p13	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p13	*stack_alloc@nl_error[[1 x %struct.__va_list_tag]* %ap][0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay3	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay3	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay3	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%5	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%overflow_arg_area_p	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%gp_offset_p	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay1	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay1	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay1	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:xstrcat:%arraydecay	*stack_alloc@xstrcat[[1 x %struct.__va_list_tag]* %ap][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay41	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay41	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay41	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%overflow_arg_area_p35	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%27	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p29	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p29	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p29	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p29	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay28	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay28	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay28	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%overflow_arg_area_p	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%1	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%gp_offset_p	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0].?/0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay2	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:rpl_fcntl:%arraydecay	*stack_alloc@rpl_fcntl[[1 x %struct.__va_list_tag]* %arg][0][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:c_strcasecmp:%incdec.ptr10	*global_alloc@.str.11.173[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:c_strcasecmp:%incdec.ptr	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:c_strcasecmp:%incdec.ptr	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:c_strcasecmp:%incdec.ptr	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*global_alloc@.str.250
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*global_alloc@.str.1.251
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*global_alloc@.str.250[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*global_alloc@.str.1.251[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx23	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr22	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr22	*global_alloc@.str.250[*][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr22	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr22	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr19	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr19	*global_alloc@.str.250[*][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr19	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr19	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr16	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr16	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr16	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr	*global_alloc@.str.250[*][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%add.ptr	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx10	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx10	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx10	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx10	*heap_alloc@get_charset_aliases[i8* %call87][1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*null*
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*global_alloc@.str.250
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*global_alloc@.str.250[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*global_alloc@.str.250[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*global_alloc@.str.250[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*heap_alloc@get_charset_aliases[i8* %call87]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:locale_charset:%arrayidx	*heap_alloc@get_charset_aliases[i8* %call87][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr119	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay112	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay112	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay112	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr111	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr108	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay106	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay106	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay106	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr102	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr100	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay78	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay78	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay78	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay70	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay70	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay70	*stack_alloc@get_charset_aliases[[51 x i8]* %buf2][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr105	*heap_alloc@get_charset_aliases[i8* %call87][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr23	*heap_alloc@get_charset_aliases[i8* %call16][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%add.ptr	*heap_alloc@get_charset_aliases[i8* %call16][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arrayidx21	*heap_alloc@get_charset_aliases[i8* %call16][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arrayidx9	*global_alloc@.str.4.254[*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arrayidx9	*global_alloc@.str.4.254[0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay76	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay76	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arraydecay76	*stack_alloc@get_charset_aliases[[51 x i8]* %buf1][0][*]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arrayidx	*global_alloc@.str.4.254
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arrayidx	*global_alloc@.str.4.254[0]
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/dd.bc>:get_charset_aliases:%arrayidx	*global_alloc@.str.4.254[0][*]

@@ -42,10 +42,43 @@
 (relation getelementptr_instruction_base (String String))
 (input getelementptr_instruction_base "getelementptr_instruction_base.csv")
 
+;; Analyses beyond basic
+(relation RAW_alloc_subregion_at_path (String String String))
+(input RAW_alloc_subregion_at_path "alloc_subregion_at_path.csv")
+(relation alloc_aliases (String String))
+(input alloc_aliases "alloc_aliases.csv")
+(relation gep_var_points_to (String String))
+(input gep_var_points_to "gep_var_points_to.csv")
+(relation allocation (String))
+(input allocation "allocation.csv")
+(relation RAW_alloc_matches (String String))
+(input RAW_alloc_matches "alloc_matches.csv")
+
 (datatype Allocation (A String))
 
 (function expr_points_to (String) Allocation)
 (function ptr_points_to (Allocation) Allocation)
+
+;; populate allocations
+(rule (
+    (allocation alloc)
+)(
+    (A alloc)
+))
+
+(relation alloc_matches (Allocation Allocation))
+(rule (
+    (RAW_alloc_matches lessGenericAlloc alloc)
+)(
+    (alloc_matches (A lessGenericAlloc) (A alloc))
+))
+
+;; gep
+(rule (
+    (gep_var_points_to e a)
+)(
+    (union (expr_points_to e) (A a))
+))
 
 ;; constant
 (rule (
@@ -69,21 +102,6 @@
     (union (expr_points_to v) (A a))
 ))
 
-;; alias rule
-;; (rule (
-;;     (store_instruction_address si x)
-;;     (= (expr_points_to x) xAlloc)
-;;     (store_instruction_value si y)
-;;     (= (expr_points_to y) yAlloc)
-;;     (load_instruction_address li q)
-;;     (= (expr_points_to q) qAlloc)
-;;     (instruction_assigns_to li p)
-;;     (= (expr_points_to p) pAlloc)
-;;     (= xAlloc qAlloc)
-;; )(
-;;     (union yAlloc pAlloc)
-;; ))
-
 ;; assign
 (rule (
     (assign_instruction v e)
@@ -102,6 +120,17 @@
     (union (expr_points_to e) b)
 ))
 
+(rule (
+    (load_instruction_address i u)
+    (instruction_assigns_to i e)
+    (= (expr_points_to u) baseAlloc)
+    (alloc_matches lessGenericAlloc baseAlloc)
+    (= (ptr_points_to lessGenericAlloc) b)
+)(
+    (union (expr_points_to e) b)
+))
+
+
 ;; store
 (rule (
     (store_instruction_address i v)
@@ -112,34 +141,21 @@
     (union (ptr_points_to a) b)
 ))
 
-;; field (insensitive)
 ;; (rule (
-;;     (alloc_subregion_root ef e)
-;;     (= (ptr_points_to (A ef)) a)
+;;     (getelementptr_instruction_base i e)
+;;     (instruction_assigns_to i v)
+;;     (= (expr_points_to v) a)
 ;; )(
-;;     (union (ptr_points_to (A e)) a)
+;;     (union (expr_points_to e) a)
 ;; ))
-(rule (
-    (getelementptr_instruction_base i e)
-    (instruction_assigns_to i v)
-    (= (expr_points_to v) a)
-)(
-    (union (expr_points_to e) a)
-))
 
 ;; (rule (
-;;     (alloc_subregion_root ef e)
-;;     (= (ptr_points_to (A e)) a)
+;;     (getelementptr_instruction_base i e)
+;;     (instruction_assigns_to i v)
+;;     (= (expr_points_to e) a)
 ;; )(
-;;     (union (ptr_points_to (A ef)) a)
+;;     (union (expr_points_to v) a)
 ;; ))
-(rule (
-    (getelementptr_instruction_base i e)
-    (instruction_assigns_to i v)
-    (= (expr_points_to e) a)
-)(
-    (union (expr_points_to v) a)
-))
 
 ;; If `f(t* x)`, `f(v)`, and `v -> a`, then `x -> a`.
 (rule (
@@ -163,7 +179,21 @@
 )(
     (union (expr_points_to to_var) a)
 ))
-;; (run 13)
+
+(function alloc_subregion_at_path (Allocation String) Allocation)
+;; this rule subsumes the two rules with unify0
+(rule (
+    (RAW_alloc_subregion_at_path alloc path subAlloc)
+)(
+    (union (alloc_subregion_at_path (A alloc) path) (A subAlloc))
+))
+;; this rule subsumes the rule with alloc_aliases
+(rule (
+    (alloc_aliases alloc1 alloc2)
+)(
+    (union (A alloc1) (A alloc2))
+))
+
 (run 100000)
 
 (print-size expr_points_to)

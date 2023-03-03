@@ -121,6 +121,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_new:%0	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_new:%call
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_all_new:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_all_new:19:0:null
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_all_new:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_all_new:%call1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_free:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_free:%2
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_free:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randint_free:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%isaac17	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%buf16
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%12	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%arraydecay15
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%isaac14	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%buf13
@@ -129,6 +131,10 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%9
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%c	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_new:%buf
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread:%isaac	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread:%buf1
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:22:0:0
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%call
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%5	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%4
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%3	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_free:%2
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:simple_new:%0	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:simple_new:%call
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:get_nonce:%66	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:get_nonce:%v64
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:get_nonce:%cond72	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:get_nonce:193:0:4
@@ -155,6 +161,8 @@
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:readisaac:%21	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:readisaac:%20
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:readisaac:%b4	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:readisaac:%data3
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:readisaac:%b	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:readisaac:%data
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_error:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_error:%call3
+</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_error:%cond	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:randread_error:%call2
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:ind:%6	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:ind:%5
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:ind:%1	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:ind:%0
 </home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:version_etc_va:%9	</home/anonymous/eqlog-steensgaard-analysis-benchmark/benchmarks/coreutils-8.24/shred.bc>:version_etc_va:49:0:false
