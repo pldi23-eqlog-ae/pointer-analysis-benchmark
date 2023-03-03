@@ -6,9 +6,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 import csv
 
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
+matplotlib.rcParams['savefig.bbox'] = 'tight'
+matplotlib.rcParams['font.size'] = 9
+
+
 # NOTE that we are only comparing against souffle interpreter mode single thread
 
-DEFAULT_EGGLOG_DIR = "../egg-smol/"
+DEFAULT_EGGLOG_DIR = "../eqlog/"
 FACT_GEN = "./cclyzerpp/build/factgen-exe "
 TIME_OUT = "20s"
 
@@ -24,10 +31,12 @@ parser.add_argument("--ignore-less-than-second", action='store_true')
 parser.add_argument("--no-viz", action='store_true')
 parser.add_argument("--run-benchmark", action='store')
 parser.add_argument("--no-run", action='store_true')
+parser.add_argument("--csvfile", default='benchmark_results.csv')
+parser.add_argument("--pdffile", default='plot.pdf')
 
 parser.add_argument("--disable-naive", action='store_true')
+parser.add_argument("--disable-sound", action='store_true')
 parser.add_argument("--disable-buggy", action='store_true')
-parser.add_argument("--disable-opt", action='store_true')
 
 args = parser.parse_args()
 
@@ -50,7 +59,10 @@ def build_egglog(args):
     code |= os.system(f"cd {args.egglog_path} && cargo build --release")
     return code == 0
 
-BENCHMARK_SETS = ['coreutils-8.24', 'postgresql-9.5.2']
+BENCHMARK_SETS = [
+    # 'coreutils-8.24', 
+    'postgresql-9.5.2'
+]
 def gen_facts_from_bc():
     for benchmark_set in BENCHMARK_SETS:
         benchmark_dir = f"benchmarks/{benchmark_set}"
@@ -104,22 +116,33 @@ def run_benchmark(args, benchmark_set, benchmark_name):
     print(f"running {benchmark_set}/{benchmark_name}")
     souffle_baselines = [
         ("naive-cclyzerpp.dl", args.disable_naive),
+        ("sound-cclyzerpp.dl", args.disable_sound),
         ("mini-cclyzerpp.dl", args.disable_buggy),
-        ("optimized-cclyzerpp.dl", args.disable_opt)
     ]
     input_dir = f"benchmark-input/{benchmark_set}/{benchmark_name}"
     times = []
     for (filename, disabled) in souffle_baselines:
         command = f"timeout {TIME_OUT} souffle -F {input_dir} {filename}"
         if disabled:
-            times.append(-1)
+            times.append(0)
         else:
             souffle_start_time = timer()
             os.system(command)
             souffle_end_time = timer()
             times.append(souffle_end_time - souffle_start_time)
 
-    command = f"{args.egglog_path}/target/release/egg-smol main.egg -F {input_dir} > /dev/null"
+    # egglog without seminaive
+    command = f"{args.egglog_path}/target/release/egg-smol main.egg --naive -F {input_dir} > /dev/null 2> /dev/null"
+    print(f"Running {command}")
+    egglog_start_time = timer()
+    if os.system(command) != 0 :
+        print("error when run egglog on benchmarks")
+        exit(1)
+    egglog_end_time = timer()
+    times.append(egglog_end_time - egglog_start_time)
+
+    # egglog with seminaive
+    command = f"{args.egglog_path}/target/release/egg-smol main.egg -F {input_dir} > /dev/null 2> /dev/null"
     print(f"Running {command}")
     egglog_start_time = timer()
     if os.system(command) != 0 :
@@ -142,11 +165,8 @@ def run_all_benchmarks(args):
                 times[1],
                 times[2],
                 times[3],
+                times[4],
             ])
-    gm = statistics.geometric_mean([e / s for (_, _naive, _buggy, s, e) in data])
-    total = sum([e for (_, _naive, _buggy, _, e) in data]) / sum([s for (_, _naive, _buggy, s, _) in data])
-    print(f"Geomean egglog/souffle: {gm}")
-    print(f"Total egglog/souffle: {total}")
     return data
 
 if args.build_cclyzerpp and not build_cclyzerpp():
@@ -181,40 +201,54 @@ if args.run_benchmark is not None:
 data = []
 
 if args.read_data_from_cached:
-    with open('benchmark_results.csv', newline='') as csvfile:
+    with open(args.csvfile, 'w', newline='') as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
-            data.append((row[0], float(row[1]), float(row[2]), float(row[3]), float(row[4])))
+            data.append((row[0], float(row[1]), float(row[2]), float(row[3]), float(row[4]), float(row[5])))
 else:
     data = run_all_benchmarks(args)
 
-    with open('benchmark_results.csv', 'w', newline='') as csvfile:
+    with open(args.csvfile, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         for i in range(len(data)):
             writer.writerow(data[i])
 
+hm1 = statistics.harmonic_mean([_patched / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
+hm2 = statistics.harmonic_mean([_cclyzerpp / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
+hm3 = statistics.harmonic_mean([_egglognaive / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
+total = sum([e for (_, _naive, _buggy, _, _, e) in data]) / sum([s for (_, _naive, _buggy, s, _, _) in data])
+print(f"Harmonic egglog/patched:     {hm1}")
+print(f"Harmonic egglog/cclyzerpp:   {hm2}")
+print(f"Harmonic egglog/egglognaive: {hm3}")
+print(f"Total egglog/souffle: {total}")
+
 if args.ignore_less_than_second:
     # ignore naive, since it's most likely to timeout
-    data = list(filter(lambda x: x[2] >= 1 or x[3] >= 1 or x[4] >= 1, data))
-
+    data = list(filter(lambda x: x[2] >= 1 or x[3] >= 1 or x[4] >= 1 or x[5] >= 1, data))
+data = sorted(data, key=lambda x: x[2])
 benchmark_full_names = list(map(lambda x: x[0], data))
-run_times = [list(map(lambda x: x[i], data)) for i in range(1, 5)]
+benchmark_full_names = list(map(lambda x: x.split('/')[1][:-3], benchmark_full_names))
+
+run_times = [list(map(lambda x: 0 if x[i] > 19.5 else x[i], data)) for i in range(1, 6)]
 # 0: naive
-# 1: buggy
-# 2: optimized
-# 3: egglog
+# 1: patched
+# 2: cclyzerpp
+# 3: egglog-naive
+# 4: egglog
 
 x = np.arange(len(benchmark_full_names))  # the label locations
-width = 0.18  # the width of the bars
+width = 0.2  # the width of the bars
 
 fig, ax = plt.subplots()
-rects1 = ax.bar(x - width - width/2, run_times[0], width, label='naive')
-rects2 = ax.bar(x - width/2, run_times[1], width, label='buggy')
-rects3 = ax.bar(x + width/2, run_times[2], width, label='optimized')
-rects4 = ax.bar(x + width + width/2, run_times[3], width, label='egglog')
+ax.set_yscale('log')
+rects1 = ax.bar(x - width - width/2, run_times[0], width, label='eqrel')
+rects2 = ax.bar(x - width/2, run_times[1], width, label='patched')
+rects3 = ax.bar(x + width/2, run_times[2], width, label='cclyzerpp')
+rects4 = ax.bar(x + width + width/2, run_times[3], width, label='EqLogNI')
+rects5 = ax.bar(x + 2 * width + width/2, run_times[4], width, label='EqLog')
 
 ax.set_ylabel('Time (s)')
-ax.set_title('Run time of cclyzer++ and egglog')
+ax.set_title('Run time of cclyzer++ and EqLog')
 ax.set_xticks(x, benchmark_full_names, rotation='vertical')
 ax.legend()
 
@@ -222,7 +256,8 @@ ax.legend()
 # ax.bar_label(rects2, padding=3)
 
 fig.tight_layout()
-plt.savefig('plot.png')
+fig.set_size_inches(10, 6)
+plt.savefig(args.pdffile)
 
 if not args.no_viz:
     plt.show()
