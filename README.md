@@ -1,7 +1,7 @@
-# Egglog Pointer Analysis Benchmark
+# eqlog Pointer Analysis Benchmark
 
 ```
-python3 run.py --build-egglog --build-cclyzerpp --ignore-less-than-second
+python3 run.py --build-eqlog --build-cclyzerpp --ignore-less-than-second
 ```
 
 ```bash

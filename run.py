@@ -15,14 +15,14 @@ matplotlib.rcParams['font.size'] = 9
 
 # NOTE that we are only comparing against souffle interpreter mode single thread
 
-DEFAULT_EGGLOG_DIR = "../eqlog/"
+DEFAULT_eqlog_DIR = "../eqlog/"
 FACT_GEN = "./cclyzerpp/build/factgen-exe "
 TIME_OUT = "20s"
 
-parser = argparse.ArgumentParser(description='Benchmarking egglog on the pointer analysis benchmark')
-parser.add_argument("--egglog-path", default=DEFAULT_EGGLOG_DIR)
+parser = argparse.ArgumentParser(description='Benchmarking eqlog on the pointer analysis benchmark')
+parser.add_argument("--eqlog-path", default=DEFAULT_eqlog_DIR)
 parser.add_argument("--build-cclyzerpp", action='store_true')
-parser.add_argument("--build-egglog", action='store_true')
+parser.add_argument("--build-eqlog", action='store_true')
 parser.add_argument("--generate-bitcode-facts", action='store_true')
 parser.add_argument("--generate-benchmark-inputs", action='store_true')
 parser.add_argument("--generate-benchmark-inputs-for", action='store')
@@ -53,10 +53,10 @@ def build_cclyzerpp():
     code |= os.system("cd cclyzerpp && cmake --build build -j $(nproc) --target factgen-exe")
     return code == 0
 
-def build_egglog(args):
-    shout("building egglog")
+def build_eqlog(args):
+    shout("building eqlog")
     code = 0
-    code |= os.system(f"cd {args.egglog_path} && cargo build --release")
+    code |= os.system(f"cd {args.eqlog_path} && cargo build --release")
     return code == 0
 
 BENCHMARK_SETS = [
@@ -110,7 +110,7 @@ def gen_benchmark_inputs():
             gen_benchmark_input_for(benchmark_set, benchmark_name, False)
 
 with open("main.egg") as f:
-    MAIN_EGGLOG_CODE = f.read()
+    MAIN_eqlog_CODE = f.read()
 
 def run_benchmark(args, benchmark_set, benchmark_name):
     print(f"running {benchmark_set}/{benchmark_name}")
@@ -131,26 +131,26 @@ def run_benchmark(args, benchmark_set, benchmark_name):
             souffle_end_time = timer()
             times.append(souffle_end_time - souffle_start_time)
 
-    # egglog without seminaive
-    command = f"{args.egglog_path}/target/release/egg-smol main.egg --naive -F {input_dir} > /dev/null 2> /dev/null"
+    # eqlog without seminaive
+    command = f"{args.eqlog_path}/target/release/eqlog main.egg --naive -F {input_dir} > /dev/null 2> /dev/null"
     print(f"Running {command}")
-    egglog_start_time = timer()
+    eqlog_start_time = timer()
     if os.system(command) != 0 :
-        print("error when run egglog on benchmarks")
+        print("error when run eqlog on benchmarks")
         exit(1)
-    egglog_end_time = timer()
-    times.append(egglog_end_time - egglog_start_time)
+    eqlog_end_time = timer()
+    times.append(eqlog_end_time - eqlog_start_time)
 
-    # egglog with seminaive
-    command = f"{args.egglog_path}/target/release/egg-smol main.egg -F {input_dir} > /dev/null 2> /dev/null"
+    # eqlog with seminaive
+    command = f"{args.eqlog_path}/target/release/eqlog main.egg -F {input_dir} > /dev/null 2> /dev/null"
     print(f"Running {command}")
-    egglog_start_time = timer()
+    eqlog_start_time = timer()
     if os.system(command) != 0 :
-        print("error when run egglog on benchmarks")
+        print("error when run eqlog on benchmarks")
         exit(1)
-    egglog_end_time = timer()
-    times.append(egglog_end_time - egglog_start_time)
-    print(f"souffle takes time {times[0:3]}, egglog takes time {times[3]}")
+    eqlog_end_time = timer()
+    times.append(eqlog_end_time - eqlog_start_time)
+    print(f"souffle takes time {times[0:3]}, eqlog takes time {times[3]}")
     return times
 
 def run_all_benchmarks(args):
@@ -173,8 +173,8 @@ if args.build_cclyzerpp and not build_cclyzerpp():
     print("build cclyzer failed")
     exit(1)
 
-if args.build_egglog and not build_egglog(args):
-    print("build egglog failed")
+if args.build_eqlog and not build_eqlog(args):
+    print("build eqlog failed")
     exit(1)
 
 if args.generate_bitcode_facts:
@@ -213,14 +213,14 @@ else:
         for i in range(len(data)):
             writer.writerow(data[i])
 
-hm1 = statistics.harmonic_mean([_patched / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
-hm2 = statistics.harmonic_mean([_cclyzerpp / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
-hm3 = statistics.harmonic_mean([_egglognaive / _egglog for (_, _naive, _patched, _cclyzerpp, _egglognaive, _egglog) in data])
+hm1 = statistics.harmonic_mean([_patched / _eqlog for (_, _naive, _patched, _cclyzerpp, _eqlognaive, _eqlog) in data])
+hm2 = statistics.harmonic_mean([_cclyzerpp / _eqlog for (_, _naive, _patched, _cclyzerpp, _eqlognaive, _eqlog) in data])
+hm3 = statistics.harmonic_mean([_eqlognaive / _eqlog for (_, _naive, _patched, _cclyzerpp, _eqlognaive, _eqlog) in data])
 total = sum([e for (_, _naive, _buggy, _, _, e) in data]) / sum([s for (_, _naive, _buggy, s, _, _) in data]) if sum([s for (_, _naive, _buggy, s, _, _) in data]) != 0 else float('nan')
-print(f"Harmonic egglog/patched:     {hm1}")
-print(f"Harmonic egglog/cclyzerpp:   {hm2}")
-print(f"Harmonic egglog/egglognaive: {hm3}")
-print(f"Total egglog/souffle: {total}")
+print(f"Harmonic eqlog/patched:     {hm1}")
+print(f"Harmonic eqlog/cclyzerpp:   {hm2}")
+print(f"Harmonic eqlog/eqlognaive: {hm3}")
+print(f"Total eqlog/souffle: {total}")
 
 if args.ignore_less_than_second:
     # ignore naive, since it's most likely to timeout
@@ -233,8 +233,8 @@ run_times = [list(map(lambda x: 0 if x[i] > 19.5 else x[i], data)) for i in rang
 # 0: naive
 # 1: patched
 # 2: cclyzerpp
-# 3: egglog-naive
-# 4: egglog
+# 3: eqlog-naive
+# 4: eqlog
 
 x = np.arange(len(benchmark_full_names))  # the label locations
 width = 0.2  # the width of the bars
